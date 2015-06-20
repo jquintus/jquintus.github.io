@@ -1,1 +1,3 @@
-The source for my personal page.  You can [view](http://jquintus.github.io).
+The source for my[ personal site](http://jquintus.github.io).
+
+One day it may even contain content.
