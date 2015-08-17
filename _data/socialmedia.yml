@@ -1,0 +1,19 @@
+- name: YouTube
+  url: http://www.youtube.com/jquintus
+  class: icon-youtube
+  title: "Videos, eh..."
+
+- name: Twitter
+  url: http://twitter.com/jquintus
+  class: icon-twitter
+  title: "A little birdie told me..."
+
+- name: GitHub
+  url: http://github.com/jquintus
+  class: icon-github
+  title: Code...
+
+- name: Instagram
+  url: http://instagram.com/jquintus
+  class: icon-instagram
+  title: "Pics or it didn't happen..."
