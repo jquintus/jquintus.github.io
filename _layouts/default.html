@@ -1,24 +1,6 @@
 ---
-layout: compress
+theme :
+  name : bootstrap-3
 ---
-<!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include head %}
-</head>
-<body id="top-of-page" class="{{ page.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include navigation %}
-	{% endunless %}
-
-	{% include masthead %}
-
-	{{ content }}
-
-	{% unless page.skip_boilerplate %}
-	{% include footer %}
-	{% endunless %}
-
-	{% include footer_scripts %}
-</body>
-</html>
+{% include JB/setup %}
+{% include themes/bootstrap-3/default.html %}
