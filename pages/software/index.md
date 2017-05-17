@@ -12,10 +12,10 @@ description: ""
 
 ## {{category.name}}
 
-  {% for tool in category.items %}
+{% for tool in category.items %}
 ### [{{tool.name}}]({{tool.link}})
-    {{tool.content}}
+{{tool.content}}
 
-  {% endfor %}
+{% endfor %}
 
 {% endfor %}
