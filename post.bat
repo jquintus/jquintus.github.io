@@ -1,6 +1,19 @@
 @echo off
 REM ============================================================================
 REM Create a new blog post.
+REM
+REM If you don't specify a post name on the command line, you will be prompted
+REM for one.
+REM
+REM USAGE
+REM
+REM     post.bat                           You will be prompted for a post name
+REM                                        wnd a new post ill be created and put 
+REM                                        in your post directory
+REM
+REM     post.bat My Post Name              A new post named [date]_My_Post_Name
+REM                                        will be created and put in your post 
+REM                                        directory
 REM ============================================================================
 
 REM ==========================================
