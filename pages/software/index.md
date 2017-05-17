@@ -10,10 +10,10 @@ description: ""
 
 {% for category in software_by_category %}
 
-## {{category.name}}
+### {{category.name}}
 
 {% for tool in category.items %}
-### [{{tool.name}}]({{tool.link}})
+#### [{{tool.name}}]({{tool.link}})
 {{tool.content}}
 
 {% endfor %}
