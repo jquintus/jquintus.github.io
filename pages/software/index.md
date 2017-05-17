@@ -14,8 +14,8 @@ My list of useful software.
 
   {% for tool in category.items %}
 ### [{{tool.name}}]({{tool.link}})
-{{tool.content}}
+    {{tool.content}}
 
-{% endfor %}
+  {% endfor %}
 
 {% endfor %}
