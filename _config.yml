@@ -133,3 +133,4 @@ JB :
   
 collections:
 - software
+theme: jekyll-theme-tactile
