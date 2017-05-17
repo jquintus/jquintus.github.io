@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: home
 title: Home
 tagline: Supporting tagline
 
 ---
-{% include JB/setup %}
-
-
-This is the home for all of my internet content.
 
 Some useful links
 
