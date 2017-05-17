@@ -3,4 +3,6 @@ title: Josh Quintus
 description: A place for Josh's things
 
 collections:
-    - software
+    software:
+        output: true
+        permalink: /pages/:collection/:name
