@@ -3,7 +3,7 @@ title: "Software"
 description: ""
 ---
 
-My list of useful software.
+## Useful software
 
 {% assign software_by_category = site.software | group_by:"category" %}
 

@@ -2,3 +2,5 @@ theme: jekyll-theme-tactile
 title: Josh Quintus
 description: A place for Josh's things
 
+collections:
+    - software
