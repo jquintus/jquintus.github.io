@@ -6,3 +6,5 @@ category: Visual Studio Extensions
 ---
 
 CodeMaid is an open source Visual Studio extension to cleanup, dig through and simplify our C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
+
+It's like a free (much) less annoying version of ReSharper.
