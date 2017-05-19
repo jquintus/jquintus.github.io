@@ -2,7 +2,7 @@
 name: conEmu
 title: conEmu
 link: https://github.com/Maximus5/ConEmu
-category: Utilities
+category: Console Utilities
 ---
 
 ConEmu is not a felonious Australian bird, it's a 

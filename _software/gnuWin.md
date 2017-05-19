@@ -1,7 +1,7 @@
 ---
 name: gnuWin
 link: http://gnuwin32.sourceforge.net/
-category:  Utilities
+category:  Console Utilities
 
 ---
 
