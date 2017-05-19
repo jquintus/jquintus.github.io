@@ -1,22 +1,6 @@
 Topics:
-7zip
 AndroidStudio
-Autohotkey
-Calibre
-ChocolateyGUI
-Clink.install
-Cmder
-CodeMaid http://visualstudiogallery.msdn.microsoft.com/76293c4d-8c16-4f4a-aee6-21f83a571496/file/9356/28/CodeMaid_v0.7.4.vsix
-Dependencywalker
-Ditto clipboard tool
-Dropbox
-Fiddler
-Filezilla
-Firefox
-Genymotion
 git
-GnuWin
-GoogleChrome
 Greenshot # Keep this before Dropbox to make sure we get the print screen hooks registered
 Keepass
 KickAssVim
@@ -40,11 +24,10 @@ Trillian
 Truecrypt
 VSCommandsForVisualStudio http://visualstudiogallery.msdn.microsoft.com/c6d1c265-7007-405c-a68b-5606af238ece/file/106247/18/SquaredInfinity.VSCommands.VS12.vsix
 Visual Studio
-Vlc
+Visual Studio Code
+VLC
 Vsspellchecker http://visualstudiogallery.msdn.microsoft.com/a23de100-31a1-405c-b4b7-d6be40c3dfff/file/104494/5/VSSpellCheckerPackage.vsix
 Which
 WinDirStat
-Windirstat
-WindowsLiveWriter
 Windowslivewriter
 Winmerge
