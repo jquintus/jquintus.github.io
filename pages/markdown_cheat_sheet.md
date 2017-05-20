@@ -3,6 +3,8 @@ title: "Markdown Cheat sheet"
 description: "Sample markdown and what it renders as"
 ---
 
+[Markdown information on GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## External Links
 
 ### Youtube Links

@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Josh Quintus
 description: A place for Josh's things
+show_fork: true
 
 collections:
     software:
