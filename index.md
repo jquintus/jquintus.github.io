@@ -1,5 +1,5 @@
 ---
-title: A place for my's things
+title: A place for my things
 show_fork: true
 ---
 
