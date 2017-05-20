@@ -1,6 +1,5 @@
 ---
 title: "Software"
-layout: defaults2
 ---
 
 ## Useful software

@@ -1,7 +1,6 @@
 ---
-title: 
-description: A place for Josh's things
-layout: defaults2
+title: A place for my's things
+show_fork: true
 ---
 
 ## Some useful links
