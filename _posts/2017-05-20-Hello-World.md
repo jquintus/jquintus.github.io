@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Hello World
-date:   2017-5-20 16:16:01 -0600
 categories: jekyll update
 ---
 
