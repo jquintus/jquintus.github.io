@@ -1,7 +1,13 @@
 ---
-title: A place for my things
 show_fork: true
 ---
+
+## Recent posts
+
+{% for post in site.posts %}
+* [{{ post.title}}]({{ post.url }})
+{% endfor %}
+
 
 ## Some useful links
 

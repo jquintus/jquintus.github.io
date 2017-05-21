@@ -19,11 +19,11 @@ REM ============================================================================
 REM ==========================================
 REM Get the post name portion of the file name
 REM ==========================================
-if %1.==. (
+if "%*".=="." (
     echo Name your post:
     SET /p POST_NAME=
 ) else (
-    SET POST_NAME=%1
+    SET POST_NAME=%*
 )
 
 REM ==========================================
@@ -32,16 +32,22 @@ REM ==========================================
 SET DATE_dd=%date:~7,2%
 SET DATE_mm=%date:~4,2%
 SET DATE_yyyy=%date:~10,4%
-SET DATE_STAMP=%DATE_yyyy%_%DATE_mm%_%DATE_dd%
+SET DATE_STAMP=%DATE_yyyy%-%DATE_mm%-%DATE_dd%
 
 REM ==========================================
 REM Concat and normalize the file name
 REM ==========================================
-SET FILE_NAME=%DATE_STAMP%_%POST_NAME%
-SET FILE_NAME=%FILE_NAME: =_%
+SET FILE_NAME=%DATE_STAMP%-%POST_NAME%
+SET FILE_NAME=%FILE_NAME: =-%
 
 REM ==========================================
-REM Create the post file
+REM Create the post file if it doesn't exist
+REM then open it.
 REM ==========================================
-ECHO creating post %FILE_NAME%
-COPY _posts\post.template _posts\%FILE_NAME%
+IF NOT EXIST "_posts\%FILE_NAME%.md" (
+    ECHO creating post %FILE_NAME%...
+    COPY _posts\post.template _posts\%FILE_NAME%.md
+)
+
+ECHO opening post %FILE_NAME%
+start _posts\%FILE_NAME%.md

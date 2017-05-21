@@ -1,0 +1,18 @@
+{% capture header_tagline %}
+
+    <h2 id="project_tagline"> {{ page.title }} </h2>
+    {% if page.date %} <p style="color:white;"> posted {{ page.date }} </p> {% endif %} 
+
+{% endcapture %}
+
+{% include header.html tagline=header_tagline%}
+<!-- Based off of the slate theme https://github.com/pages-themes/slate/blob/master/_layouts/default.html -->
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    </div>
+
+{% include footer.html %}

@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-description: A place for Josh's things
+description: {{site.github.project_tagline}}
 title: Quintussential
 show_fork: true
 
