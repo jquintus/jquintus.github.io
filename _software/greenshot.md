@@ -2,7 +2,7 @@
 name: Greenshot
 link: http://getgreenshot.org/
 category: Productivity
-
+choco: greenshot
 ---
 
 Simple and free screenshot tool.  Binds to `PrtScn` so you don't even have to

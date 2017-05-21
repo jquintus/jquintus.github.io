@@ -2,7 +2,7 @@
 name: Clink
 link: http://mridgers.github.io/clink/
 category:  Console Utilities
-
+choco: clink
 ---
 
 You ever wish CMD in windows didn't suck so hard? So did Martin Ridgers,

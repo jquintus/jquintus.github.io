@@ -2,7 +2,7 @@
 name: Filezilla
 link: https://filezilla-project.org/
 category:  Utilities
-
+choco: filezilla
 ---
 
 A cross platform FTP server and client.  Easy to setup.  Easy to use.

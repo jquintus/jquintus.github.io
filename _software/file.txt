@@ -1,11 +1,6 @@
 Topics:
 AndroidStudio
 git
-Greenshot # Keep this before Dropbox to make sure we get the print screen hooks registered
-Keepass
-KickAssVim
-Markdownpad2
-MicrosoftSecurityEssentials
 Mongodb
 MPC-HC
 NunitTestAdapter http://visualstudiogallery.msdn.microsoft.com/6ab922d0-21c0-4f06-ab5f-4ecd1fe7175d/file/66177/15/NUnitVisualStudioTestAdapter-1.2.vsix

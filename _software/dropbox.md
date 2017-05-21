@@ -2,7 +2,7 @@
 name: Dropbox
 link: https://www.dropbox.com/
 category:  Utilities
-
+choco: dropbox
 ---
 
 Seamlessly sync files across all your devices.  With OneDrive being built into

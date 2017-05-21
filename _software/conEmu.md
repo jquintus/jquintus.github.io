@@ -1,8 +1,8 @@
 ---
 name: conEmu
-title: conEmu
 link: https://github.com/Maximus5/ConEmu
 category: Console Utilities
+choco: conemu
 ---
 
 ConEmu is not a felonious Australian bird, it's a console emulator.  It's like

@@ -2,7 +2,7 @@
 name: cmder
 link: https://github.com/cmderdev/cmder
 category:  Console Utilities
-
+choco: cmder.portable
 ---
 
 The best console for Windows.  Period.  cmder gives you proper mouse support,

@@ -2,7 +2,7 @@
 name: ditto
 link: http://ditto-cp.sourceforge.net/
 category:  Utilities
-
+choco: ditto
 ---
 
 Ditto starts up with Windows and quietly keeps track of your clipboard.  I tend
