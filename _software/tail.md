@@ -5,7 +5,6 @@ category:  Console Utilities
 
 ---
 
-
 The classic Unix utility, tail will print out the last lines of a text file to standard out.
 I've found getting a good version of tail on windows is much harder than I'd expect.  At one point I finally found a version I liked, but I have no idea where it came from.  I just jammed it into my OneDrive folder and moved on with my life.
 
