@@ -8,7 +8,6 @@ show_fork: true
 * [{{ post.title}}]({{ post.url }})
 {% endfor %}
 
-
 ## Some useful links
 
 * [The Software List](pages/software)
