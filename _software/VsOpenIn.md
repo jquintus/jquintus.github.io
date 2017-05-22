@@ -1,6 +1,13 @@
 ---
-name: VS Open In
-link: https://github.com/jquintus/VsOpenIn
+name: VSOpenIn
+link: https://marketplace.visualstudio.com/items?itemName=jquintus.VsOpenIn
 category: Visual Studio Extensions
+choco: VSOpenIn
 ---
-Visual Studio tool to open the current document in an external editor
+
+A simple yet wonderful Visual Studio plugin to open the current file in an editor
+of your choice.  While I really enjoy Visual Studio and intellisense, sometimes
+I just need to do some quick edits in vim.  This lets me switch back and forth
+with ease.
+
+Full disclosure: I wrote this one.

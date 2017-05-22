@@ -7,3 +7,5 @@ choco: paint.net
 
 Freer than PhotoShop and easier to use than GIMP, Paint.NET hits that sweet spot
 between features and complexity.
+
+![](../assets/software/paintNet.png)

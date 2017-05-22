@@ -14,3 +14,5 @@ render.
 
 Despite the issues, I've gladly shelled out money and use the licensed version
 of this app.
+
+![](../assets/software/MarkdownPad.png)
