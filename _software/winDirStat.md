@@ -11,4 +11,4 @@ what the problem is.  Typically it's that you should have sprung for the larger
 hard drive in the first place, because there's no way you'll want to delete all
 of those sweet vacation pics.
 
-![](../assets/software/WinDirStat.png)
+![WinDirStat](/assets/software/WinDirStat.png)

@@ -14,4 +14,4 @@ But I digress.
 Chocolatey GUI gives you a UI on top of Chocolatey, showing you what you have
 installed and letting you search for more programs.
 
-![](../assets/software/chocolateyGUIpng)
+![Chocolatey GUI](/assets/software/chocolateyGUI.png)
