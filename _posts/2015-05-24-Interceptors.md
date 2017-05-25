@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [.net, code, ninject, c#, dependency injection, IoC, programming]
+tags: [.net, code, ninject, c#, dependency injection, IoC, programming]
 source: 2017-05-24-Interceptors
 ---
 
