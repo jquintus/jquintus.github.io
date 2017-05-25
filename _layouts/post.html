@@ -1,7 +1,7 @@
 {% capture header_tagline %}
 
     <h2 id="project_tagline"> {{ page.title }} </h2>
-    {% if page.date %} <p style="color:white;"> posted {{ page.date }} </p> {% endif %} 
+    {% if page.date %} <p style="color:white;"> posted {{ page.date | date_to_long_string }} </p> {% endif %} 
 
 {% endcapture %}
 

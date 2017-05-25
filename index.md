@@ -4,8 +4,8 @@ show_fork: true
 
 ## Recent posts
 
-{% for post in site.posts %}
-* [{{ post.title}}]({{ post.url }})
+{% for post in site.posts reversed %}
+* [{{ post.title }}]({{ post.url }}) posted on {{ post.date | date_to_long_string }}
 {% endfor %}
 
 ## Some useful links
