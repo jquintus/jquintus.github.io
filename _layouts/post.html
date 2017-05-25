@@ -12,6 +12,10 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
+
+        {% if page.source %}
+            Full source for this post can be found <a href="{{site.github.repository_url}}/tree/master/_code/{{page.source}}">on GitHub</a>
+        {% endif %}
       </section>
     </div>
 
