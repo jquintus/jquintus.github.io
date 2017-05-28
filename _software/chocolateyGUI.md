@@ -2,7 +2,7 @@
 name: Chocolatey GUI
 link: https://github.com/chocolatey/ChocolateyGUI
 category:  Utilities
-
+image: chocolateyGUI.png
 ---
 
 [Chocolatey](http://chocolatey.org) is like apt-get for windows.
@@ -13,5 +13,3 @@ And to make it better, check out [Boxstarter](http://boxstarter.org/).
 But I digress.
 Chocolatey GUI gives you a UI on top of Chocolatey, showing you what you have
 installed and letting you search for more programs.
-
-![Chocolatey GUI](/assets/software/chocolateyGUI.png)

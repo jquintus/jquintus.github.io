@@ -3,6 +3,7 @@ name: Markdown Pad 2
 link: http://markdownpad.com/
 category: Productivity
 choco: markdownpad2
+image: MarkdownPad.png
 ---
 
 One of the best markdown editors I've used... when it works.  After
@@ -14,5 +15,3 @@ render.
 
 Despite the issues, I've gladly shelled out money and use the licensed version
 of this app.
-
-![Markdown Pad 2](/assets/software/MarkdownPad.png)

@@ -22,6 +22,10 @@ title: "Software"
 #### [{{tool.name}}]({{tool.link}})
 {{tool.content}}
 
+{% if tool.image %}
+![{{ tool.name }}](/assets/software/{{tool.image}})
+{% endif %}
+
 {% endfor %}
 
 {% endfor %}
