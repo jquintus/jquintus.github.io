@@ -2,10 +2,10 @@
 # Blog Settings
 #
 author: Josh Quintus
-description: {{site.github.project_tagline}}
+description: Principal Software Engineer @ DotAlign
 url: https://quintussential.com
 title: Quintussential
-subtitle: ...subtitle
+subtitle: Principal Software Engineer @ DotAlign
 # Look up gravatar:  https://en.gravatar.com/site/check/
 gravatar_url: https://2.gravatar.com/avatar/4264f2de12b90a2b1cf66ba979e1505f
 subscribe_rss: atom.xml
@@ -40,7 +40,7 @@ paginate: 20
 paginate_path: "page/:num"
 category_dir: categories
 
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag

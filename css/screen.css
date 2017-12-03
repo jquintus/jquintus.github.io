@@ -85,10 +85,17 @@ a {
     transition: color 0.3s;
 }
 #header a:hover { color: #258fb8 }
+
+#header img {
+    width: 160px;
+    display: block;
+    margin: auto
+}
+
 #header h1 {
     font-family: "Open Sans";
     font-weight: 400;
-    font-size: 4em;
+    font-size: 3em;
     line-height: 0.9;
     float: left;
     width: 100%;
@@ -108,7 +115,13 @@ a {
 }
 #header h2 {
     font-family: "Open Sans";
-    font-style: italic;
+    color: #afafaf;
+    font-weight: 400;
+    margin-top: 15px;
+}
+#header p {
+    font-family: "Open Sans";
+    color: #afafaf;
     font-weight: 400;
 }
 #main-nav {
