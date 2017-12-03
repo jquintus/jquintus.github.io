@@ -51,7 +51,7 @@ To get started you first need to be using [Ninject](http://www.ninject.org/).  I
 
 Another thing to be aware of is that there are two options, either use [LinFu](https://github.com/philiplaureano/LinFu) or [CastleCore](http://www.castleproject.org/) for the proxy generation.  As far as I can tell, this decision doesn't really impact much.  Just pick whichever framework you like, or one at random.  I already use CastleCore in other projects (the [Ninject factory extension](https://github.com/ninject/Ninject.Extensions.Factory) depends on it), so I'm going with that one. 
 
-```
+```posh
 Install-Package Ninject.Extensions.Interception.DynamicProxy
 ```
 
@@ -246,7 +246,7 @@ You'll also see that the second call to `SomeMethod` does indeed fail with an `O
 
 Now that worked all well and good.  But what if we resolved just a class instead of an interface?  Well that's where this starts to break down as we'll see in the code below.
 
-```
+```csharp
 private static void TestResolvingConcreteClass()
 {
     Console.WriteLine("Testing resolving a Concrete Class from the Ninject Kernel");
