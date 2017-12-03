@@ -1,9 +1,50 @@
-theme: jekyll-theme-slate
+#
+# Blog Settings
+#
+author: Josh Quintus
 description: {{site.github.project_tagline}}
+url: https://quintussential.com
 title: Quintussential
-show_fork: true
+subtitle: ...subtitle
+# Look up gravatar:  https://en.gravatar.com/site/check/
+gravatar_url: https://2.gravatar.com/avatar/4264f2de12b90a2b1cf66ba979e1505f
+subscribe_rss: http://feeds.quintussential.com/quintussential
 
 collections:
     software:
         output: true
         permalink: /pages/:collection/:name
+
+# Github repositories
+github_user: jquintus
+github_repo_url: https://github.com/jquintus/jquintus.github.io
+
+# Twitter
+twitter_user: jquintus
+twitter:
+  username: jquintus
+twitter_tweet_button: true
+
+# Disqus Comments
+disqus_short_name: jquintus
+disqus_show_comment_count: true
+
+# Google Analytics
+#google_analytics_tracking_id: UA-177588-1
+
+#
+# Jekyll Settings
+#
+permalink: /archive/:year/:month/:day/:title/
+paginate: 20
+paginate_path: "page/:num"
+category_dir: categories
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+feed:
+  path: atom.xml

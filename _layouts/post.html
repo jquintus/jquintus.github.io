@@ -1,22 +1,35 @@
-{% capture header_tagline %}
+---
+layout: default
+single: true
+---
 
-    <h2 id="project_tagline"> {{ page.title }} </h2>
-    {% if page.date %} <p style="color:white;"> posted {{ page.date | date_to_long_string }} </p> {% endif %} 
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">{% include article.html %}</article>
 
-{% endcapture %}
+<div data-type="ad" data-publisher="lqm.youvebeenhacked.site" data-zone="ron" data-format="728x90"></div>
 
-{% include header.html tagline=header_tagline%}
-<!-- Based off of the slate theme https://github.com/pages-themes/slate/blob/master/_layouts/default.html -->
+{% unless page.sharing == false %}
+	{% include post/sharing.html %}
+{% endunless %}
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
+<div id="page-navigation"> 
+        <div class="previous"> 
+        {% if page.previous.url %} 
+                <a href="{{page.previous.url}}" title="Previous Post: 
+{{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+        {% endif %} 
+        </div>
 
-        {% if page.source %}
-            Full source for this post can be found <a href="{{site.github.repository_url}}/tree/master/_code/{{page.source}}">on GitHub</a>
-        {% endif %}
-      </section>
-    </div>
+        <div class="next"> 
+        {% if page.next.url %} 
+               <a href="{{page.next.url}}" title="next Post: 
+{{page.next.title}}">{{page.next.title}} &raquo; </a> 
+        {% endif %} 
+        </div>
+</div> 
 
-{% include footer.html %}
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+</section>
+{% endif %}
