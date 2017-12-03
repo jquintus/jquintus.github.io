@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [.net, code, ninject, c#, dependency injection, IoC, programming]
 source: 2017-05-24-Interceptors
 disqus_identifier: 2
 comments: true
+categories: [.net code ninject c# dependency-injection IoC]
 ---
 
 * [Background](#background)
