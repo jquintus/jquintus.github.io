@@ -1,6 +1,16 @@
+{% assign year = 'now' | date: "%Y" %}
+{% assign filename = 'now' | date: "%Y-%m-%d" %}
+{% assign newUrl = "https://github.com/jquintus/jquintus.github.io/new/master/_posts/" 
+         | append: year 
+         | append: "/blank/?filename="
+         | append: filename 
+         | append: "-name.md" %}
+
 <ul class="main-navigation">
   <li><a href="/about/">about</a></li>
   <li><a href="/archive">archives</a></li>
   <li><a href="/categories">categories</a></li>
   <li><a href="/software">software</a></li>
+  <li><a href="{{ newUrl }}">new post</a> </li>
 </ul>
+
