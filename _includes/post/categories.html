@@ -1,1 +1,7 @@
-{{ page.categories | join: ', ' }}{{ post.categories | join: ', ' }}
+{% for category in post.categories %}
+  {% unless forloop.last %}
+  <a href="/categories#{{ category | slugify }}">{{ category }},</a>
+  {% else %}
+  <a href="/categories#{{ category | slugify }}">{{ category }}</a>
+  {% endunless %}
+{% endfor %}
