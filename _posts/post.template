@@ -1,5 +1,6 @@
 ---
 layout: post
-categories: 
+disqus_identifier: #
+comments: true
+categories: []
 ---
-
