@@ -1,0 +1,40 @@
+---
+layout: page
+title: Blog Categories
+---
+
+{% assign sorted_categories = site.categories | sort %}
+
+<div class="archives">
+  <div class="small">
+  {% for tag in sorted_categories %}
+    {% unless forloop.first %}
+      |
+    {% endunless %}
+    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+  {% endfor %}
+  </div>
+
+  {% for tag in sorted_categories %}
+
+    <h2 class="year" id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul>
+    {% for post in tag[1] %}
+      <li>
+        <h3 class="title"><a href="{{ post.url }}">{{post.title}}</a></h3>
+        <div class="meta">
+          <span class="date"><time datetime="{{ date | datetime | date_to_xmlschema }}" itemprop="datePublished">{{ date | date: "%b %e" }}</time></span>
+          {% if post.categories.length > 0 %}
+            <span class="tags">{% include post/categories.html %}</span>
+          {% endif %}
+          {% if site.disqus_short_name and post.comments == true and site.disqus_show_comment_count == true %}
+          {% include post/comments_link.html %}
+          {% endif %}
+          <span class="edit">{% include post/edit.html %}</span>
+        </div>
+      </li>
+
+    {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

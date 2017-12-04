@@ -3,7 +3,13 @@ layout: post
 source: 2017-05-24-Interceptors
 disqus_identifier: 2
 comments: true
-categories: [.net code ninject c# dependency-injection IoC]
+categories: 
+  .net 
+  code 
+  ninject 
+  c# 
+  dependency injection 
+  IoC
 ---
 
 * [Background](#background)
