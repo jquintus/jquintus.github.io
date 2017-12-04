@@ -1,6 +1,7 @@
 {% assign year = 'now' | date: "%Y" %}
 {% assign filename = 'now' | date: "%Y-%m-%d" %}
-{% assign newUrl = "https://github.com/jquintus/jquintus.github.io/new/master/_posts/" 
+{% assign newUrl = site.github_repo_url
+         | append: "/new/master/_posts/" 
          | append: year 
          | append: "/blank/?filename="
          | append: filename 
