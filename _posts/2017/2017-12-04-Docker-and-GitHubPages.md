@@ -35,8 +35,8 @@ Windows tool I was comfortable with (ironically, [Vim](http://vim.org)), save it
 and my site would be regenerated.
 
 All told, I was up and running in about 15 minutes, including download time and
-writing two simple batch files to [start](\StartDocker.bat) and
-[stop](\StopDocker.bat) the containers.
+writing two simple batch files to [start](https://github.com/jquintus/jquintus.github.io/blob/master/StartDocker.bat) and
+[stop](https://github.com/jquintus/jquintus.github.io/blob/master/StopDocker.bat) the containers.
 
 ### StartDocker.bat
 
