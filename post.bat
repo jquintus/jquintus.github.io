@@ -1,4 +1,4 @@
-@echo off
+@ECHO OFF
 REM ============================================================================
 REM Create a new blog post.
 REM
@@ -37,7 +37,7 @@ SET DATE_STAMP=%DATE_yyyy%-%DATE_mm%-%DATE_dd%
 REM ==========================================
 REM Concat and normalize the file name
 REM ==========================================
-SET FILE_NAME=%DATE_STAMP%-%POST_NAME%
+SET FILE_NAME=%DATE_yyyy%\%DATE_STAMP%-%POST_NAME%
 SET FILE_NAME=%FILE_NAME: =-%
 
 REM ==========================================
