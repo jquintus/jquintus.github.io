@@ -45,6 +45,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jemoji 
+  - jekyll-mentions
 
 feed:
   path: atom.xml
