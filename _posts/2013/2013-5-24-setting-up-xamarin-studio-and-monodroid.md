@@ -2,7 +2,7 @@
 layout: post
 disqus_identifier: #7
 comments: true
-categories: [Android, C#, Xamarin, Hyper-V]
+categories: [Android, c#, Xamarin, Hyper-V]
 ---
 
 I’ve spent the past few hours working through a fresh install of Xamarin Studio.  While most of it is really easy, there are some major gotchas.  The best thing about the process is that it is one installer for everything including dependencies.  The download page misleadingly asks you what level license you want when.  Ignore that.  It has nothing to do with the installer or the license you actually wind up using.  If you’re just trying it out there’s a 30 day trial license that gets you access to all of the features.
