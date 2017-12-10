@@ -2,7 +2,7 @@
 layout: post
 disqus_identifier: #
 comments: true
-categories: []
+categories: [mermaid, tools]
 disqus_identifier: 5
 ---
 
