@@ -19,10 +19,12 @@ REM ============================================================================
 REM ==========================================
 REM Get the post name portion of the file name
 REM ==========================================
-if "%*".=="." (
-    echo Name your post:
+
+if "%*."=="." (
+    ECHO Name your post:
     SET /p POST_NAME=
 ) else (
+    ECHO Creating post named %*
     SET POST_NAME=%*
 )
 
