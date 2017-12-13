@@ -14,7 +14,7 @@ A specified communication resource (port) is already in use by another applicati
 
 Then the debugger would fail to start.  After trying all of the obvious options and restarting everything in sight, I stumbled across a bit of advice which worked for me.  Right click on your project and select Deploy.  This will copy all necessary code to the emulator.  After that you are free to hit F5 like normal.
 
-![](/images/posts/2012-12-4-a-specified-communication-resource/image.png)
+![](/images/posts/2012/2012-12-4-a-specified-communication-resource/image.png)
 
 
 _this post was originally on the [MasterDevs Blog](http://blog.masterdevs.com/a-specified-communication-resource-port-is-already-in-use-by-another-application/)_
