@@ -10,11 +10,11 @@ I just had the need to style the search box in the actionbar of my Xamarin Andro
 
 Here’s the search box before styling:
 
-![](/images/posts/2014/C:\code\jquintus.github.io\images\posts\2014\2014-9-22-ready-set-action/image_thumb7.png)
+![](/images/posts/2014/2014-9-22-ready-set-action/image_thumb7.png)
 
 Here’s the look I was going for:
 
-![](/images/posts/2014/C:\code\jquintus.github.io\images\posts\2014\2014-9-22-ready-set-action/image_thumb8.png)
+![](/images/posts/2014/2014-9-22-ready-set-action/image_thumb8.png)
 
 I was using [ActionBarSherlock](http://actionbarsherlock.com/) to create the actionbar.  After searching for a while, I came to the conclusion that the only way to customize the actionbar using the Android style system was to switch to [AppCompat.](https://developer.android.com/tools/support-library/features.html)  So now the steps seem pretty clear and easy:
 

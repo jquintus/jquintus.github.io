@@ -11,7 +11,7 @@ Full source code for this article can be downloaded on GitHub:  [HeaderedGridVie
 For the easy import feature of [Yarly](http://yarly.co/), I needed to create a view that would easily allow a user to select an existing photo to import into the app or to take new photo. A grid view of photos from the camera roll but with the first item as a button that would load the camera would serve nicely for this use case. See the screen shot below of an early version of the UI:
 
 Yarly Screen Shots 2014-04-20_194747_242000
-![](/posts/2014/headered-grid-view-in-mvvmcross-now-with-bindings/YarlyScreenShots20_thumb.jpg)
+![](/images/posts/2014/2014-04-21-headered-grid-view-in-mvvmcross-now-with-bindings/YarlyScreenShots20_thumb.jpg)
 
 This reminded me of the [AddHeaderView](https://developer.xamarin.com/api/member/Android.Widget.ListView.AddHeaderView/p/Android.Views.View/) method available on [ListView](https://developer.xamarin.com/api/type/Android.Widget.ListView/). With that as a guide, I decided to add similar functionality to the [GridView](https://developer.xamarin.com/api/type/Android.Widget.GridView/).  Since I’m using [MvvmCross](https://github.com/MvvmCross/MvvmCross), I also want to make sure that I can use bindings in the header control. While I’m at it, having to explicitly call AddHeaderView in my activity code is useful, but I’d much rather to be able to do this in markup. 
 
@@ -141,7 +141,7 @@ The [gridheader](https://github.com/jquintus/spikes/blob/master/XamarinSpikes/He
 
 Firing up the sample solution and we should see something similar to:
 
-![](/posts/2014/headered-grid-view-in-mvvmcross-now-with-bindings/YarlyScreenShots21_thumb.jpg)
+![](/images/posts/2014/2014-04-21-headered-grid-view-in-mvvmcross-now-with-bindings/YarlyScreenShots21_thumb.jpg)
 
 ## Future Improvements
 
