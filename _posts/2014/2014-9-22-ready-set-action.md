@@ -2,7 +2,7 @@
 layout: post
 disqus_identifier: #12
 comments: true
-categories: [ .NET, Android, C#, MvvmCross, Xamarin and tagged .NET, ActionbarSherlock, Android, AppCompat, C#, MvvmCross, Xamarin ]
+categories: [ .NET, Android, C#, MvvmCross, Xamarin, ActionbarSherlock, AppCompat, MvvmCross ]
 ---
 
 
