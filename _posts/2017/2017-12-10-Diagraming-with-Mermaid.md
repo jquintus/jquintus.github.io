@@ -69,7 +69,7 @@ There are various tools that you can use to edit and save diagrams as images
     ```
 1. Open the image found at sequence.mmd.png
 
-![sequence.mmd.png](/images/posts/2017-12-10-Diagraming-with-Mermaid/sequence_cli.png)
+![sequence.mmd.png](/images/posts/2017/2017-12-10-Diagraming-with-Mermaid/sequence_cli.png)
 
 ### Visual Studio Code
 
@@ -106,7 +106,7 @@ There are various tools that you can use to edit and save diagrams as images
         * `> PMD` (just the initials)
 1. Click on any of the text in the left pane that is part of the diagram definition
 
-![Sample Diagram in Visual Studio](/images/posts/2017-12-10-Diagraming-with-Mermaid/sequence_vs.png)
+![Sample Diagram in Visual Studio](/images/posts/2017/2017-12-10-Diagraming-with-Mermaid/sequence_vs.png)
 
 ### Atom
 
@@ -132,6 +132,6 @@ There are various tools that you can use to edit and save diagrams as images
 1. Press the `Packages -> Mermaid Preview -> Toggle Preview` button
 1. To export as image right click the diagram and select `Save as PNG`
 
-![Sample Diagram in Atom](/images/posts/2017-12-10-Diagraming-with-Mermaid/sequence_atom.png)
+![Sample Diagram in Atom](/images/posts/2017/2017-12-10-Diagraming-with-Mermaid/sequence_atom.png)
 
 

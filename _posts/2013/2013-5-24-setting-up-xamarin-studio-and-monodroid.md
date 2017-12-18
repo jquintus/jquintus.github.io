@@ -19,11 +19,11 @@ First thing I did was fire up Xamarin Studio (their IDE) and create a new Androi
 
 The solution here was fairly simple.  Go to the Android SDK Manager (it should be in your start menu/screen) and install all of the updates.  Just click the install button on the bottom right.
 
-![](/images/posts/2013-5-24-setting-up-xamarin-studio-and-monodroid/android_sdk_manager.png)
+![](/images/posts/2013/2013-5-24-setting-up-xamarin-studio-and-monodroid/android_sdk_manager.png)
 
 Once that’s done you can go back and run your app.  It will prompt you to launch an emulator and deploy the app automatically.  One thing to note here is that the emulator can take a while (minutes) to start up.  Even worse, once it is fully started it stays on the ANDROID loading screen waiting for you to hit a button.  There’s no way for you to know it’s ready for you unless you go back and poke it every now and then.
 
-![](/images/posts/2013-5-24-setting-up-xamarin-studio-and-monodroid/image1.png)
+![](/images/posts/2013/2013-5-24-setting-up-xamarin-studio-and-monodroid/image1.png)
 
 ## Debugging in Visual Studio
 
@@ -37,15 +37,15 @@ Additionally, check Build->Configuration Manager to ensure this project is set t
 
 The error message is right, the application wasn’t installed on the “target device” (the emulator).  If you created the project in Xamarin Studio you need to explicitly tell VS that you want to deploy the app the phone before debugging.  Go to the Configuration Manager and ensure that Deploy is checked off for your project.
 
-![](/images/posts/2013-5-24-setting-up-xamarin-studio-and-monodroid/image2.png)
+![](/images/posts/2013/2013-5-24-setting-up-xamarin-studio-and-monodroid/image2.png)
 
-![](/images/posts/2013-5-24-setting-up-xamarin-studio-and-monodroid/image3.png)
+![](/images/posts/2013/2013-5-24-setting-up-xamarin-studio-and-monodroid/image3.png)
 
 If you created the project in Visual Studio, you shouldn’t have this problem.  it seems to only happen when you create the project in Xamarin Studios first.
 
 Now that the application is deployed to the phone there is still one more hurdle before you can debug from Visual Studio.  Whenever I tried to attach to a running virtual machine the debugger would deploy the app and chug along for a little while.  Eventually it would quietly die and disconnect.  The application wouldn’t load in either the debugger or emulator.  I didn’t see anything in the log file that helped point to the problem.   Eventually I got lucky and determined that I could connect if the virtual machine was running an Intel Atom (x86) processor then everything worked.  My assumption is that Visual Studio doesn’t know how to compile for ARM.  If you look at the project properties for an Android app in Visual Studio, there is only x86 and x64:
 
-![](/images/posts/2013-5-24-setting-up-xamarin-studio-and-monodroid/image4.png)
+![](/images/posts/2013/2013-5-24-setting-up-xamarin-studio-and-monodroid/image4.png)
 
 Xamarin’s site has some pretty easy to follow instructions on how to [configure an x86 emulator](https://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/debug-on-emulator/android-sdk-emulator/).  The main task is to install Intel’s HAXM software.  What they skip over is that you can’t install this if you have Microsoft Hyper-V installed.  Hyper-V is Microsoft’s hardware virtualization stack that is used by the Windows Phone Emulator.  Ben Armstrong has some really good instructions on how to [create a profile in Windows that will disable Hyper-V at startup](http://blogs.msdn.com/b/virtual_pc_guy/archive/2008/04/14/creating-a-no-hypervisor-boot-entry.aspx).  They boil down to two commands to run on the command line and a restart:
 

@@ -7,7 +7,7 @@ categories: []
 
 CoolWhip is a NuGet package aimed at making and deploying other NuGet packages easier. With CoolWhip, creating a Release in GitHub automatically pushes that release to NuGet.
 
-![](/images/posts/2015-06-30-introducing-coolwhip/GitGet.png)
+![](/images/posts/2015/2015-06-30-introducing-coolwhip/GitGet.png)
 
 Once you’ve installed CoolWhip into your project it will create a [nuspec](https://docs.nuget.org/create/nuspec-reference) file and [AppVeyor](http://www.appveyor.com/) configuration file.  These will work together to package your project and automatically upload it to [NuGet.org](http://blog.masterdevs.com/introducing-coolwhip/NuGet.org).
 

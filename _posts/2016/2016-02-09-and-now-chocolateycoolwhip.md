@@ -8,7 +8,7 @@ categories: []
 
 Following up on [CoolWhip](/archive/2015/06/30/introducing-coolwhip), ChocolateyCoolWhip is a nuget package that makes creating, packaging, and deploying your code through [Chocolatey.org](https://chocolatey.org/) simple.  Like CoolWhip, all you need to do to publish a new release is [create release in GitHub](https://help.github.com/articles/creating-releases/).
 
-![](/images/posts/2016-02-09-and-now-chocolateycoolwhip/logo.png)
+![](/images/posts/2016/2016-02-09-and-now-chocolateycoolwhip/logo.png)
 
 ## Chocolatey?
 
