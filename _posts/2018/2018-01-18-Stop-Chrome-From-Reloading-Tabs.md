@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stop Chrome from Reloading Tabs
-disqus_identifier: 1
+disqus_identifier: 27
 comments: true
 categories: 
   chrome 

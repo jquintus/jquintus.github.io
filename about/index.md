@@ -3,7 +3,6 @@ layout: page
 title: "About Josh"
 date: 2017-5-21 -0800
 comments: false
-disqus_identifier: 10811
 categories: [personal]
 sharing: false
 ---
