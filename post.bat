@@ -48,7 +48,7 @@ REM then open it.
 REM ==========================================
 IF NOT EXIST "_posts\%FILE_NAME%.md" (
     ECHO creating post %FILE_NAME%...
-    COPY _posts\post.template _posts\%FILE_NAME%.md
+    COPY _posts\template.md _posts\%FILE_NAME%.md
 )
 
 ECHO opening post %FILE_NAME%
