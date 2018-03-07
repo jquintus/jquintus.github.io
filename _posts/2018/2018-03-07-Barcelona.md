@@ -10,7 +10,7 @@ categories:
   
 ---
 
-Notes from my March 6 - 11 2017
+Notes from my March 6 - 11 2017 trip to Barcelona with Ksenia.
 
 ## General Notes
 
