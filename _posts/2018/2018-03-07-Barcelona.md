@@ -130,6 +130,8 @@ Another classic is **cava**, a Spanish sparkling white wine.
     
 ## Do
 
+Barcelona is the city of Gaudi.
+
 * Gaudi
     * [Sagrada Familia](http://www.sagradafamilia.org)
         * Definitely worth booking a ticket with a tour, the “guided experience”,
