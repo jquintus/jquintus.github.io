@@ -27,7 +27,6 @@ places ask (when charging stuff to your CC) if you want to pay in Euros or US
 dollars. Definitely pay with Euros. The price difference may be small, but it
 starts to add up if you keep using your CC. 
 
-
 ## Eat
 
 **Ham**.  There are several types but what you want to eat will be the black
@@ -69,33 +68,46 @@ Reservations aren't required but can be helpful.
       here. In one shop, the owner/designer had her studio right behind her, with all
       the materials she needed to make the shirts.
     * Stops:
-        * *Con Tosca* - a cute cafe where we had sausage on tomato bread and a glass of cava.
+        * *Con Tosca* - a cute cafe where we had sausage on tomato bread and a
+          glass of cava.
         * Local market 
             * *I Conservas Gloria* for olives
             * *Fabregas* for ham
             * La Trobada del Gourmet for cheese and jams
         * *Oil Sal* a salt and oil store where we had olive oil tasting
         * *l'Anxoveta* a cute bar, we had tomato bread and crouqets
-        * *Pastisseria Principe* a Syrian pastry shop that's been there for 30 years
-        * *Bodega Ca'l Pep* an ancient very local bar.  We had vermouth, pickled anchioves, and sausage.
-        * *La botigueta del Bon Menjar* a small shop that sells premade food. very local
-        * *Pastissera Ideal* another pastry shop.  We had cremat - a Spanish version of creme brulee (it actually predates the French version)
+        * *Pastisseria Principe* a Syrian pastry shop that's been there for 30
+          years
+        * *Bodega Ca'l Pep* an ancient very local bar.  We had vermouth,
+          pickled anchioves, and sausage.
+        * *La botigueta del Bon Menjar* a small shop that sells premade food.
+          very local
+        * *Pastissera Ideal* another pastry shop.  We had cremat - a Spanish
+          version of creme brulee (it actually predates the French version)
 * [La Pubilla](https://www.yelp.com/biz_photos/la-pubilla-barcelona)
-    * My favorite restaurant.  I'd recommend a reservation, or just getting there when they open.
-    * We ate here twice.  When we came back the second time we were welcomed like old friends. 
-    * Between K and I, we ate like 90% of the menu between the two trips there.  And we were not disappointed.  
-    * The waiter was gave us some great wine recommendations, they have some really local stuff there.  Like 1km away local.
+    * My favorite restaurant.  I'd recommend a reservation, or just getting
+      there when they open.
+    * We ate here twice.  When we came back the second time we were welcomed
+      like old friends. 
+    * Between K and I, we ate like 90% of the menu between the two trips there.
+      And we were not disappointed.  
+    * The waiter was gave us some great wine recommendations, they have some
+      really local stuff there.  Like 1km away local.
     * Best croquets we had
     * Homemade pate
     * The capacio was one of the best things I ate on this trip.
-* [Alta Taberna Paco Meralgo](http://www.restaurantpacomeralgo.com/the-restaurant/)
+* [Alta Taberna Paco
+  Meralgo](http://www.restaurantpacomeralgo.com/the-restaurant/)
 * [Tapeo del Born](http://www.tapeoborn.cat/tapeo-del-born-en.html)
     * Near the Picasso Museum. We ate here on our last night, at the bar. 
-    * It feels a bit more touristy but the food was still good.  K liked it more than I did.
-    * When we ordered our food, one of the guys behind the bar asked if we had come there before because he was impressed with our choices. 
+    * It feels a bit more touristy but the food was still good.  K liked it
+      more than I did.
+    * When we ordered our food, one of the guys behind the bar asked if we had
+      come there before because he was impressed with our choices. 
     * The Foie Gras burger was good.
 * Mercado de la Boqueria
-    * Not a restaurant, but it has plenty of stalls in it where you can get all sorts of food
+    * Not a restaurant, but it has plenty of stalls in it where you can get all
+      sorts of food
     * Butchers sell "meat cones" - charcuterie in a paper cone. 
     * Fresh juices
     * Hot food
@@ -159,14 +171,17 @@ Barcelona is the city of Gaudi.
           Park after we did the food tour, because it was essentially a straight shot
           from the endpoint of the tour (and because stuff was closed at 2pm-ish).
     * [Palau Guell](http://www.palauguell.cat/en)
-        * My least favorite of the 
+        * My least favorite of the Gaudi sites, perhaps because it was the last.
+        * The roof has amazing views but is very sloped.  It may not bother
+          some people but I was terrorfied up there.  Frozen and refused to
+          move without holding on to something.
 * [Free Walking Tour](http://www.neweuropetours.eu/barcelona/en/home)
-  * We did three of these in Germany and one in Barcelona. Really great way
-    for you to quickly learn the lay of the land, the history, and some great
-    anecdotes.
+    * We did three of these in Germany and one in Barcelona. Really great way
+      for you to quickly learn the lay of the land, the history, and some great
+      anecdotes.
 * [Picasso Museum](http://www.museupicasso.bcn.cat/en/)
-  * I’m a huge fan and this museum is in a very nice building too! Also some
-    good shopping in the area too!
+    * I’m a huge fan and this museum is in a very nice building too! Also some
+      good shopping in the area too!
 * La Rambla
     * Very touristy so keep an eye out for pick pockets. 
     * Crowded
@@ -176,9 +191,9 @@ Barcelona is the city of Gaudi.
 * [Museu d'Art Contemporani de Barcelona](https://www.macba.cat/en/)
     * Very modern very out there.  We did not enjoy this museum.  It's the type
       of modern art that people sneer at when they think of modern art.  Like a
-      banquet table that is set with plates of rice died to look like the flags
-      of various nations, but then they left all the food to rot.  Or a wall
-      made out of loaves of white bread.
+      banquet table that is set with plates of rice died to look like the flags of
+      various nations, but then they left all the food to rot.  Or a wall made out of
+      loaves of white bread.
 
 ## Sleep
 
