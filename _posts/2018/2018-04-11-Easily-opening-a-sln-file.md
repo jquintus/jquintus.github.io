@@ -3,9 +3,9 @@ layout: post
 disqus_identifier: #32
 comments: true
 categories: 
-  "Visual Studio"
+  Visual Studio
   VS
-  "Command Line"
+  Command Line
   
 ---
 
