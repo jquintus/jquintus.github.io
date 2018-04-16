@@ -3,7 +3,7 @@ layout: post
 disqus_identifier: #33
 comments: true
 categories:
-  "Command Line"
+  Command Line
   ConEmu
   Cmder
 
