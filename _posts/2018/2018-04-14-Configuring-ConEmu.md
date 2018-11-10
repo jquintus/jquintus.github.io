@@ -3,9 +3,9 @@ layout: post
 disqus_identifier: #33
 comments: true
 categories:
-  "Command Line"
-  ConEmu
-  Cmder
+  - Command Line
+  - ConEmu
+  - Cmder
 
 ---
 

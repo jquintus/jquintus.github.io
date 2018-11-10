@@ -3,10 +3,9 @@ layout: post
 disqus_identifier: #32
 comments: true
 categories: 
-  "Visual Studio"
-  VS
-  "Command Line"
-  
+  - Visual Studio
+  - VS
+  - Command Line
 ---
 
 Despite being a developer that uses Windows, I spend a lot of time managing my
