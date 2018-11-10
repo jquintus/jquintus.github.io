@@ -1,10 +1,13 @@
 @ECHO off
 REM ****************************************************************************
-REM Start a docker container configured to run 
+REM Start a linux docker container configured to run 
 REM a git hub page website
 REM ****************************************************************************
 
 ECHO Starting gpages container
+ECHO http://localhost:4000
+
+ECHO.
 
 docker run -t --rm           ^
     --name gpages            ^
