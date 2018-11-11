@@ -2,6 +2,10 @@
 title: Josh's CV
 ---
 
+## Contact
+
+## About
+
 ## Work
 
 {% for job in site.data.resume.experience %}
@@ -30,3 +34,9 @@ title: Josh's CV
 * {{ highlight }} {% endfor %}
 
 {% endfor %}
+
+## Projects
+
+## Skills
+
+## Education

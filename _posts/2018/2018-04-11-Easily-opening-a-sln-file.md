@@ -1,4 +1,3 @@
----
 layout: post
 disqus_identifier: #32
 comments: true

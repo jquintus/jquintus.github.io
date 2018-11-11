@@ -6,7 +6,6 @@ categories:
   - Command Line
   - ConEmu
   - Cmder
-
 ---
 
 The out of the box console environment in Windows can leave a lot to be
