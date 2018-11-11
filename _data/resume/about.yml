@@ -20,5 +20,5 @@ profiles:
       username: Josh
       url: http://stackoverflow.com/users/1480854/josh
     - network: Twitter
-      username:@jquintus
+      username: "@jquintus"
       url: https://twitter.com/jquintus
