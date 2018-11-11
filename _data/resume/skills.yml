@@ -1,0 +1,50 @@
+- name: Core Competencies
+  keywords:
+    - .NET/Visual Studio
+    - Xamarin Android
+    - Windows Azure
+    - Windows Services
+    - Debugging
+    - Software Design
+
+- name: Android Development
+  keywords:
+    - Xamarin
+    - MvvmCross
+    - Xamarin Forms
+
+- name: Languages
+  keywords:
+    - C#
+    - SQL
+    - JSON
+    - XML
+    - XSLT
+    - F#
+    - Perl
+
+- name: Development Tools
+  keywords:
+    - Visual Studio 2003 - 2017
+    - SQL Management Studio 2008
+    - Moq
+    - Ninject
+    - NUnit
+    - XUnit
+    - Git
+    - Perforce
+    - Vim
+    - Cake
+    - TeamCity 8.x
+    - SpecFlow
+
+- name: Technologies
+  keywords:
+    - .NET
+    - Azure Functions 2.0
+    - Web Services (WCF)
+    - WPF
+    - Windows Services
+    - Regular Expressions
+    - MS Message Queues
+    - WMI

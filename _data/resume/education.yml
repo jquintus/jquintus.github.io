@@ -1,0 +1,30 @@
+- institution: Develomentor
+  area: Training:  Exploring .NET 4.0
+  studyType: Topics
+  endDate: 2010-07-25
+  courses:
+    - LINQ
+    - WPF
+    - WCF
+    - Threading
+    - Concurrency
+    - Parallel Programming
+    - Silverlight
+
+- institution: Northeastern University
+  area: Bachelor of Science in Computer Science Minor in Mathematics
+  studyType: Courses
+  startDate: 2001-09-21
+  endDate: 2006-05-20
+  courses:
+    - Cryptography
+    - Compilers
+    - Programming Languages
+    - Computer Organization and Design
+    - Topics in OS
+    - Software Design
+    - Computer Networking
+    - Macroeconomics
+    - Calculus
+    - Differential Equations in Linear Algebra
+    - Number Theory

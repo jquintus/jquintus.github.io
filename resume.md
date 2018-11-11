@@ -2,7 +2,7 @@
 title: Josh's CV
 ---
 
-## Contact
+## Contact Information
 
 ## About
 

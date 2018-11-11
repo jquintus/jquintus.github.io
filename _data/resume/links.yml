@@ -1,0 +1,24 @@
+name: Josh Quintus
+label: Lead Software Engineer
+email: josh.quintus@gmail.com
+phone: (617) 688-7886
+summary: Josh is a software engineer with 12 years of experience delivering progressively challenging data-driven projects with various Microsoft technologies
+location:
+  address: 60-72 70th Ave
+  postalCode: 11385
+  city: Ridgewood
+  countryCode: US
+  region: New York
+profiles:
+    - network: Blog
+      username: quintussential.com
+      url: http://quintussential.com
+    - network: GitHub
+      username: jquintus
+      url: https://github.com/jquintus
+    - network: StackOverflow
+      username: Josh
+      url: http://stackoverflow.com/users/1480854/josh
+    - network: Twitter
+      username:@jquintus
+      url: https://twitter.com/jquintus
