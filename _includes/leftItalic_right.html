@@ -1,0 +1,32 @@
+<!-- http://jsfiddle.net/h11erm2r/ -->
+<div>
+    <style>
+        /* 
+        .left_right_container > div {
+            border: solid 2px #888;
+        } 
+        */
+        .left > div {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        .left {
+            text-align: left;
+        }
+        .left:before{
+            content: '';
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+        }
+        .right{
+            text-align: right;
+            width: 250px;
+            float: right;
+        }
+    </style>
+    <div class="left_right_container">
+        <div class="right">{{ include.right | strip }}</div>
+        <div class="left"><i>{{ include.left | strip }}</i></div>
+    </div>
+</div>
