@@ -1,10 +1,7 @@
 ---
-title: Josh's CV
-layout: page
+layout: resume
 
 ---
-
-## About
 
 {{ site.data.resume.about.summary }}
 
@@ -78,7 +75,7 @@ layout: page
     {% if training.date %} 
       {{ training.date | date: "%B %Y" }} 
     {% else %}
-      {{ training.startDate | date: "%B %Y"}} &mdash; {{ training.endDate| date: "%B %Y"}}
+      {{ training.endDate| date: "%B %Y"}}
     {% endif %}
   {% endcapture %}
 
