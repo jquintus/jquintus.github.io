@@ -1,5 +1,5 @@
 name: Josh Quintus
-label: Lead Software Engineer
+title: Lead Software Engineer
 email: josh.quintus@gmail.com
 phone: (617) 688-7886
 summary: Josh is a software engineer with 12 years of experience delivering progressively challenging data-driven projects with various Microsoft technologies
@@ -12,7 +12,7 @@ location:
 profiles:
     - display: Blog
       url: http://quintussential.com
-    - display: GitHub/jquintus
+    - display: GitHub
       url: https://github.com/jquintus
     - display: StackOverflow
       url: http://stackoverflow.com/users/1480854/josh

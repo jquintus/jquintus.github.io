@@ -2,12 +2,19 @@
 layout: resume
 
 ---
+{% include leftBold_rightItalic.html 
+  left=site.data.resume.about.name 
+  right=site.data.resume.about.title %}
+
+{% include left_right.html 
+  left=site.data.resume.about.email 
+  right=site.data.resume.about.phone %}
 
 {{ site.data.resume.about.summary }}
 
-**Email:** {{ site.data.resume.about.email }}  **Phone:** {{ site.data.resume.about.phone }} {% for profile in site.data.resume.about.profiles %}[{{ profile.display }}]({{ profile.url }}) {% endfor %}
+{% for profile in site.data.resume.about.profiles %} [{{ profile.display }}]({{ profile.url }}) {% if forloop.last == false %} / {% endif %} {% endfor %}
 
-## Work
+## Work History
 
 {% for job in site.data.resume.experience %}
 
@@ -37,6 +44,7 @@ layout: resume
 {% endfor %}
 
 ## Projects
+
 {% for project in site.data.resume.projects %}
   {% capture description %}
   {{ project.description }}
@@ -47,6 +55,7 @@ layout: resume
   {% endcapture %}
 
 ### [{{ project.name }}]({{ project.website }})
+
 {% include leftItalic_right.html left=description right=date %}
 
 {% for highlight in project.highlights %}
