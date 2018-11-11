@@ -6,13 +6,14 @@ layout: resume
   left=site.data.resume.about.name 
   right=site.data.resume.about.title %}
 
-{% include left_right.html 
+{% include leftSmall_rightSmall.html 
   left=site.data.resume.about.email 
   right=site.data.resume.about.phone %}
 
 {{ site.data.resume.about.summary }}
 
 {% for profile in site.data.resume.about.profiles %} [{{ profile.display }}]({{ profile.url }}) {% if forloop.last == false %} / {% endif %} {% endfor %}
+{: style="text-align: center"}
 
 ## Work History
 
