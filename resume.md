@@ -71,6 +71,7 @@ layout: resume
 ### {{ skill.name }}
 
 {{ skill.keywords | join: ', ' }}
+{: style="margin-top: 5px"}
 
 {% endfor %}
 
@@ -94,5 +95,6 @@ layout: resume
 {% include leftItalic_right.html left=area right=date %}
 
 **Topics:** {{ training.courses | join: ', ' }}
+{: style="margin-top: 10px"}
 
 {% endfor %}
