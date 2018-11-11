@@ -1,6 +1,6 @@
 ---
 title: Josh's CV
-layout: default
+layout: page
 
 ---
 
@@ -8,7 +8,7 @@ layout: default
 
 {{ site.data.resume.about.summary }}
 
-**Email:** {{ site.data.resume.about.email }}  **Phone:** {{ site.data.resume.about.phone }}{% for profile in site.data.resume.about.profiles %}[{{ profile.display }}]({{ profile.url }}) {% endfor %}
+**Email:** {{ site.data.resume.about.email }}  **Phone:** {{ site.data.resume.about.phone }} {% for profile in site.data.resume.about.profiles %}[{{ profile.display }}]({{ profile.url }}) {% endfor %}
 
 ## Work
 
@@ -58,11 +58,12 @@ layout: default
 {% endfor %}
 
 ## Skills
+
 {% for skill in site.data.resume.skills %}
 
 ### {{ skill.name }}
 
-{% for keyword in skill.keywords %} {{ keyword }}, {% endfor %}
+{{ skill.keywords | join: ', ' }}
 
 {% endfor %}
 
@@ -85,6 +86,6 @@ layout: default
 
 {% include leftItalic_right.html left=area right=date %}
 
-**Topics:** {% for topic in training.courses %} {{ topic }}, {% endfor %}
+**Topics:** {{ training.courses | join: ', ' }}
 
 {% endfor %}
