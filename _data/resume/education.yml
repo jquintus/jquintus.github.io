@@ -1,8 +1,7 @@
-- institution: Develomentor
+- name: Develomentor
   area: >
     Training:  Exploring .NET 4.0
-  studyType: Topics
-  endDate: 2010-07-25
+  date: 2010-07-25
   courses:
     - LINQ
     - WPF
@@ -12,9 +11,8 @@
     - Parallel Programming
     - Silverlight
 
-- institution: Northeastern University
+- name: Northeastern University
   area: Bachelor of Science in Computer Science Minor in Mathematics
-  studyType: Courses
   startDate: 2001-09-21
   endDate: 2006-05-20
   courses:

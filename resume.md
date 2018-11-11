@@ -1,10 +1,14 @@
 ---
 title: Josh's CV
+layout: default
+
 ---
 
-## Contact Information
-
 ## About
+
+{{ site.data.resume.about.summary }}
+
+**Email:** {{ site.data.resume.about.email }}  **Phone:** {{ site.data.resume.about.phone }}{% for profile in site.data.resume.about.profiles %}[{{ profile.display }}]({{ profile.url }}) {% endfor %}
 
 ## Work
 
@@ -36,7 +40,51 @@ title: Josh's CV
 {% endfor %}
 
 ## Projects
+{% for project in site.data.resume.projects %}
+  {% capture description %}
+  {{ project.description }}
+  {% endcapture %}
+
+  {% capture date %}
+  {{ project.date| date: "%B %Y"}}
+  {% endcapture %}
+
+### [{{ project.name }}]({{ project.website }})
+{% include leftItalic_right.html left=description right=date %}
+
+{% for highlight in project.highlights %}
+* {{ highlight }} {% endfor %}
+
+{% endfor %}
 
 ## Skills
+{% for skill in site.data.resume.skills %}
+
+### {{ skill.name }}
+
+{% for keyword in skill.keywords %} {{ keyword }}, {% endfor %}
+
+{% endfor %}
 
 ## Education
+
+{% for training in site.data.resume.education %}
+  {% capture area %}
+  {{ training.area }}
+  {% endcapture %}
+
+  {% capture date %}
+    {% if training.date %} 
+      {{ training.date | date: "%B %Y" }} 
+    {% else %}
+      {{ training.startDate | date: "%B %Y"}} &mdash; {{ training.endDate| date: "%B %Y"}}
+    {% endif %}
+  {% endcapture %}
+
+### {{ training.name }}
+
+{% include leftItalic_right.html left=area right=date %}
+
+**Topics:** {% for topic in training.courses %} {{ topic }}, {% endfor %}
+
+{% endfor %}

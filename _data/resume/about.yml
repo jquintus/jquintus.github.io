@@ -10,15 +10,11 @@ location:
   countryCode: US
   region: New York
 profiles:
-    - network: Blog
-      username: quintussential.com
+    - display: Blog
       url: http://quintussential.com
-    - network: GitHub
-      username: jquintus
+    - display: GitHub/jquintus
       url: https://github.com/jquintus
-    - network: StackOverflow
-      username: Josh
+    - display: StackOverflow
       url: http://stackoverflow.com/users/1480854/josh
-    - network: Twitter
-      username: "@jquintus"
+    - display: "@jquintus"
       url: https://twitter.com/jquintus

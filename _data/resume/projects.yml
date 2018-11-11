@@ -1,39 +1,40 @@
-- organization: CoolWhip
+- name: CoolWhip
   website: https://github.com/MasterDevs/CoolWhip/
   description: The coolest way to whip out NuGet releases from GitHub and AppVeyor
-  endDate: 2015-05-17
+  date: 2015-05-17
   highlights:
     - NuGet package to add continuous delivery to a NuGet package hosted in GitHub
 
-- organization: VsOpenIn
+- name: VsOpenIn
   website: https://github.com/jquintus/VsOpenIn/
   description: Visual Studio extension to open the current document in an external editor
-  endDate: 2015-02-17
+  date: 2015-02-17
   highlights:
     - Released to the Visual Studio Extension Gallery
     - Open with Vim by default, but can be configured to use any editor
 
-- organization: Xamarin Forms Shopping Cart
+- name: Xamarin Forms Shopping Cart
   website: https://github.com/jquintus/ShoppingCartXF
   description: Sample code and detailed articles detailing pitfalls of Xamarin Forms
-  endDate: 2014-10-01
+  date: 2014-10-01
   highlights:
     - Featured in the <a href='http://XamarinWeekly.com'>Xamarin Weekly Newsletter</a>
     - Provids insight and best practices for an emerging technology
     - Discusses options for consistently styling cross-platform applications
     - Highlights bugs and the necessary workarounds when using Xamarin Forms
 
-- organization: Message Master
+- name: Message Master
   website: http://messagemaster.codeplex.com/
-  endDate: 2009-12-01
+  description: Automates sending repetitive text messages
+  date: 2009-12-01
   highlights:
     - Created an Android application to send canned text messages
     - Released to the Android Marketplace
 
-- organization: Wall Master
+- name: Wall Master
   website: http://wallmaster.codeplex.com/
   description: Manages and sets desktop wallpapers
-  endDate: 2008-08-01
+  date: 2008-08-01
   highlights:
     - Wrote a WPF tray application to independently set wallpapers when using multiple monitors
     - Accesses the Windows API with P/Invoke
