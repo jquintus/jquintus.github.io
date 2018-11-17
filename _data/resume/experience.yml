@@ -19,7 +19,7 @@
   endDate: 2015-03-16
   summary: As one of three developers, I have a hand in every technical decision made for this young startup
   highlights:
-    - Created and maintain Yarly's 5 star <a href='https://play.google.com/store/apps/details?id=co.yarly.droid'>Android app </a> in C# sharing 80% of code with iOS and WinPhone versions
+    - Created and maintained Yarly's 5 star Android app in C# sharing 80% of code with iOS and WinPhone versions
     - Set up all DevOps aspects of the technology stack including Git repository on TFS, CI builds, Azure hosting, continuous and scheduled jobs, and reporting
     - Led the effort to migrate all our data from MongoDB to Sql Azure
 
@@ -30,11 +30,11 @@
   endDate: 2014-01-31
   summary:  
   highlights:
-    - As a leader in coding practices my advice was sought out formally and informally at all stages of development, from early design to code review. 
-    - Acted as a touch point for the entire software development lifecycle.
-    - Headed task forces to deep dive into impactful production bugs and produced temporary workarounds while investigating elusive root cause
+    - As a leader in coding practices my advice was sought out formally and informally at all stages of development, from early design to code review
+    - Acted as a touch point for the entire software development lifecycle
+    - Headed up task forces to deep dive into impactful production bugs and produced temporary workarounds while investigating elusive root causes
     - Brought in to rescue floundering projects
-    - Worked across teams to facilitate dialog and gather thoughts about what the future of the system means to different businesses so that we can clearly shape the architecture moving forward
+    - Facilitated cross team dialog and sought feedback about what the future of the system means to different businesses so that we could clearly shape the architecture moving forward
     - Worked with multiple satellite tech teams to create a common trading system for business specific use cases and workflows
 
 - company: FactSet Research Systems Inc.
@@ -50,7 +50,7 @@
     - Instituted a weekly code review which helped improve the quality of the code base as well as promote an atmosphere of sharing new and interesting coding practices
     - Streamlined data-verification process, removing thousands of false negatives so that our operations team could concentrate on the handful of actual problems
     - Gathered and interpreted requirements from stakeholders
-    - Supported CallStreet's near-real time data feed by designing and implementing enhancements, fixing bugs, and responding to and helping clients when issues arise
+    - Supported CallStreet's near-real time data feed by designing and implementing enhancements, fixing bugs, and responding to and helping clients when issues arose
 
 - company: Enterprise Air
   position: Senior Software Engineer
@@ -62,7 +62,7 @@
     - Maintained and added features to command and control software communicating with multiple end points through WMI and Microsoft Message Queues
     - Designed and implemented a distributed software package which routes user data to subscribed ID management and physical access control systems
     - Communicated with the QA/Tech Support team to turn client requirements into solid feature requests for various projects and to help understand clients' needs
-    - Supervised in creation of multiple levels of documentation across projects, including user guides, developer documentation, and architecture overviews
+    - Supervised the creation of multiple levels of documentation across projects, including user guides, developer documentation, and architecture overviews
     - Created intuitive UI layouts with a focus on ease of deployment and maintenance by clients
 
 - company: Enpocket, Inc.

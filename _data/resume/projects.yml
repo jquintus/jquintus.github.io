@@ -5,7 +5,7 @@
   highlights:
     - A simple to install NuGet package that enables continuous delivery to the Chocolatey package manager
     - Works with GitHub and AppVeyor
-    - Updates automatically released to NuGet using CoolWhip
+    - Updates are automatically released to NuGet using CoolWhip
 
 - name: ColorCat
   website: https://github.com/MasterDevs/ColorCat
@@ -14,7 +14,7 @@
   highlights:
     - Tool to colorize the output of any command line application
     - Configured using either a simple text file or with built in commands
-    - Updates automatically released to Chocolatey using ChocolateyCoolWhip
+    - Updates are automatically released to Chocolatey using ChocolateyCoolWhip
 
 - name: CoolWhip
   website: https://github.com/MasterDevs/CoolWhip/
