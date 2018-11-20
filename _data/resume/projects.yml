@@ -3,7 +3,7 @@
   description: The coolest way to whip out Chocolatey releases from GitHub and AppVeyor
   date: 2016-03-07
   highlights:
-    - A simple to install NuGet package that enables continuous delivery to the Chocolatey package manager
+    - A simple-to-install NuGet package that enables continuous delivery to the Chocolatey package manager
     - Works with GitHub and AppVeyor
     - Updates are automatically released to NuGet using CoolWhip
 
@@ -13,7 +13,7 @@
   date: 2016-01-29
   highlights:
     - Tool to colorize the output of any command line application
-    - Configured using either a simple text file or with built in commands
+    - Configured using either a simple text file or with built-in commands
     - Updates are automatically released to Chocolatey using ChocolateyCoolWhip
 
 - name: CoolWhip

@@ -10,7 +10,7 @@
     - Create an environment conducive to both learning and producing excellent code by implementing code reviews to enforce standards, documenting best practices, and encouraging regular talks on a wide variety of technical topics
     - Worked with stakeholders to design and implement a user application to automatically gather data, analyze it, and share it with other users using a patented decentralized algorithm
     - Defined the SDLC process for the team and provided infrastructure and tooling around it using TeamCity as a build system and Jira for task and release management
-    - Introduced and taught the team dependency injection containers and how they would improve the quality and maintainability of the product
+    - Introduced and taught the team dependency injection containers, improving the quality and maintainability of the product
 
 - company: Yarly, Co.
   position: Founding Developer
@@ -34,7 +34,7 @@
     - Acted as a touch point for the entire software development lifecycle
     - Headed up task forces to deep dive into impactful production bugs and produced temporary workarounds while investigating elusive root causes
     - Brought in to rescue floundering projects
-    - Facilitated cross team dialog and sought feedback about what the future of the system means to different businesses so that we could clearly shape the architecture moving forward
+    - Facilitated dialogues across teams and sought feedback about what the future of the system means to different businesses so that we could clearly shape the architecture moving forward
     - Worked with multiple satellite tech teams to create a common trading system for business specific use cases and workflows
 
 - company: FactSet Research Systems Inc.
