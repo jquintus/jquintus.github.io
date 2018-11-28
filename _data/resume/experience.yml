@@ -25,7 +25,7 @@
   reasonForLeaving: The company disbanded when it was acquired by Legacy Republic.
   supervisor: Allison Strouse
   address: 902 Broadway, 6th Floor New York, NY 10027
-  phoneNumber: 
+  phoneNumber: 7327682867
   highlights:
     - Created and maintained Yarly's 5 star Android app in C# sharing 80% of code with iOS and WinPhone versions
     - Set up all DevOps aspects of the technology stack including Git repository on TFS, CI builds, Azure hosting, continuous and scheduled jobs, and reporting
@@ -40,7 +40,7 @@
   reasonForLeaving: I left Goldman Sachs to focus full time on a startup, Yarly.
   supervisor: Doug Thompson
   address: 200 West Street, New York, NY 10282
-  phoneNumber:
+  phoneNumber: (212) 934-4806
   highlights:
     - As a leader in coding practices my advice was sought out formally and informally at all stages of development, from early design to code review
     - Acted as a touch point for the entire software development lifecycle
@@ -75,8 +75,8 @@
   summary:  
   reasonForLeaving: I left Enterprise Air after it was acquired by Daon, Inc.
   supervisor: Michael Hejtmanek
-  address: 
-  phoneNumber: 
+  address: 259 West 30th St., 2nd Floor New York, NY 10001
+  phoneNumber: 212-941-1988
   highlights:
     - Managed, designed, and developed an application to configure, test, and determine the overall health of a distributed system in real time
     - Maintained and added features to command and control software communicating with multiple end points through WMI and Microsoft Message Queues
