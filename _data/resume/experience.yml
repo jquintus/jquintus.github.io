@@ -4,6 +4,10 @@
   startDate: 2015-03-16
   endDate: Present
   summary: 
+  reasonForLeaving: Desire to learn while leading a team of senior engineerings
+  supervisor: Jaspreet Bakshi
+  address: 110 5th Avenue New York, NY 10015
+  phoneNumber: (212) 706-8630
   highlights:
     - Redesigning our SQLite and WPF desktop-based product to become cloud native by moving to Azure Functions, SQL Azure, ASP.NET, and Elm
     - Lead and manage a team that has tripled in size while evolving project management structure to fit the changing needs of the product and team
@@ -18,6 +22,10 @@
   startDate: 2013-06-01
   endDate: 2015-03-16
   summary: As one of three developers, I have a hand in every technical decision made for this young startup
+  reasonForLeaving: The company disbanded when it was acquired by Legacy Republic.
+  supervisor: Allison Strouse
+  address: 902 Broadway, 6th Floor New York, NY 10027
+  phoneNumber: 
   highlights:
     - Created and maintained Yarly's 5 star Android app in C# sharing 80% of code with iOS and WinPhone versions
     - Set up all DevOps aspects of the technology stack including Git repository on TFS, CI builds, Azure hosting, continuous and scheduled jobs, and reporting
@@ -29,6 +37,10 @@
   startDate: 2011-05-01
   endDate: 2014-01-31
   summary:  
+  reasonForLeaving: I left Goldman Sachs to focus full time on a startup, Yarly.
+  supervisor: Doug Thompson
+  address: 200 West Street, New York, NY 10282
+  phoneNumber:
   highlights:
     - As a leader in coding practices my advice was sought out formally and informally at all stages of development, from early design to code review
     - Acted as a touch point for the entire software development lifecycle
@@ -43,6 +55,10 @@
   startDate: 2008-07-07
   endDate: 2011-06-02
   summary:  
+  reasonForLeaving: I left FactSet to join a more mature team at Goldman Sachs.
+  supervisor: Dmitry Meleshko
+  address: 90 Park Avenue, New York, NY 10016
+  phoneNumber: (212) 476-4300
   highlights:
     - Developed Scheduler program, integrating GNU linear algebra libraries to create an optimized schedule for various tasks
     - Lead software engineering efforts for a multi-tiered solution to record upcoming earnings calls utilizing WPF for the presentation layer, SQL Server for the data layer, and WCF hosted in a Windows Service
@@ -57,6 +73,10 @@
   startDate: 2006-07-17
   endDate: 2008-07-03
   summary:  
+  reasonForLeaving: I left Enterprise Air after it was acquired by Daon, Inc.
+  supervisor: Michael Hejtmanek
+  address: 
+  phoneNumber: 
   highlights:
     - Managed, designed, and developed an application to configure, test, and determine the overall health of a distributed system in real time
     - Maintained and added features to command and control software communicating with multiple end points through WMI and Microsoft Message Queues
@@ -70,6 +90,10 @@
   startDate: 2005-05-01
   endDate: 2006-05-30
   summary:  
+  reasonForLeaving: After college I relocated from Boston to New York
+  supervisor: Dave Burnham
+  address: Boston, MA
+  phoneNumber: 
   highlights:
     - Created and deployed mobile web services
     - Administrated systems and networks in a mostly Fedora Core 3 production environment
