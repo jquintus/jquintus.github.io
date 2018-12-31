@@ -9,9 +9,10 @@ categories:
 
 Cook Time | Oven Temp
 ----------|----------
- ~30 min  | 350
+ ~30 min  |   350&deg;F
 
 ## Ingredients
+
 <br/>
 
 * 1/3 cup (or 1 oz) Dutch-processed cocoa powder
@@ -28,12 +29,16 @@ Cook Time | Oven Temp
 
 ## Oven Prep
 
+<br/>
+
 1. Put oven rack to lowest position
 1. Preheat oven to 350 degrees F
 1. Put a foil sling in a 13x9 inch pan
 1. Spray with nonstick spray
 
 ## Mix it
+
+<br/>
 
 1. Whisk cocoa and boiling water together in a large bowl until smooth
 1. Add unsweetened chocolate and whisk until melted
@@ -44,6 +49,8 @@ Cook Time | Oven Temp
 1. Fold in bittersweet chocolate
 
 ## Bake it
+
+<br/>
 
 * 30 - 35 minutes
 * Let cool in pan on wire rack for ~90 minutes
