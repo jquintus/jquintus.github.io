@@ -12,10 +12,12 @@ Cook Time | Oven Temp
  ~30 min  | 350
 
 ## Ingredients
+<br/>
 
 * 1/3 cup (or 1 oz) Dutch-processed cocoa powder
-* 1/2 cup + 2 tsp boiling water
 * 2 oz unsweetened chocolate
+* 6 oz bittersweet chocolate cut into 1/2 inch pieces
+* 1/2 cup + 2 tsp boiling water
 * 1/2 cup + 2 tsp vegetable oil
 * 4 tbsp unsalted butter
 * 2 large whole eggs + 2 egg yolks
@@ -23,7 +25,6 @@ Cook Time | Oven Temp
 * 2 1/2 cup sugar
 * 1 3/4 all-purpose flour
 * 3/4 tsp salt
-* 6 oz bittersweet chocolate cut into 1/2 inch pieces
 
 ## Oven Prep
 
