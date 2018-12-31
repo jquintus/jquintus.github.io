@@ -24,7 +24,7 @@ Cook Time | Oven Temp
 * 2 large whole eggs + 2 egg yolks
 * 2 tsp vanilla
 * 2 1/2 cup sugar
-* 1 3/4 all-purpose flour
+* 1 3/4 cups all-purpose flour
 * 3/4 tsp salt
 
 ## Oven Prep
