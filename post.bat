@@ -36,9 +36,13 @@ SET DATE_mm=%date:~4,2%
 SET DATE_yyyy=%date:~10,4%
 SET DATE_STAMP=%DATE_yyyy%-%DATE_mm%-%DATE_dd%
 
+REM Create the year folder if it doesn't exist
+IF NOT EXIST "_posts\%DATE_yyyy%" MKDIR "_posts\%DATE_yyyy%"
+
 REM ==========================================
 REM Concat and normalize the file name
 REM ==========================================
+
 SET FILE_NAME=%DATE_yyyy%\%DATE_STAMP%-%POST_NAME%
 SET FILE_NAME=%FILE_NAME: =-%
 
