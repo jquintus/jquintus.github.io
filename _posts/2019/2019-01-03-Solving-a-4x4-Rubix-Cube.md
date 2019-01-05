@@ -28,6 +28,12 @@ R'  F   Dd'
 
 ## Parity
 
+There are tons of parity issues that you can encounter.  And then there are
+tons of sequences to correct each one. I'm just listing the ones I use to fix
+the scenarios that I encounter.
+[SpeedCubing.com](https://www.speedsolving.com/wiki/index.php/4x4x4_parity_algorithms)
+has an exhaustive list.
+
 ### Edge Parity
 
 This algorithm will flip the top two edge pieces on the front face without
