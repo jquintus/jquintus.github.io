@@ -21,34 +21,35 @@ Below are the additional algorithms needed for the edges and parity.
 To solve the last two edges, make sure they are both facing you and are lined
 up (not diagonal from their pair):
 
-* `Dd`
-* `R`
-* `F'`
-* `U`
-* `R'`
-* `F`
-* `Dd'`
+```
+Dd  R   F'  U
+R'  F   Dd' 
+```
 
 ## Parity
+
+### Edge Parity
 
 This algorithm will flip the top two edge pieces on the front face without
 moving any other pieces
 
-* `r'`
-* `U2`
-* `l`
-* `F2`
-* `l'`
-* `F2`
-* `r2`
-* `U2`
-* `r`
-* `U2`
-* `r'`
-* `U2`
-* `F2`
-* `r2`
-* `F2`
+``` 
+r'  U2  l   F2
+l'  F2  r2  U2
+r   U2  r'  U2
+F2  r2  F2 
+``` 
+
+### Corner Parity
+
+This sequence will swap the two front most top corners.
+
+```
+F2  R2  B'  D'
+B   R2  F'  U
+Ff2 F   L2  f2
+Ll2 f2  l2  U'
+```
 
 ## A note on notation
 
