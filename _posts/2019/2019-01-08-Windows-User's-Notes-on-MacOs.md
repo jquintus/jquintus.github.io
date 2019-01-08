@@ -6,6 +6,7 @@ categories:
   - MacOs
   - macbook
   - apple
+  - osx
 ---
 *Most of this (all of it) was stolen from Ron's response to me asking a
 question on slack.* 
@@ -23,6 +24,7 @@ They actually feel more rational to me than Explorer now tbh.
 
 ## In general:
 
+* Cmd+Space is your friend
 * As Kevin mentioned, Cmd instead of Ctrl. I actually prefer this now since I
   can use my thumbs for Cmd instead of my pinkies for Ctrl (my thumbs are
   usually out of play for keyboard shortcuts anyway). Think Cmd+A vs Ctrl+A
