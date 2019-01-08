@@ -6,10 +6,17 @@ categories:
   - management
 ---
 
-I hold one on one meetings bi-weekly with my direct reports mostly in order to
-get feedback from them about how they are doing.  Do they need help?  Do they
-need more work?  Different work?  Is there something bothering them that isn't
-going to come up without prodding?
+I hold one on one meetings bi-weekly with my direct reports for two reasons.
+First, I want to get feedback from them about how they are doing.  Do they need
+help?  Do they need more work?  Different work?  Is there something bothering
+them that isn't going to come up without prodding?  
+
+Secondly, I use the to discuss career growth and progression.  What are the
+options (both in the current company and in other companies) for their long
+term career?  What do they want for their long term plans?  Given that, what
+should they be doing now to work towards that?
+
+This is their time to voice their concerns and ask questions.  
 
 ## Format of the One on One
 
