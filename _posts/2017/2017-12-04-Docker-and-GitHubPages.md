@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus_identifier: 3
+disqus_identifier: #3
 comments: true
 categories: [docker, jekyll]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus_identifier: #30
+disqus_identifier: #37
 comments: true
 categories: 
   - Rubik's Cube

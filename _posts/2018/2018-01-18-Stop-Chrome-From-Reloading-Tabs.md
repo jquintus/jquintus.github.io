@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Stop Chrome from Reloading Tabs
-disqus_identifier: 27
+disqus_identifier: #27
 comments: true
 categories: 
-  chrome 
-  tips
-  GitHub
-  PR
+  - chrome 
+  - tips
+  - GitHub
+  - PR
 ---
 
 Sometimes when I'm working on a long pull request in GitHub and switch back to

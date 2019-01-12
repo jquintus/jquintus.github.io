@@ -1,7 +1,8 @@
 ---
 layout: post
 categories: vim
-disqus_identifier: 4
+disqus_identifier: #4
+
 ---
 
 I've been using Vim for close to 15 years now and it always amazes me.  I needed a quick and easy way to encrypt some files on a thumb drive when going from one computer to another.  After about 5 seconds of googling I see that as always, vim's got my back.

@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  Hello World
-disqus_identifier: 1
+disqus_identifier: #1
 comments: true
 date: 2017-05-20
 categories: 
-  jekyll 
-  update
+  - jekyll 
+  - update
 ---
 
 This is my first post on my new blogging engine. I'm using [GitHub

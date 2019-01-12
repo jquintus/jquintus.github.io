@@ -1,10 +1,10 @@
 ---
 layout: post
-disqus_identifier: 28
+disqus_identifier: #28
 comments: true
 categories: 
-  GitHub Pages
-  SSL
+  - GitHub Pages
+  - SSL
 ---
 
 Adding a certificate to your GitHub Pages site so that all of your traffic can

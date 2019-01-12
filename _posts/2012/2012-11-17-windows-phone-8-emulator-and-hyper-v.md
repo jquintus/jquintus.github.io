@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus_identifier: #15
+disqus_identifier: #41
 comments: true
 categories: [Windows Phone 8]
 title: "Windows Phone 8 Emulator and Hyper-V"

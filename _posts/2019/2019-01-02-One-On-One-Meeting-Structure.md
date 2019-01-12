@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus_identifier: #28
+disqus_identifier: #39
 comments: true
 categories: 
   - management

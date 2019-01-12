@@ -1,12 +1,12 @@
 ---
 layout: post
-disqus_identifier: 29
+disqus_identifier: #29
 comments: true
 categories: 
-  Travel
-  Spain
-  Food
-  Drink
+  - Travel
+  - Spain
+  - Food
+  - Drink
   
 ---
 

@@ -1,8 +1,11 @@
 ---
 layout: post
 comments: true
-categories: [mermaid, tools]
-disqus_identifier: 5
+categories: 
+    - mermaid
+    - tools
+disqus_identifier: #5
+
 ---
 
 {% include mermaid.html %}
