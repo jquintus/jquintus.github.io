@@ -20,21 +20,43 @@ help:
 
 | Keys                 | Effect                          | 
 |----------------------|---------------------------------|
-| `Cmd + L`            | Address bar                     |
-| `Cmd + Q`            | Close app                       |
-| `Cmd + Space`        | Spotlight                       |
-| `Cmd + Opt + Space`  | Finder                          |
-| `Ctrl + Up`          | Mission Control                 |
-| `Cmd+up/down`        | Move up and down the tree. Doing it on a file opens it. |
-| `F11`                | Show desktop                    |
-| `F12`                | Show dashboard                  |
-| `Ctrl + F3`          | Focus Dock                      |
-| `Ctrl + F4`          | Alt-Tab                         |
-| `Shift-Cmd-3`        | Save screenshot to file         |
-| `Ctrl-Shift-Cmd-3`   | Copy screenshot to clipboard    |
-| `Shift-Cmd-4`        | Save screen region to file      |
-| `Ctrl-Shift-Cmd-4`   | Copy screen region to clipboard |
-| `Shift-Cmd-/`        | Show Help Menu                  |
+| ⌘ + L                | Address bar                     |
+| ⌘ + Q                | Close app                       |
+| ⌘ + Space            | Spotlight                       |
+| ⌘ + ⌥ + Space        | Finder                          |
+| Ctrl + ↑             | Mission Control                 |
+| `⌘ + ↑` / `⌘ + ↓`    | Move up and down the tree. Doing it on a file opens it. |
+| F11                  | Show desktop                    |
+| F12                  | Show dashboard                  |
+| Ctrl + F3            | Focus Dock                      |
+| Ctrl + F4            | Alt-Tab                         |
+| Shift + ⌘ + 3        | Save screenshot to file         |
+| Ctrl + Shift + ⌘ + 3 | Copy screenshot to clipboard    |
+| Shift + ⌘ + 4        | Save screen region to file      |
+| Ctrl + Shift + ⌘ + 4 | Copy screen region to clipboard |
+| Shift + ⌘ + /        | Show Help Menu                  |
+| ⌘ + ⌥ + →            | Next tab (chrome)               |
+| ⌘ + ⌥ + ←            | Previous tab (chrome)           |
+
+### Magnet
+
+| Keys                 | Effect                          | 
+|----------------------|---------------------------------|
+| ^⌥←                  | Left                            |
+| ^⌥→                  | Right                           |
+| ^⌥→                  | Up                              |
+| ^⌥↓                  | Down                            |
+| ^⌥U                  | Top Left                        |
+| ^⌥I                  | Top Right                       |
+| ^⌥J                  | Bottom left                     |
+| ^⌥K                  | Bottom Right                    |
+| ^⌥D                  | Left Third                      |
+| ^⌥E                  | Left Two Thirds                 |
+| ^⌥F                  | Center Third                    |
+| ^⌥T                  | Right Two Thirds                |
+| ^⌥G                  | Right Third                     |
+| ^⌥<cr>               | Right Third                     |
+| ^⌥C                  | Center                          |
 
 ### Trackpad Gestures
 
