@@ -55,7 +55,7 @@ help:
 | ^⌥F                  | Center Third                    |
 | ^⌥T                  | Right Two Thirds                |
 | ^⌥G                  | Right Third                     |
-| ^⌥<cr>               | Right Third                     |
+| ^⌥↵                  | Right Third                     |
 | ^⌥C                  | Center                          |
 
 ### Trackpad Gestures
