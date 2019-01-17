@@ -30,11 +30,11 @@ help:
 | F12                  | Show dashboard                  |
 | Ctrl + F3            | Focus Dock                      |
 | Ctrl + F4            | Alt-Tab                         |
-| Shift + ⌘ + 3        | Save screenshot to file         |
-| Ctrl + Shift + ⌘ + 3 | Copy screenshot to clipboard    |
-| Shift + ⌘ + 4        | Save screen region to file      |
-| Ctrl + Shift + ⌘ + 4 | Copy screen region to clipboard |
-| Shift + ⌘ + /        | Show Help Menu                  |
+| ^ + ⌘ + 3            | Save screenshot to file         |
+| Ctrl + ^ + ⌘ + 3     | Copy screenshot to clipboard    |
+| ^ + ⌘ + 4            | Save screen region to file      |
+| Ctrl + ^ + ⌘ + 4     | Copy screen region to clipboard |
+| ^ + ⌘ + /            | Show Help Menu                  |
 | ⌘ + ⌥ + →            | Next tab (chrome)               |
 | ⌘ + ⌥ + ←            | Previous tab (chrome)           |
 
