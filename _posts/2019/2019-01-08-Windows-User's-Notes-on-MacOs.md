@@ -14,6 +14,39 @@ question on slack.*
 Took me about a month of raging when I first switched to OSX. These tips might
 help:
 
+## Shortcuts
+
+### Keyboard
+
+| Keys                 | Effect                          | 
+|----------------------|---------------------------------|
+| `Cmd + L`            | Address bar                     |
+| `Cmd + Q`            | Close app                       |
+| `Cmd + Space`        | Spotlight                       |
+| `Cmd + Opt + Space`  | Finder                          |
+| `Ctrl + Up`          | Mission Control                 |
+| `Cmd+up/down`        | Move up and down the tree. Doing it on a file opens it. |
+| `F11`                | Show desktop                    |
+| `F12`                | Show dashboard                  |
+| `Ctrl + F3`          | Focus Dock                      |
+| `Ctrl + F4`          | Alt-Tab                         |
+| `Shift-Cmd-3`        | Save screenshot to file         |
+| `Ctrl-Shift-Cmd-3`   | Copy screenshot to clipboard    |
+| `Shift-Cmd-4`        | Save screen region to file      |
+| `Ctrl-Shift-Cmd-4`   | Copy screen region to clipboard |
+| `Shift-Cmd-/`        | Show Help Menu                  |
+
+### Trackpad Gestures
+
+| Gesture                               | Effect              |
+|---------------------------------------|---------------------|
+| Scroll left or right with two fingers | Swipe between pages |
+| Swipe left or right with 3 fingers    | Switch desktop      |
+| Swipe left from edge                  | Notificatin Center  |
+| Swipe up with three fingers           | Mission Control     |
+| Pinch with all the fingers            | Launchpad           |
+| Spread out thumb and three fingers    | Show Desktop        |
+
 ## Finder keyboard 
 
 They actually feel more rational to me than Explorer now tbh.
