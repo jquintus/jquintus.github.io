@@ -1,8 +1,20 @@
+- company: Attentive
+  position: Senior Software Engineer
+  website: http://AttentiveMobile.com
+  startDate: 2019-01-16
+  endDate: Present
+  summary: 
+  reasonForLeaving: 
+  supervisor: Andy Jones
+  address: 156 Fifth Avenue, Suite 303, New York, NY 10015
+  phoneNumber: 
+  highlights:
+
 - company: DotAlign, Inc.
   position: Principal Developer
   website: http://DotAlign.com
   startDate: 2015-03-16
-  endDate: Present
+  endDate: 2019-01-15
   summary: 
   reasonForLeaving: Desire to learn while leading a team of senior engineerings
   supervisor: Jaspreet Bakshi
