@@ -16,7 +16,7 @@ notes on exactly what I need to do in order to get a Pi up and running.
 1. Download the latest version of [Raspbian](https://www.raspberrypi.org/downloads/raspbian/). For this project I elected to have the version with a desktop. Estimated download time is about 10 minutes.
 1. Install [etcher](https://www.balena.io/etcher/) from an admin shell with `cinst -y etcher`. Estimated downloaded time is about 2 minutes.
 1. Open etcher. If it's not on your desktop, then hit the start button and type in `BalenaEtcher`
-1. Pick the file you downloaded file from step 1, and flash it to an SD card. 
+1. Pick the file you downloaded file from step 1, and flash it to an SD card.
 1. Insert SD card into Pi and boot it up. The initial boot takes a little longer than normal.
 1. Go through the onscreen Welcome Wizard
   1. Change the password (remember to write it down)
@@ -39,3 +39,29 @@ notes on exactly what I need to do in order to get a Pi up and running.
 ## Optional
 
 1. Install vim
+  1.  `sudo apt-get install vim`
+1. Install [screen](https://linux.die.net/man/1/screen)
+  1.  `sudo apt-get install screen`
+1. [Install VS Code](https://code.visualstudio.com/) - ([Full Article](https://code.headmelted.com))
+  ```bash
+  sudo -s
+  . <( wget -O - https://code.headmelted.com/installers/apt.sh )
+  ```
+
+## Back it up
+
+Now that everything is set up just-so, it's worth creating a backup so that we don't have to do all of this ever again.
+
+1. Install [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
+  ```cmd
+  choco install -y win32diskimager.portable
+  ```
+1. Start up Disk Imager
+  ```
+  Win32DiskImager.exe %HomeDrive%\%HomePath%\Desktop\buttons.img
+  ```
+1. There will be two devices that you can pick in the dropdown.  Select the one that you can navigate to in Windows Explorer
+1. Press the `Read` button
+1. Wait
+1. [Optional] Zip it up.   This took the file down from about 32GB (the size of the disk) to about 2GB
+
