@@ -48,12 +48,20 @@ notes on exactly what I need to do in order to get a Pi up and running.
         sudo -s
         . <( wget -O - https://code.headmelted.com/installers/apt.sh )
         ```
-  1. Uninstall it and install it again! As of this writintg there's a known issue with the current build.  The easiest workaround is to just install an older version.  The last command here tells the system not to upgrade VS Code when you ask it to upgrade other things.
+    1. Uninstall it and install it again! As of this writintg there's a known issue with the current build.  The easiest workaround is to just install an older version.  The last command here tells the system not to upgrade VS Code when you ask it to upgrade other things.
         ```bash
         sudo apt-get remove code-oss
         sudo apt-get install code-oss=1.29.0-1539702286
         sudo apt-mark hold code-oss
+1. Login to github
+    1. Create a [personal access token](https://github.com/settings/tokens)
+    1. Configure git with your name, email, and tell it to stop asking for passwords
+        ```bash
+        git config --global user.name "Josh Quintus"
+        git config --global user.email "josh.quintus@gmail.com"
+        git config --global credential.helper cache
         ```
+    1. Do a git push and use the access token as your password.  You can forget it from here on out.
 
 ## Back it up
 
