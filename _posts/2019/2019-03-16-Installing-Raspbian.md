@@ -40,6 +40,7 @@ notes on exactly what I need to do in order to get a Pi up and running.
 
 1. Install vim
     1.  `sudo apt-get install vim`
+    1. `sudo update-alternatives --config editor`
 1. Install [screen](https://linux.die.net/man/1/screen)
     1.  `sudo apt-get install screen`
 1. [Install VS Code](https://code.visualstudio.com/) - ([Full Article](https://code.headmelted.com))
@@ -59,7 +60,7 @@ notes on exactly what I need to do in order to get a Pi up and running.
         ```bash
         git config --global user.name "Josh Quintus"
         git config --global user.email "josh.quintus@gmail.com"
-        git config --global credential.helper cache
+        git config --global credential.helper store
         ```
     1. Do a git push and use the access token as your password.  You can forget it from here on out.
 
