@@ -22,5 +22,5 @@ connected first, then you know which direction it was turned.  The [source
 code](https://github.com/jquintus/PiProject/blob/7802b940a5fb12dbffc6e1c692deea18a9d15a09/SimpleIO/SimpleRotary.py)
 is pretty straight forward.
 
-![encoder on a breadboard](/images/posts/2019/2019-04-07-Pi-Project-Status-Report-Day-3/demo.jpg)
+![encoder on a breadboard](/images/posts/2019/2019-04-07-Pi-Project-Status-Report-Day-3/demo2.jpg)
 
