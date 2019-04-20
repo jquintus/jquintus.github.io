@@ -7,8 +7,6 @@ categories:
   - Pi Project
 ---
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-
 [![alt text](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/small/initial_build_01.jpg)](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/initial_build_01.jpg)
 [![alt text](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/small/initial_build_02.jpg)](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/initial_build_02.jpg)
 [![alt text](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/small/initial_build_03.jpg)](/images/posts/2019/2019-04-19-Pi-Project-Status-Report-Day-4.5/initial_build_03.jpg)
