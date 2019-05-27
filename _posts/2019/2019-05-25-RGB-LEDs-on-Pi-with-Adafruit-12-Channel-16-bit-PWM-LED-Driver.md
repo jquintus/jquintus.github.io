@@ -84,17 +84,16 @@ spi = busio.SPI(clock=board.SCK, MOSI=board.MOSI)
 rgb = adafruit_tlc59711.TLC59711(spi)
 
 # Full Red, Green, or Blue (mix/match as much as you like)
-rgb[3] = (65535, 0, 0)
-rgb[3] = (0, 65535, 0)
-rgb[3] = (0, 0, 65535)
+rgb[1] = (65535, 0, 0)
+rgb[1] = (0, 65535, 0)
+rgb[1] = (0, 0, 65535)
 
-rgb.b3 = 32768
-rgb.g3 = 16384
-rgb.r3 = 8192
+rgb.b1 = 32768
+rgb.g1 = 16384
+rgb.r1 = 8192
 
-
-leds.red_brightness = 10
-leds.green_brightness = 10
-leds.blue_brightness = 10
+rgb.red_brightness = 10
+rgb.green_brightness = 10
+rgb.blue_brightness = 10
 
 ```
