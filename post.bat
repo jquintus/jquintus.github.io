@@ -54,6 +54,14 @@ IF NOT EXIST "_posts\%FILE_NAME%.md" (
     ECHO creating post %FILE_NAME%...
     COPY _posts\template.md _posts\%FILE_NAME%.md
 )
-
 ECHO opening post %FILE_NAME%
 start _posts\%FILE_NAME%.md
+
+REM ==========================================
+REM Create the image folder if it doesn't exist
+REM ==========================================
+IF NOT EXIST "images\posts\%FILE_NAME%" (
+    ECHO creating image folder %FILE_NAME%...
+    MKDIR images\posts\%FILE_NAME%
+)
+
