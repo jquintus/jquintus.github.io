@@ -54,7 +54,7 @@ Now once the the USB cable is plugged into the laptop it will show up as a new
 COM port.  To figure out which one it is either find it in the Device Manager
 or use the `mode` command.
 
-[![Device Manager](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/Device-Manager.png)](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/Device-Manager.png)
+[![Device Manager](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/Device-Manager_small.png)](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/Device-Manager.png)
 
 ```bash
 >mode
@@ -89,7 +89,7 @@ device manager too by going in to the port's properties.
 
 Open up the serial port in PuTTY, using the COM5 port found above.
 
-[![PuTTY](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/putty.png)](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/putty.png)
+[![PuTTY](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/putty_small.png)](/images/posts/2019/2019-06-22-Connecting-to-Raspberry-Pi-Over-Serial-Port/putty.png)
 
 ## Connecting
 
