@@ -59,8 +59,7 @@ would be `00-00-04-05-06`. But then this would continue to send `c` repeatedly
 since we never sent the key up signal. To do that, just send an empty message
 with `00-00`.
 
-A complete listing of the keys can be found in [section 12 here](.
-h)ttp://www.freebsddiary.org/APC/usb_hid_usages.php
+A complete listing of the keys can be found in [section 12 here.](http://www.freebsddiary.org/APC/usb_hid_usages.php)
 
 The other type of message that I'm sending is a control command. This is used
 to emulate media buttons like play, stop, and volume control. In my example I
