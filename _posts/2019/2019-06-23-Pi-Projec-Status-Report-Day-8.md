@@ -159,5 +159,5 @@ and will wire up that and a power switch once they arrive.
 
 ---
 
-[Code Changes](https://github.com/jquintus/PiProject/pull/9)
-[Tag in GitHub](https://github.com/jquintus/PiProject/releases/tag/status8)
+* [Code Changes](https://github.com/jquintus/PiProject/pull/9)
+* [Tag in GitHub](https://github.com/jquintus/PiProject/releases/tag/status8)
