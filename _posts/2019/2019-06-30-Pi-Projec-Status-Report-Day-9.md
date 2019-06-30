@@ -23,3 +23,5 @@ categories:
 
 * [Tag on GitHub](https://github.com/jquintus/PiProject/releases/tag/status9)
 * [Pull Request on GitHub](https://github.com/jquintus/PiProject/pull/10)
+
+Here's the useful command I used to create the thumbnails for this post:  `magick mogrify -resize 33% -path ./thumbnails *.jpg`.
