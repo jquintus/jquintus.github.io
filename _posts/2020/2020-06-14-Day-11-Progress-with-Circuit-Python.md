@@ -127,6 +127,15 @@ a bunch of headers on a variety of boards I had lying around. This went pretty
 well (no shorts!) and didn't take too long. I made some mistakes, but was able
 to fix them all.
 
+This is what the board looked like when I was done.  The blue sticker is there to differentiate it from other types of boards (which have another color sticker) and my other board of the same type (which has a different number written on it)
+
+[![Soldered Feather](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/soldered_feather.jpg)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/soldered_feather.jpg)
+
+And here's a close up of the soldering work.
+
+[![Close Up of Solder Work](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/solder_close_up.jpg)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/solder_close_up.jpg)
+
+
 My next problem was that the buttons seemed to be firing presses pretty
 sporadically. After about half an hour of frustrated debugging, I realized that
 the sample code I was using wasn't explicitly setting the buttons to use a
