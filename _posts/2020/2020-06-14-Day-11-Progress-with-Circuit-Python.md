@@ -34,7 +34,7 @@ Pretty simply though, you plug it in to your computer. It will install itself
 and then automatically present itself as a file system. 
 
 [![Install
-CircuitPython](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/install_circuitpython.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/install_circuitpython.png)
+CircuitPython](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/install_circuitpython.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/install_circuitpython.png)
 
 When that happens, go to the [CircuitPython download
 site](https://circuitpython.org/downloads), download the installation for your
@@ -62,14 +62,14 @@ with each device. To determine which port it's using open up the Device Manager
 and expand the `Ports (COM & LPT)` node. It will be listed there. In my case,
 it was port 12.
 
-[![Looking up the COM port](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/look_up_com_port.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/look_up_com_port.png)
+[![Looking up the COM port](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/look_up_com_port.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/look_up_com_port.png)
 
 Fire up PuTTY, select the `serial` radio button, and enter `COM12` in the
 address bar. I left the speed at 9600 and it worked fine. Press connect and
 you're now connected to the console output of your board. You may need to
 restart the program (just save it again).
 
-[![PuTTY](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/putty.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/putty.png)
+[![PuTTY](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/putty.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/putty.png)
 
 I had some issues using vim, which was disappointing. Saving wouldn't trigger a
 restart. I moved to Visual Studio Code. My preferred way to work is actually
