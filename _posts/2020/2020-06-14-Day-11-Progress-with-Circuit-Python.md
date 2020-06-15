@@ -148,11 +148,11 @@ had. But the one I had in my box didn't have the easy to attach to header pins.
 So I grabbed a piece of protoboard, cut it down to size a bit, and soldered the
 encoder to it along with some wires.
 
-[![My Solder Job](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/soldered.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/soldered.png)
+[![My Solder Job](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/soldered.jpg)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/soldered.jpg)
 
 This is what it looks like from the top (and plugged into a breadboard for testing)
 
-[![Rotary Encoder](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/rotary_encoder.png)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/rotary_encoder.png)
+[![Rotary Encoder](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/thumbnails/rotary_encoder.jpg)](/images/posts/2020/2020-06-14-Day-11-Progress-with-Circuit-Python/rotary_encoder.jpg)
 
 ## Conclusion
 
