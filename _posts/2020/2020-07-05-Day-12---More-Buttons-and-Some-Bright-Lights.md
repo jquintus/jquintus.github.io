@@ -19,7 +19,7 @@ doable, but then doesn't leave room for a lot of expansion (I also want a
 volume knob for instance...).
 
 ## Button Matrix
-[![matrix diagram](./images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/thumbnails/matrix_diagram.jpg)](/images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/matrix_diagram.jpg)
+[![matrix diagram](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/matrix_diagram.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/matrix_diagram.jpg)
 
 
 The solution I looked at was well documented around the web. I mostly used this
@@ -76,7 +76,7 @@ wringing and checking all of my connections I realized that my breadboard
 actually has a short across those power rails. After pulling out all of the
 connections, rotating the board, and trying again, it worked just fine.
 
-[![button matrix wired](./images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/thumbnails/button_matrix_wired.jpg)](/images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/button_matrix_wired.jpg)
+[![button matrix wired](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/button_matrix_wired.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/button_matrix_wired.jpg)
 
 ## IC the Lights
 
@@ -187,10 +187,19 @@ connect the pins to ground and that's what I had forgot.
 Now that I had everything wired correctly, I still needed to figure out how to
 control the additional input. If I tried sending anything higher than 255 I was
 still not getting my new LED's to light up. Reading through the [CircuitPython
-doco](https://circuitpython.readthedocs.io/projects/simpleio/en/latest/api.html#simpleio.shift_out),
+doco](https://circuitpython.readthedocs.io/projects/ggsimpleio/en/latest/api.html#simpleio.shift_out),
 I saw that the `shift_out` function has a default paramter of bitcount set to
 8.  Well... I want 16 bits. Setting that parameter worked. 
 
-[![fully_wired.jpg](./images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/thumbnails/fully_wired.jpg)](/images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/fully_wired.jpg)
+## Completed
 
-[![fully_wired_top.jpg](./images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/thumbnails/fully_wired_top.jpg)](/images/posts/2020/2020-07-05-Day-15---More-Buttons-and-Some-Bright-Lights/fully_wired_top.jpg)
+Here are some pictures of the "completed" project
+
+[![fully_wired.jpg](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/fully_wired.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/fully_wired.jpg)
+
+[![fully_wired_top.jpg](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/fully_wired_top.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/fully_wired_top.jpg)
+
+**Frizting diagram**
+[![fritzing.png](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/fritzing.png)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/fritzing.png)
+
+
