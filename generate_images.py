@@ -5,7 +5,13 @@ def render(posts):
         def __init__(self, image_path):
             self.image_path = image_path.lstrip(".")
             self.alt = os.path.basename(image_path)
-            self.thumb = "thumb"
+            self.thumb = self.create_alt_name(image_path)
+
+        def create_alt_name(self, image_path):
+            foldername = os.path.dirname(image_path)
+            filename = os.path.basename(image_path)
+
+            return os.path.join(foldername, "thumbnails", filename)
 
         def __str__(self):
             # Sample:
