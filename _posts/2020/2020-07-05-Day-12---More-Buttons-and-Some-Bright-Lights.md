@@ -202,4 +202,4 @@ Here are some pictures of the "completed" project
 **Frizting diagram**
 [![fritzing.png](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/fritzing.png)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/fritzing.png)
 
-
+All of the code can be found in the [Day 12 pull request](https://github.com/jquintus/PiProject/pull/18) in my repo.
