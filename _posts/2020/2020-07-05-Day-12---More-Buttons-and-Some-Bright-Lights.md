@@ -1,6 +1,6 @@
 ---
 layout: post
-disqus_identifier: #
+disqus_identifier: #69
 comments: true
 categories: 
   - Frtizing
