@@ -17,7 +17,7 @@ I recently picked up [Ben Eater's 8-bit computer kit](https://eater.net/8bit).  
 
 This is step 1 of the clock module, the variable speed portion.  It uses a 555 timer to produce the square wave that powers the LED.  That LED is eventually going to be removed from the board when the entire module is done, which is why it hasn't been cut down.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://2glSRK5Siw0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2glSRK5Siw0" frameborder="0" allowfullscreen></iframe>
 
 The clock kit comes with pre-cut jumper wires that you can use. The drawback to them is that you can't control the color for each lenght of wire. So I dug into the second kit to pull out the spools of 25 foot colored wires. I figure if I start with those wires now then the color coding will be consitent for the entire project. Not only that, but the red wires will be the same shade for the entire time.
 
