@@ -9,7 +9,8 @@ categories:
   - clock
 ---
 
-[![clock_module.jpg](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/clock_module.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/clock_module.jpg)
+2020-08-15-Breadboard-Computer-1---Clock-Module
+[![clock_module.jpg](./images/posts/2020/2020-08-15-Breadboard-Computer-1---Clock-Module/thumbnails/clock_module.jpg)](/images/posts/2020/2020-08-15-Breadboard-Computer-1---Clock-Module/clock_module.jpg)
 
 I recently picked up [Ben Eater's 8-bit computer kit](https://eater.net/8bit).
 The entire walk through for Ben's computer can be found on
@@ -80,7 +81,7 @@ I used the above method to cut the wires for the rest of the work:
 
 Before I got started with this _slightly_ more complicated step, I sorted and labeled the chips:
 
-[![chip_cheat_sheet.jpg](./images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/thumbnails/chip_cheat_sheet.jpg)](/images/posts/2020/2020-07-05-Day-12---More-Buttons-and-Some-Bright-Lights/chip_cheat_sheet.jpg)
+[![chip_cheat_sheet.jpg](./images/posts/2020/2020-08-15-Breadboard-Computer-1---Clock-Module/thumbnails/chip_cheat_sheet.jpg)](/images/posts/2020/2020-08-15-Breadboard-Computer-1---Clock-Module/chip_cheat_sheet.jpg)
 
 High tech, I know!
 
