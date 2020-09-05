@@ -34,13 +34,13 @@ Last time, I built the [clock module](https://quintussential.com/archive/2020/08
 
 I went with the latter and picked up a set of [Knipex wire strippers](https://www.amazon.com/Knipex-1262180-Adjusting-Insulation-Strippers/dp/B003B8WB5U/). These things are amazing. Set the length to strip, insert wire, pull trigger, repeat. The exact right amount is stripped each and every time. No worries about setting the right gauge wire, it auto adjusts. Pure joy to work with after fumbling around last week. I can now complete wiring tasks in minutes that would take hours without them.
 
-[![wire_strippers.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/wire_strippers.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/wire_strippers.jpg)
+[![wire_strippers.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/wire_strippers.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/wire_strippers.jpg)
 
 They are a little on the pricey side but they will save me so much time and effort that they are worth it. I'd highly recommend them if you can afford it.
 
 # The Build
 
-[![ics.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/ics.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/ics.jpg)
+[![ics.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/ics.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/ics.jpg)
 
 Each register uses :
 
@@ -51,11 +51,11 @@ The remaining transceiver, OR gates, and adders in the picture will be used for 
 
 The register chips are 4 bits each, which is why two are needed to store 8 bits total.  They are wired together (clocks, read signal, output signal, etc) so that they can be used as a single logical unit. They are wired to always output their data so that we can see their state in the LED's. That's why the transceiver is needed to toggle writing that state to the bus when the computer needs to read from the register.
 
-[![assembly_01.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/assembly_01.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/assembly_01.jpg)
+[![assembly_01.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/assembly_01.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/assembly_01.jpg)
 
 Each breadboard will be dedicated to a register. The top two will be the A and B registers, the bottom one will be used for the instruction register. The top two will be on the right side of the computer, the bottom one will be on the left. The transceiver chip will need to be connected to the bus (which will be in the middle) so it will be convenient to have that as close to the bus as possible (just to avoid messy wiring).  Other than that, the three registers will be identical
 
-[![assembly_02.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/assembly_02.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/assembly_02.jpg)
+[![assembly_02.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/assembly_02.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/assembly_02.jpg)
 
 Here we can see the connections keeping the pairs of register chips in sync with each other. The white wires (on the bottom) will be used as the clock input, the yellows are signals to read or clear data.
 
@@ -65,6 +65,6 @@ The rest of the work is to just wire up the 8 channels connecting the registers 
 
 # LED's
 
-[![led_strip_back.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_back.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_back.jpg)
-[![led_strip_front.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_front.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_front.jpg)
-[![led_strip_side.jpg](./images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_side.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_side.jpg)
+[![led_strip_back.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_back.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_back.jpg)
+[![led_strip_front.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_front.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_front.jpg)
+[![led_strip_side.jpg](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/thumbnails/led_strip_side.jpg)](/images/posts/2020/2020-09-02-Breadboard-Computer-2-Registers/led_strip_side.jpg)
