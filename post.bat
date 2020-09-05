@@ -61,7 +61,8 @@ REM ==========================================
 REM Create the image folder if it doesn't exist
 REM ==========================================
 IF NOT EXIST "images\posts\%FILE_NAME%" (
-    ECHO creating image folder %FILE_NAME%...
+    ECHO creating image folders %FILE_NAME%...
     MKDIR images\posts\%FILE_NAME%
+    MKDIR images\posts\%FILE_NAME%\thumbnails
 )
 
