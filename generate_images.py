@@ -4,8 +4,8 @@ def render(posts):
     class Image:
         def __init__(self, image_path):
             self.image_path = image_path.lstrip(".")
-            self.alt = os.path.basename(image_path)
-            self.thumb = self.create_alt_name(image_path)
+            self.alt = os.path.basename(image_path).lstrip(".")
+            self.thumb = self.create_alt_name(image_path).lstrip(".")
 
         def create_alt_name(self, image_path):
             foldername = os.path.dirname(image_path)
@@ -63,7 +63,7 @@ def find_posts(path):
             posts[relative_folder] = images
     return posts
 
-path = os.path.join("images", "posts", "2020")
+path = os.path.join(".", "images", "posts", "2020")
 posts = find_posts(path)
 
 render(posts)
