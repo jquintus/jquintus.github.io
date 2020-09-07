@@ -24,3 +24,13 @@ So far this is has been the most complicated part of the computer to build. This
 I learned two useful approaches to this problem
   1. Write out a chart of all of the connections
   1. Use a multimeter to test for voltage levels in addition to continuity
+
+
+
+
+## 2020-09-07-Breadpoard-Computer-3-Adding!
+[![IMG_20200906_223220.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200906_223220.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200906_223220.jpg)
+[![IMG_20200907_111914.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111914.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111914.jpg)
+[![IMG_20200907_111930.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111930.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111930.jpg)
+[![IMG_20200907_111942.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111942.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111942.jpg)
+[![IMG_20200907_112001.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_112001.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_112001.jpg)
