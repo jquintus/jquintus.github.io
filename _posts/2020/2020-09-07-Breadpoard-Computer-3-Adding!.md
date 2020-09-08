@@ -27,10 +27,10 @@ I learned two useful approaches to this problem
 
 
 
-
 ## 2020-09-07-Breadpoard-Computer-3-Adding!
-[![IMG_20200906_223220.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200906_223220.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200906_223220.jpg)
-[![IMG_20200907_111914.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111914.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111914.jpg)
-[![IMG_20200907_111930.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111930.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111930.jpg)
-[![IMG_20200907_111942.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_111942.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_111942.jpg)
-[![IMG_20200907_112001.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/IMG_20200907_112001.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/IMG_20200907_112001.jpg)
+[![adding.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/adding.jpg)
+[![leds_back.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/leds_back.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/leds_back.jpg)
+[![leds_front.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/leds_front.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/leds_front.jpg)
+[![led_back.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/led_back.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/led_back.jpg)
+[![led_front.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/led_front.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/led_front.jpg)
+
