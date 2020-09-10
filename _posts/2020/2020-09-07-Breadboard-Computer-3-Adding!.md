@@ -35,7 +35,7 @@ In order to know which if a wire is connecting the wrong pins on two IC's, you n
 The A register is simpler than the B register since it connects directly to the adder and does not need to be negated.
 
 | A Register Bit | Transceiver Pin | Left Adder Pin | Right Adder Pin |
------------------------------------------------------------------------
+|----------------|-----------------|----------------|-----------------|
 |             8  |               2 |             12 |               X |
 |             7  |               3 |             14 |               X |
 |             6  |               4 |              3 |               X |
@@ -45,11 +45,24 @@ The A register is simpler than the B register since it connects directly to the 
 |             2  |               8 |              X |               3 |
 |             1  |               9 |              X |               5 |
 
+This basically just tells me that if I think I'm having an issue with the most significant bit in the A register (bit 8), then I need to check to see if the wire from the transceiver's second pin connects to the twelfth pin on the left adder. Once I run down all the pins combinations to make sure that they are correct, I can be confident that the register is wired up correctly and move on to the B register.
 
-## 2020-09-07-Breadpoard-Computer-3-Adding!
-[![adding.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/adding.jpg)
-[![leds_back.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/leds_back.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/leds_back.jpg)
-[![leds_front.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/leds_front.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/leds_front.jpg)
-[![led_back.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/led_back.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/led_back.jpg)
-[![led_front.jpg](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/thumbnails/led_front.jpg)](/images/posts/2020/2020-09-07-Breadpoard-Computer-3-Adding!/led_front.jpg)
+### The B Register
+
+| B Register Bit | Transceiver Pin | Left Adder Pin | Right Adder Pin |
+|----------------|-----------------|----------------|-----------------|
+|             8  |               2 |             12 |               X |
+|             7  |               3 |             14 |               X |
+|             6  |               4 |              3 |               X |
+|             5  |               5 |              5 |               X |
+|             4  |               6 |              X |              12 |
+|             3  |               7 |              X |              14 |
+|             2  |               8 |              X |               3 |
+|             1  |               9 |              X |               5 |
+## 2020-09-07-Breadboard-Computer-3-Adding!
+[![adding.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/adding.jpg)
+[![leds_back.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/leds_back.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/leds_back.jpg)
+[![leds_front.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/leds_front.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/leds_front.jpg)
+[![led_back.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/led_back.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/led_back.jpg)
+[![led_front.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/led_front.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/led_front.jpg)
 
