@@ -9,6 +9,8 @@ categories:
   - ALU
 ---
 
+[![adding.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/adding.jpg)
+
 Now that I have [two registers](https://quintussential.com/archive/2020/09/02/Breadboard-Computer-2-Registers/) to store whatever (8-bit) values I want in them, what next? Let's add them together! (Or subtract them). 
 
 # The ALU
@@ -97,19 +99,36 @@ And now all that we need to do is wire the adder outputs to the transceiver.
 
 | Summation Bit | Output Transceiver Pin | Adder Pin Name | Adder Pin |
 |---------------|------------------------|----------------|-----------|
-|             8 |                      2 |        Left Σ4  |   Left 11 |
-|             7 |                      3 |        Left Σ3  |   Left 15 |
-|             6 |                      4 |        Left Σ2  |    Left 2 |
-|             5 |                      5 |        Left Σ1  |    Left 6 |
-|             4 |                      6 |       Right Σ4  |  Right 11 |
-|             3 |                      7 |       Right Σ3  |  Right 15 |
-|             2 |                      8 |       Right Σ2  |   Right 2 |
-|             1 |                      9 |       Right Σ1  |   Right 6 |
+|             8 |                      2 |        Left Σ4 |   Left 11 |
+|             7 |                      3 |        Left Σ3 |   Left 15 |
+|             6 |                      4 |        Left Σ2 |    Left 2 |
+|             5 |                      5 |        Left Σ1 |    Left 6 |
+|             4 |                      6 |       Right Σ4 |  Right 11 |
+|             3 |                      7 |       Right Σ3 |  Right 15 |
+|             2 |                      8 |       Right Σ2 |   Right 2 |
+|             1 |                      9 |       Right Σ1 |   Right 6 |
 
-## 2020-09-07-Breadboard-Computer-3-Adding!
-[![adding.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/adding.jpg)
+## Using a Multimeter
+
+The most straightforward way to use the multimeter to verify the connections is to use the continuity feature:
+
+1. Turn on the multimeter
+1. Put the red lead on one pin
+1. Put the black lead on the pin you hope it's connected to (this is where the charts come in handy)
+
+If you hear a tone, then the wiring is good. If you don't, then you found a problem. Move the black lead to other pins to determine which pin the other end of the wire  _is_ connected to.  Even if there was a tone, it may be useful to place the black lead on other pins to check for a short. This would mean that another wire connected to this IC is incorrect.
+
+The upside of this approach is that it is simple. The downside is that it requires testing every connection. This is a pretty simple layout and it has upwards of forty connections to check. Another option is to do voltage reading to test which connections have voltage running through them. This is essentially the same as hooking up an LED in parallel to each of the pins to see its output. Set the multimeter to 5v DC setting, put the black wire to ground, and then put the red wire on the IC pin. I like to use alligator clamps coming out of the multimeter connected to jumper wires. That way the wires can be plugged directly into the breadboard and you can monitor voltages as the state changes.
+
+# Output
+
+The final component here is wiring up LED's. I decided it would be easiest to read the output if I made more LED strips that could plug into the breadboard with headers. I've improved on the original design by using LED's with with the resistors built in. This reduces the amount of soldering I need to do and makes the result a little more compact. Speaking of which, I also used 3mm LED's instead of the original 5mm.
+
 [![leds_back.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/leds_back.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/leds_back.jpg)
+
 [![leds_front.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/leds_front.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/leds_front.jpg)
+
 [![led_back.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/led_back.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/led_back.jpg)
+
 [![led_front.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/led_front.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/led_front.jpg)
 
