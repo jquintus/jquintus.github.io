@@ -9,7 +9,7 @@ categories:
   - ALU
 ---
 
-[![adding.jpg](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/adding.jpg)
+[![42 + 7 = 49](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/thumbnails/adding.jpg)](/images/posts/2020/2020-09-07-Breadboard-Computer-3-Adding!/adding.jpg)
 
 Now that I have [two registers](https://quintussential.com/archive/2020/09/02/Breadboard-Computer-2-Registers/) to store whatever (8-bit) values I want in them, what next? Let's add them together! (Or subtract them). 
 
