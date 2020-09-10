@@ -22,9 +22,28 @@ In subtract mode (when the control line is brought high), it subtracts the value
 So far this is has been the most complicated part of the computer to build. This is purely because of the number of connections to be made and how much they overlap. If you're off by one pin for one wire the entire output is messed up and you have to wade through all the criss crossing wires to figure out what is wrong. The problem gets worse when you have multiple wires in the wrong spot... which is what happened to me.
 
 I learned two useful approaches to this problem
-  1. Write out a chart of all of the connections
+  1. Write out a table of all of the connections
   1. Use a multimeter to test for voltage levels in addition to continuity
 
+## Tabling Connections
+
+In order to know which if a wire is connecting the wrong pins on two IC's, you need to know which are the right pins. So after blindly staring at the forest of wires, I went back to the pin outs of the IC's and wrote a few tables to track what I should expect to be where.  I did them by hand in a notebook, but this is essentially what I have.
+
+
+### The A Register
+
+The A register is simpler than the B register since it connects directly to the adder and does not need to be negated.
+
+| A Register Bit | Transceiver Pin | Left Adder Pin | Right Adder Pin |
+-----------------------------------------------------------------------
+|             8  |               2 |             12 |               X |
+|             7  |               3 |             14 |               X |
+|             6  |               4 |              3 |               X |
+|             5  |               5 |              5 |               X |
+|             4  |               6 |              X |              12 |
+|             3  |               7 |              X |              14 |
+|             2  |               8 |              X |               3 |
+|             1  |               9 |              X |               5 |
 
 
 ## 2020-09-07-Breadpoard-Computer-3-Adding!
