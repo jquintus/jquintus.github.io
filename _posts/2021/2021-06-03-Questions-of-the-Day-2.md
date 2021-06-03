@@ -6,7 +6,7 @@ categories:
   - Mr. Manager
 ---
 
-A few months ago I posted a list of my [Question of the Day](../2020/07/06/Questions-of-the-Day/) icebreakers. Here are some new ones I've used since then.
+A few months ago I posted a list of my [Question of the Day](/archive/2020/07/06/Questions-of-the-Day/) icebreakers. Here are some new ones I've used since then.
 
 1. Any plans for the holiday break?
 1. Each Planet Earth installment takes about 2,089 film shooting days, or just over 5.7 years non-stop. If you were tasked with being the editor for one animal of your choice to present a story to the Planet Earth audience, which animal (or even climate) would you choose?
