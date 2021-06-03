@@ -125,3 +125,4 @@ definitely on the list) I'd ask "What's a movie you've enjoyed recently?"
 1. You have your own late night talk show, who do you invite as your first guest?
 
 (Updated 8/18/2020 with 20 more questions!)
+(Update 6/3/2021 I added [more questions](/archive/2020/07/06/Questions-of-the-Day) in a follow up post)
