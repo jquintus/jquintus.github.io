@@ -124,5 +124,6 @@ definitely on the list) I'd ask "What's a movie you've enjoyed recently?"
 1. You have to sing karaoke, what song do you pick?
 1. You have your own late night talk show, who do you invite as your first guest?
 
-(Updated 8/18/2020 with 20 more questions!)
-(Update 6/3/2021 I added [more questions](/archive/2021/06/03/Questions-of-the-Day-2/) in a follow up post)
+Updates:
+* Updated 8/18/2020 with 20 more questions!
+* Update 6/3/2021 I added [more questions](/archive/2021/06/03/Questions-of-the-Day-2/) in a follow up post
