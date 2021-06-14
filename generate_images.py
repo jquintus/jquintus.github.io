@@ -63,7 +63,7 @@ def find_posts(path):
             posts[relative_folder] = images
     return posts
 
-path = os.path.join(".", "images", "posts", "2020")
+path = os.path.join(".", "images", "posts", "2021")
 posts = find_posts(path)
 
 render(posts)
