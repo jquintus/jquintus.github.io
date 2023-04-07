@@ -219,4 +219,4 @@ categories:
 Previous posts
 * [Question of the Day](/archive/2020/07/06/Questions-of-the-Day/)
 * [Question of the Day 2](/archive/2021/06/03/Questions-of-the-Day-2/)
-* [Question of the Day 3](/archive/2022/01/29/Questions-Of-The-Day-3.md
+* [Question of the Day 3](/archive/2022/01/29/Questions-Of-The-Day-3/)
