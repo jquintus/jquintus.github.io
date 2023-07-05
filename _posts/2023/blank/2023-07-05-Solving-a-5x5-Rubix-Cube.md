@@ -57,7 +57,7 @@ R U R` F R` F` R
 
 ```
 ⚪|🟨🟨🟦🟨🟨|⚪       ⚪|🟨🟨🟨🟨🟨|⚪
-————————————————————       ————————————————————
+————————————————————       ———————————————————
 🟧|🟦🟦🟨🟦🟦|🟥       🟧|🟦🟦🟦🟦🟦|🟥
 🟧|🟦🟦🟦🟦🟦|🟥       🟧|🟦🟦🟦🟦🟦|🟥
 🟧|🟦🟦🟦🟦🟦|🟥  ==>  🟧|🟦🟦🟦🟦🟦|🟥
@@ -75,7 +75,8 @@ Lw U2 Rw' U2 Rw U2 Rw' U2 Rw'
 In the diagrams above I use the following conventions.
 
 * The 🔲 square is used to denote a square we don't care about
-* The | is used to denote the side edge of the cube. Something to the left of a | is on a different face than the square to the right of it.
+* The ⚪ is just a spacer. It means nothing and is only there so everything else lines up.
+* The `|` is used to denote the side edge of the cube. Something to the left of a `|` is on a different face than the square to the right of it.
 * The — is used to denote the top edge of the cube. Something above the — is on a different face than the square below it. 
 
 ## Note on notation
