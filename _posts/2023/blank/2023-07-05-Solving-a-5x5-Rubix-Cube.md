@@ -65,10 +65,25 @@ R U R` F R` F` R
 🟧|🟦🟦🟦🟦🟦|🟥       🟧|🟦🟦🟦🟦🟦|🟥
 ```
 
+Either of the below algorithms will solve this problem. Pick whichever you like best.
+
+### Algorithm 1
+
 ```
-Rw U2 x RW U2 R2 U2 3Rw' U2
+Rw U2 x Rw U2 Rw U2 3Rw' U2
 Lw U2 Rw' U2 Rw U2 Rw' U2 Rw'
 ```
+
+### Algorithm 2
+
+```
+Rm' U2 Lm F2
+Lm' F2 Rm2 U2
+Rm U2 Rm' U2
+F2 Rm2 F2
+```
+
+[Source](https://youtu.be/8sUizjNP2-g)
 
 ## Reading the diagrams
 
@@ -85,4 +100,6 @@ Some of the notation for 5x5 is slightly different than the 4x4 or 3x3
 
 * `Rw` means "right wide" or the two rightmost columns.
 * `3Rw` means the 3 right most columns
+* `Rm` means the "right middle" column. So it's rotating just the single column between the center colum and the right face.
+* `Lm` means the "left middle" column.
 * `x` means to rotate the entire cube so the bottom is now the front and the front is now the top. The two sides (left and right) do not change.
