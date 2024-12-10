@@ -14,7 +14,7 @@ button and debug he right project.
 
 So of course I went to wire up a hotkey for that... only you can't.
 
-Well. Not be defualt at least.
+Well. Not be default at least.
 
 First things first, you're gonna need an extension called
 [Launch Config](https://marketplace.visualstudio.com/items?itemName=ArturoDent.launch-config).
@@ -84,7 +84,7 @@ can't be stored at the workspace level 🙁.
 ```
 
 This maps the `F14` and `F15` key to starting the `d1` and `d2` config,
-respecively. But of course, you could set it to anything you like.
+respectively. But of course, you could set it to anything you like.
 
 ## TL;DR
 
