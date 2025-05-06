@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>The Hitchhiker's Guide to the Galaxy Radio Series</title>
+    <link>https://archive.org/details/hhgttg-radio</link>
+    <description>Classic BBC radio adaptation of Douglas Adams' Hitchhiker's Guide to the Galaxy.</description>
+    <language>en-us</language>
+    <copyright>Public Domain / Archive.org</copyright>
+    <itunes:author>BBC Radio</itunes:author>
+    <itunes:summary>All six phases of HHGTTG as originally broadcast on BBC Radio.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Fiction"/>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg"/>
+    <item>
+        <title>Season 1, Episode 01</title>
+        <description>Episode 01 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit01.mp3" type="audio/mpeg" length="29:45"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit01.mp3</guid>
+        <pubDate>Tue, 01 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 1, Episode 02</title>
+        <description>Episode 02 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit02.mp3" type="audio/mpeg" length="29.27"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit02.mp3</guid>
+        <pubDate>Wed, 02 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 1, Episode 03</title>
+        <description>Episode 03 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit03.mp3" type="audio/mpeg" length="29:59"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit03.mp3</guid>
+        <pubDate>Thu, 03 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 1, Episode 04</title>
+        <description>Episode 04 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit04.mp3" type="audio/mpeg" length="30:34"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit04.mp3</guid>
+        <pubDate>Fri, 04 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 1, Episode 05</title>
+        <description>Episode 05 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit05.mp3" type="audio/mpeg" length="30:58"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit05.mp3</guid>
+        <pubDate>Sat, 05 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 1, Episode 06</title>
+        <description>Episode 06 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit06.mp3" type="audio/mpeg" length="31:38"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase1.Fit06.mp3</guid>
+        <pubDate>Sun, 06 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 07</title>
+        <description>Episode 07 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit07.mp3" type="audio/mpeg" length="30:17"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit07.mp3</guid>
+        <pubDate>Mon, 07 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 08</title>
+        <description>Episode 08 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit08.mp3" type="audio/mpeg" length="29:55"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit08.mp3</guid>
+        <pubDate>Tue, 08 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 09</title>
+        <description>Episode 09 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit09.mp3" type="audio/mpeg" length="30:15"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit09.mp3</guid>
+        <pubDate>Wed, 09 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 10</title>
+        <description>Episode 10 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit10.mp3" type="audio/mpeg" length="30:22"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit10.mp3</guid>
+        <pubDate>Thu, 10 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 11</title>
+        <description>Episode 11 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit11.mp3" type="audio/mpeg" length="30:13"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit11.mp3</guid>
+        <pubDate>Fri, 11 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 2, Episode 12</title>
+        <description>Episode 12 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit12.mp3" type="audio/mpeg" length="28:31"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase2.Fit12.mp3</guid>
+        <pubDate>Sat, 12 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 13</title>
+        <description>Episode 13 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit13.mp3" type="audio/mpeg" length="29:47"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit13.mp3</guid>
+        <pubDate>Sun, 13 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 14</title>
+        <description>Episode 14 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit14.mp3" type="audio/mpeg" length="31:04"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit14.mp3</guid>
+        <pubDate>Mon, 14 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 15</title>
+        <description>Episode 15 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit15.mp3" type="audio/mpeg" length="35:36"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit15.mp3</guid>
+        <pubDate>Tue, 15 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 16</title>
+        <description>Episode 16 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit16.mp3" type="audio/mpeg" length="31:06"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit16.mp3</guid>
+        <pubDate>Wed, 16 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 17</title>
+        <description>Episode 17 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit17.mp3" type="audio/mpeg" length="30:16"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit17.mp3</guid>
+        <pubDate>Thu, 17 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 3, Episode 18</title>
+        <description>Episode 18 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit18.mp3" type="audio/mpeg" length="34:39"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase3.Fit18.mp3</guid>
+        <pubDate>Fri, 18 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 4, Episode 19</title>
+        <description>Episode 19 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit19.mp3" type="audio/mpeg" length="32:36"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit19.mp3</guid>
+        <pubDate>Sat, 19 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 4, Episode 20</title>
+        <description>Episode 20 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit20.mp3" type="audio/mpeg" length="34:23"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit20.mp3</guid>
+        <pubDate>Sun, 20 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 4, Episode 21</title>
+        <description>Episode 21 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit21.mp3" type="audio/mpeg" length="40:50"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit21.mp3</guid>
+        <pubDate>Mon, 21 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 4, Episode 22</title>
+        <description>Episode 22 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit22.mp3" type="audio/mpeg" length="30:12"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase4.Fit22.mp3</guid>
+        <pubDate>Tue, 22 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 5, Episode 23</title>
+        <description>Episode 23 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit23.mp3" type="audio/mpeg" length="30:09"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit23.mp3</guid>
+        <pubDate>Wed, 23 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 5, Episode 24</title>
+        <description>Episode 24 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit24.mp3" type="audio/mpeg" length="30:20"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit24.mp3</guid>
+        <pubDate>Thu, 24 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 5, Episode 25</title>
+        <description>Episode 25 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit25.mp3" type="audio/mpeg" length="30:12"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit25.mp3</guid>
+        <pubDate>Fri, 25 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 5, Episode 26</title>
+        <description>Episode 26 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit26.mp3" type="audio/mpeg" length="30:25"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase5.Fit26.mp3</guid>
+        <pubDate>Sat, 26 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 27</title>
+        <description>Episode 27 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit27.mp3" type="audio/mpeg" length="30:15"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit27.mp3</guid>
+        <pubDate>Sun, 27 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 28</title>
+        <description>Episode 28 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit28.mp3" type="audio/mpeg" length="30:29"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit28.mp3</guid>
+        <pubDate>Mon, 28 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 29</title>
+        <description>Episode 29 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit29.mp3" type="audio/mpeg" length="30:32"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit29.mp3</guid>
+        <pubDate>Tue, 29 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 30</title>
+        <description>Episode 30 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit30.mp3" type="audio/mpeg" length="30:13"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit30.mp3</guid>
+        <pubDate>Wed, 30 Apr 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 31</title>
+        <description>Episode 31 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit31.mp3" type="audio/mpeg" length="30:54"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit31.mp3</guid>
+        <pubDate>Thu, 01 May 1980 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Season 6, Episode 32</title>
+        <description>Episode 32 of The Hitchhiker's Guide to the Galaxy</description>
+        <enclosure url="https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit32.mp3" type="audio/mpeg" length="30:13"/>
+        <guid>https://dn721902.ca.archive.org/0/items/hhgttg-radio/HHGTTG.Phase6.Fit32.mp3</guid>
+        <pubDate>Fri, 02 May 1980 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
