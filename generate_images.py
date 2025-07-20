@@ -63,7 +63,8 @@ def find_posts(path):
             posts[relative_folder] = images
     return posts
 
-path = os.path.join(".", "images", "posts", "2021")
+# This is the path to the images folder. It needs to be updated once a year.
+path = os.path.join(".", "images", "posts", "2025")
 posts = find_posts(path)
 
 render(posts)
