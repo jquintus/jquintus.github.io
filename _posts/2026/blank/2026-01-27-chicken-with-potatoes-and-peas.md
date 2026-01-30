@@ -13,24 +13,25 @@ Pan: metal roasting pan / sheet pan
 * Olive oil, salt, pepper
 
 ## Method
-1.	Potatoes first
-    Toss potatoes with olive oil, salt, pepper.
-    Roast 20–25 min, cut-side down, until browned.
-2.	Chicken + onions
+1.	**Potatoes first**
+    * Toss potatoes with olive oil, salt, pepper.
+    * Roast 20–25 min, cut-side down, until browned.
+2.	**Chicken + onions**
     Season chicken. Add thighs (skin up) and onion wedges.
     Roast 15–20 min until fat is rendering.
 3.	Wine + rosemary
-    Pull pan. Splash ¼ cup wine against pan edge.
-    Add rosemary. Return to oven immediately.
-4.	Peas
-    Scatter frozen peas over pan.
-    Roast 8–10 min more.
-5.	Finish
-    Optional broil 2–3 min.
-    Remove rosemary. Rest 5 min, toss once, serve.
+    * Pull pan. Splash ¼ cup wine against pan edge.
+    * Add rosemary. Return to oven immediately.
+4.	**Peas**
+    * Scatter frozen peas over pan.
+    * Roast 8–10 min more.
+5.	**Finish**
+    * Optional broil 2–3 min.
+    * Remove rosemary. Rest 5 min, toss once, serve.
 
 ## Notes
 
 * If it doesn’t sizzle when wine hits, pan wasn’t hot enough
 * Crowding is good — potatoes should sit in fat
 * No liquid left at the end = correct
+
