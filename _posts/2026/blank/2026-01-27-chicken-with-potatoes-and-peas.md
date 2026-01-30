@@ -19,7 +19,7 @@ Pan: metal roasting pan / sheet pan
 2.	**Chicken + onions**
     * Season chicken. Add thighs (skin up) and onion wedges.
     * Roast 15–20 min until fat is rendering.
-3.	Wine + rosemary
+3.	**Wine + rosemary**
     * Pull pan. Splash ¼ cup wine against pan edge.
     * Add rosemary. Return to oven immediately.
 4.	**Peas**
