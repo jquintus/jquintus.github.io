@@ -17,8 +17,8 @@ Pan: metal roasting pan / sheet pan
     * Toss potatoes with olive oil, salt, pepper.
     * Roast 20–25 min, cut-side down, until browned.
 2.	**Chicken + onions**
-    Season chicken. Add thighs (skin up) and onion wedges.
-    Roast 15–20 min until fat is rendering.
+    * Season chicken. Add thighs (skin up) and onion wedges.
+    * Roast 15–20 min until fat is rendering.
 3.	Wine + rosemary
     * Pull pan. Splash ¼ cup wine against pan edge.
     * Add rosemary. Return to oven immediately.
