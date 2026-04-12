@@ -19,3 +19,13 @@ Maybe a little bit larger. But a touch of super glue would get it.
 
 ![](/images/posts/1000012636.jpg)
 
+### Bushing Sizes
+
+- Pk-penxxbu bushings are 10.8 mm
+- PK Parkbu bushings are 
+- 12.45 mm
+- 10.2 mm
+
+
+
+&nbsp;
