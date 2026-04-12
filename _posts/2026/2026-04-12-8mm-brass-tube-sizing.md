@@ -26,6 +26,12 @@ Maybe a little bit larger. But a touch of super glue would get it.
 - 12.45 mm
 - 10.2 mm
 
+### Nose Cone changes 
 
+1. Increase inner diameter to 4.75 mm
+2. Increase length 2.2mm for Schmidt 
+3. Increase length 2.75 mm for pilot Precise 
+4. Create 5mm deep shoulder at the 4.75mm
+5. Nose cone opening should be around 2.75mm wide. 
+6. Account for 4mm thickness for about 10mm for pilot 
 
-&nbsp;
