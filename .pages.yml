@@ -34,8 +34,8 @@ content:
 
   # --- Project collections ---
   # Add as many of these as you need, one per project
-  - name: project-rp2040
-    label: "Project: RP2040"
+  - name: project-pens
+    label: "Project: Pens"
     type: collection
     path: _posts
     format: yaml-frontmatter
@@ -55,7 +55,7 @@ content:
         label: Tags
         type: list
         hidden: true
-        default: [rp2040]
+        default: [pens]
       - name: categories
         label: Categories
         type: list
