@@ -3,12 +3,12 @@ media:
   output: /assets
 
 content:
-  # Blog posts (standard GitHub Pages Jekyll structure)
   - name: posts
     label: Posts
     type: collection
     path: _posts
     format: yaml-frontmatter
+    filename: "{year}/{year}-{month}-{day}-{fields.title}"
     view:
       fields: [title, date]
     fields:
@@ -16,27 +16,55 @@ content:
         label: Title
         type: string
         required: true
-
       - name: date
         label: Date
         type: date
         required: true
-
       - name: tags
         label: Tags
         type: list
         required: false
-
       - name: categories
         label: Categories
         type: list
         required: false
-
       - name: body
         label: Content
         type: rich-text
 
-  # Pages (because your repo is a GitHub Pages user site)
+  # --- Project collections ---
+  # Add as many of these as you need, one per project
+  - name: project-rp2040
+    label: "Project: RP2040"
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    filename: "{year}/{year}-{month}-{day}-{fields.title}"
+    view:
+      fields: [title, date]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: tags
+        label: Tags
+        type: list
+        hidden: true
+        default: [rp2040]
+      - name: categories
+        label: Categories
+        type: list
+        hidden: true
+        default: [projects]
+      - name: body
+        label: Content
+        type: rich-text
+
   - name: pages
     label: Pages
     type: collection
@@ -51,12 +79,10 @@ content:
       - name: title
         label: Title
         type: string
-
       - name: body
         label: Content
         type: rich-text
 
-  # Jekyll config (your site settings live here)
   - name: config
     label: Site Configuration
     type: file
@@ -66,34 +92,16 @@ content:
       - name: title
         label: Site Title
         type: string
-
       - name: description
         label: Description
         type: text
-
       - name: url
         label: Canonical URL
         type: string
-
       - name: author
         label: Author
         type: string
-media:
-  - name: images
-    label: Images
-    input: /images
-    output: /images
-    rename: safe
-    extensions: [png, jpg, webp]
-    actions:
-      - name: optimize-images
-        label: Optimize images
-        workflow: pages-cms-media-action.yml
-  - name: docs
-    label: Documents
-    input: media/docs
-    output: /media/docs
-    categories: [document]
+
 settings:
   commit:
     message: "Update via Pages CMS"
