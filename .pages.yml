@@ -1,6 +1,13 @@
 media:
-  input: images
-  output: /images
+  - name: images
+    input: images
+    output: /images
+    extensions: [png, jpg, webp]
+  - name: models
+    label: 3D Models
+    input: assets/models
+    output: /assets/models
+    extensions: [stl]
 
 content:
   - name: posts
