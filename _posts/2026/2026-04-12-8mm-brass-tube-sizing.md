@@ -9,6 +9,6 @@ tags: Pens
 
 Maybe a little bit larger. But a touch of super glue would get it. 
 
-
+![](/images/posts/1000012635.jpg)
 
 7.45mm to 7.49mm feel viable with just friction fit. 
