@@ -43,6 +43,7 @@ Maybe a little bit larger. But a touch of super glue would get it.
 - 21.25 mm Shoulder to tip 
 - 18 mm included spring length 
 - 4.3 mm included spring diameter 
+- Parker style springs can be used
 - Schmidt 
 - 6.25 mm diameter 
 - 90 mm length to shoulder 
