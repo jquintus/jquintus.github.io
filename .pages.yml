@@ -15,7 +15,6 @@ content:
       - name: title
         label: Title
         type: string
-        default: "{{filename}}"
         required: true
 
       - name: date
