@@ -38,6 +38,8 @@ content:
       - name: body
         label: Content
         type: rich-text
+        options:
+            media: images
 
   # --- Project collections ---
   # Add as many of these as you need, one per project
