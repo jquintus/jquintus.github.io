@@ -1,5 +1,5 @@
 ---
-title: "# Roast Chicken Thighs, Potatoes & Peas (One Pan)"
+title: Roast Chicken Thighs, Potatoes & Peas (One Pan)
 date: 2026-04-12
 ---
 # Roast Chicken Thighs, Potatoes & Peas (One Pan)
