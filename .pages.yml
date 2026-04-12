@@ -8,7 +8,7 @@ content:
     type: collection
     path: _posts
     format: yaml-frontmatter
-    filename: "{year}/{year}-{month}-{day}-{fields.title}"
+    filename: "{year}/{year}-{month}-{day}-{fields.title}.md"
     view:
       fields: [title, date]
     fields:
