@@ -1,0 +1,84 @@
+media:
+  input: assets
+  output: /assets
+
+content:
+  # Blog posts (standard GitHub Pages Jekyll structure)
+  - name: posts
+    label: Posts
+    type: collection
+    path: _posts
+    format: yaml-frontmatter
+    view:
+      fields: [title, date]
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: date
+        label: Date
+        type: date
+        required: true
+
+      - name: tags
+        label: Tags
+        type: list
+        required: false
+
+      - name: categories
+        label: Categories
+        type: list
+        required: false
+
+      - name: body
+        label: Content
+        type: rich-text
+
+  # Pages (because your repo is a GitHub Pages user site)
+  - name: pages
+    label: Pages
+    type: collection
+    path: .
+    include:
+      - index.md
+      - index.html
+      - about.md
+      - about.html
+      - README.md
+    fields:
+      - name: title
+        label: Title
+        type: string
+
+      - name: body
+        label: Content
+        type: rich-text
+
+  # Jekyll config (your site settings live here)
+  - name: config
+    label: Site Configuration
+    type: file
+    path: _config.yml
+    format: yaml
+    fields:
+      - name: title
+        label: Site Title
+        type: string
+
+      - name: description
+        label: Description
+        type: text
+
+      - name: url
+        label: Canonical URL
+        type: string
+
+      - name: author
+        label: Author
+        type: string
+
+settings:
+  commit:
+    message: "Update via Pages CMS"
