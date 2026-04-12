@@ -78,7 +78,22 @@ content:
       - name: author
         label: Author
         type: string
-
+media:
+  - name: images
+    label: Images
+    input: media/images
+    output: /images
+    rename: safe
+    extensions: [png, jpg, webp]
+    actions:
+      - name: optimize-images
+        label: Optimize images
+        workflow: pages-cms-media-action.yml
+  - name: docs
+    label: Documents
+    input: media/docs
+    output: /media/docs
+    categories: [document]
 settings:
   commit:
     message: "Update via Pages CMS"
