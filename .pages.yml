@@ -1,7 +1,7 @@
 media:
   - name: images
-    input: images
-    output: /images
+    input: images/posts
+    output: /images/posts
     extensions: [png, jpg, webp]
   - name: models
     label: 3D Models
