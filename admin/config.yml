@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: jquintus/jquintus.github.io
+  name: git-gateway
   branch: main
 
 media_folder: "static/uploads"
