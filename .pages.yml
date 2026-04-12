@@ -16,6 +16,7 @@ content:
     path: _posts
     format: yaml-frontmatter
     filename: "{year}/{year}-{month}-{day}-{fields.title}.md"
+    media: images
     view:
       fields: [title, date]
     fields:
