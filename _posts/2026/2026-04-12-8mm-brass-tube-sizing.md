@@ -23,8 +23,8 @@ Maybe a little bit larger. But a touch of super glue would get it.
 
 - Pk-penxxbu bushings are 10.8 mm
 - PK Parkbu bushings are 
-- 12.45 mm
-- 10.2 mm
+  - 12.45 mm
+  - 10.2 mm
 
 ### Nose Cone changes 
 
@@ -38,14 +38,15 @@ Maybe a little bit larger. But a touch of super glue would get it.
 ### Ink bodies
 
 - Pilot 
-- 6 mm diameter 
-- 90 mm length to shoulder 
-- 21.25 mm Shoulder to tip 
-- 18 mm included spring length 
-- 4.3 mm included spring diameter 
-- Parker style springs can be used
+  - 6 mm diameter 
+  - 90 mm length to shoulder 
+  - 21.25 mm Shoulder to tip 
+  - Springs
+    - 18 mm included spring length 
+    - 4.3 mm included spring diameter 
+    - Parker style springs can be used
 - Schmidt 
-- 6.25 mm diameter 
-- 90 mm length to shoulder 
-- 20.5 mm Shoulder to tip
+  - 6.25 mm diameter 
+  - 90 mm length to shoulder 
+  - 20.5 mm Shoulder to tip
 
