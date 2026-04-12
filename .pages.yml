@@ -1,6 +1,6 @@
 media:
-  input: assets
-  output: /assets
+  input: images
+  output: /images
 
 content:
   - name: posts
