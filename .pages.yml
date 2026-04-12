@@ -81,7 +81,7 @@ content:
 media:
   - name: images
     label: Images
-    input: media/images
+    input: /images
     output: /images
     rename: safe
     extensions: [png, jpg, webp]
