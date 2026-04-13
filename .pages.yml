@@ -30,11 +30,13 @@ content:
         required: true
       - name: tags
         label: Tags
-        type: list
+        type: string
+        list: true
         required: false
       - name: categories
         label: Categories
-        type: list
+        type: string
+        list: true
         required: false
       - name: body
         label: Content
@@ -63,12 +65,14 @@ content:
         required: true
       - name: tags
         label: Tags
-        type: list
+        type: string
+        list: true
         hidden: true
         default: [pens]
       - name: categories
         label: Categories
-        type: list
+        type: string
+        list: true
         hidden: true
         default: [projects]
       - name: body

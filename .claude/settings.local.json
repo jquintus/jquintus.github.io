@@ -2,7 +2,19 @@
   "permissions": {
     "allow": [
       "Bash(head:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/pages-cms/pages-cms/main/README.md\")",
+      "WebFetch(domain:pagescms.org)",
+      "WebSearch",
+      "Bash(curl -s \"https://api.github.com/repos/pages-cms/pages-cms/contents/fields\")",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); [print\\(f['name']\\) for f in data]\")",
+      "Bash(xargs -I{} gh api \"repos/pages-cms/pages-cms/git/trees/{}\" --jq '.tree[].path')",
+      "Bash(curl -s \"https://api.github.com/search/issues?q=repo:pages-cms/pages-cms+filter+collection+frontmatter&per_page=10\")",
+      "Bash(python3 -c \" import sys, json data = json.load\\(sys.stdin\\) for item in data.get\\('items', []\\)[:10]: print\\(f\\\\\"#{item['number']} [{item['state']}] {item['title']}\\\\\"\\) print\\(f\\\\\" {item['html_url']}\\\\\"\\) print\\(\\) \")",
+      "Bash(curl -sL \"https://api.github.com/search/issues?q=repo:pages-cms/pages-cms+filter&per_page=10\")",
+      "Bash(python3 -c ':*)",
+      "Bash(curl -sL \"https://api.github.com/search/issues?q=repo%3Apages-cms%2Fpages-cms+filter&per_page=5\")",
+      "Bash(xargs -I{} gh api \"repos/pages-cms/pages-cms/git/trees/{}?recursive=1\" --jq '.tree[].path')"
     ]
   }
 }
