@@ -30,51 +30,84 @@ content:
         required: true
       - name: tags
         label: Tags
-        type: string
+        type: select
         list: true
         required: false
-      - name: categories
-        label: Categories
-        type: string
-        list: true
-        required: false
-      - name: body
-        label: Content
-        type: rich-text
         options:
-            media: images
-
-  # --- Project collections ---
-  # Add as many of these as you need, one per project
-  - name: project-pens
-    label: "Project: Pens"
-    type: collection
-    path: _posts
-    format: yaml-frontmatter
-    filename: "{year}/{year}-{month}-{day}-{fields.title}.md"
-    view:
-      fields: [title, date]
-    fields:
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: date
-        label: Date
-        type: date
-        required: true
-      - name: tags
-        label: Tags
-        type: string
-        list: true
-        hidden: true
-        default: [pens]
+          values:
+            - Pens
+            - Pi Project
+            - Shopping Cart
+            - Status Report
       - name: categories
         label: Categories
-        type: string
+        type: select
         list: true
-        hidden: true
-        default: [projects]
+        required: false
+        options:
+          values:
+            - .NET
+            - 3D Modeling
+            - 3D Printing
+            - 8-Bit Computer
+            - Adafruit
+            - Android
+            - Arduino
+            - Ben Eater
+            - Breadboard
+            - C#
+            - C++
+            - Chrome
+            - Christmas
+            - CircuitPython
+            - CLI
+            - Coding
+            - ConEmu
+            - Debugging
+            - Dependency Injection
+            - Desserts
+            - DIY
+            - Docker
+            - Feather
+            - Food
+            - Fritzing
+            - Fusion 360
+            - GitHub
+            - GitHub Pages
+            - How-To
+            - Hyper-V
+            - Icebreakers
+            - ICs
+            - Interviews
+            - IoC
+            - iOS
+            - Jekyll
+            - LED
+            - macOS
+            - Management
+            - Mermaid
+            - MvvmCross
+            - Ninject
+            - Raspberry Pi
+            - Recipes
+            - Rubik's Cube
+            - Serial
+            - SSH
+            - SSL
+            - Terminal
+            - Tips
+            - Tools
+            - Travel
+            - UART
+            - Vim
+            - Visual Studio
+            - VSCode
+            - Windows Phone
+            - Woodworking
+            - Xamarin
+            - Xamarin Forms
+            - Zoom
+            - Zsh
       - name: body
         label: Content
         type: rich-text
