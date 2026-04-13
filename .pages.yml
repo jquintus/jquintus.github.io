@@ -74,16 +74,16 @@ content:
       - name: body
         label: Content
         type: rich-text
+        options:
+            media: images
 
   - name: pages
     label: Pages
     type: collection
     path: .
     include:
-      - index.md
       - index.html
-      - about.md
-      - about.html
+      - about/index.md
       - README.md
     fields:
       - name: title
