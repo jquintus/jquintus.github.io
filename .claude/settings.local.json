@@ -14,7 +14,9 @@
       "Bash(curl -sL \"https://api.github.com/search/issues?q=repo:pages-cms/pages-cms+filter&per_page=10\")",
       "Bash(python3 -c ':*)",
       "Bash(curl -sL \"https://api.github.com/search/issues?q=repo%3Apages-cms%2Fpages-cms+filter&per_page=5\")",
-      "Bash(xargs -I{} gh api \"repos/pages-cms/pages-cms/git/trees/{}?recursive=1\" --jq '.tree[].path')"
+      "Bash(xargs -I{} gh api \"repos/pages-cms/pages-cms/git/trees/{}?recursive=1\" --jq '.tree[].path')",
+      "Bash(find /Users/jq/code/jquintus.github.io/_posts -name \"*.md\" -type f -exec grep -l \"^layout:\" {} \\\\;)",
+      "Bash(find:*)"
     ]
   }
 }
