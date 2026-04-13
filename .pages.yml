@@ -19,6 +19,7 @@ content:
     media: images
     view:
       fields: [title, date]
+      layout: list
       default:
         sort: date
         order: desc
