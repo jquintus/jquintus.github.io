@@ -5,8 +5,8 @@ title: "Stop Chrome from Reloading Tabs"
 disqus_identifier: #27
 comments: true
 categories: 
-  - chrome 
-  - tips
+  - Chrome
+  - Tips
   - GitHub
   - PR
 ---

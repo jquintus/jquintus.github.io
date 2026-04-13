@@ -1,7 +1,10 @@
 ---
+layout: post
 title: Claude with Notion
 date: 2026-04-12
-categories: "[claude,ai]"
+categories:
+  - Claude
+  - AI
 ---
 Setting up Claude to read your Notion documentation is easy. 
 

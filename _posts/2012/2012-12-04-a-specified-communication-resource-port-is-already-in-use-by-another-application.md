@@ -4,7 +4,7 @@ layout: post
 disqus_identifier: #6
 comments: true
 title: A specified communication resource (port) is already in use by another application
-categories: [debug, Emulator, Visual Studio, Windows Phone, Windows Phone 8, Windows Phone Emulator, wp8 ]
+categories: [debug, Emulator, Visual Studio, Windows Phone, Windows Phone 8, Windows Phone Emulator, wp8]
 ---
 
 Trying to debug a new Windows Phone 8 application today I came across this problem.  Whenever I hit F5, the emulator would start up like normal but Visual Studio would prompt me with a message box saying:

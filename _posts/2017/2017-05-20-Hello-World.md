@@ -5,7 +5,7 @@ disqus_identifier: #1
 comments: true
 date: 2017-05-20
 categories: 
-  - jekyll 
+  - Jekyll
   - update
 ---
 

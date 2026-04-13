@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Roast Chicken Thighs, Potatoes & Peas (One Pan)
 date: 2026-04-12
 ---

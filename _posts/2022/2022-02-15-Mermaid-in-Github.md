@@ -2,7 +2,6 @@
 title: "Mermaid in GitHub"
 date: 2022-02-15
 layout: post
-disqus_identifier: #
 comments: true
 categories: 
   - One

@@ -6,7 +6,7 @@ disqus_identifier: #47
 comments: true
 categories:
   - ConEmu
-  - ssh
+  - SSH
   - Pi
   - Raspberry Pi
 ---

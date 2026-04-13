@@ -2,12 +2,11 @@
 title: "Breadboard Computer 3 Adding!"
 date: 2020-09-07
 layout: post
-disqus_identifier: #
 comments: true
 categories: 
-  - ben eater
-  - breadboard
-  - 8-bit computer
+  - Ben Eater
+  - Breadboard
+  - 8-Bit Computer
   - ALU
 ---
 

@@ -4,7 +4,7 @@ date: 2017-12-04
 layout: post
 disqus_identifier: #3
 comments: true
-categories: [docker, jekyll]
+categories: [Docker, Jekyll]
 ---
 
 [GitHub Pages](https://pages.github.com) have some great features that I'm

@@ -5,7 +5,7 @@ layout: post
 disqus_identifier: #39
 comments: true
 categories: 
-  - management
+  - Management
 ---
 
 I hold one on one meetings bi-weekly with my direct reports for two reasons.

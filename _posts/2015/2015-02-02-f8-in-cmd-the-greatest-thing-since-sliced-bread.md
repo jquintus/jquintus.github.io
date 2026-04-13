@@ -4,7 +4,7 @@ date: 2015-02-02
 layout: post
 disqus_identifier: #43
 comments: true
-categories: [ cmd, tips ]
+categories: [ CLI, Tips]
 ---
 I recently stumbled across [DOSKEY](http://en.wikipedia.org/wiki/DOSKEY) while reading [StackOverflow](http://stackoverflow.com/questions/20530996/aliases-in-windows-command-prompt).  Reading the documentation I stumbled across something old and something new.
 

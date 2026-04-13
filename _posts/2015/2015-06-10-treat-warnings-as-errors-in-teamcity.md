@@ -2,7 +2,6 @@
 title: "Treat Warnings as Errors in TeamCity"
 date: 2015-06-10
 layout: post
-disqus_identifier: #35
 comments: true
 categories: []
 ---

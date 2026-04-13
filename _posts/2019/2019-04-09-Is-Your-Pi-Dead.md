@@ -7,7 +7,7 @@ comments: true
 categories: 
   - Pi
   - Raspberry Pi
-  - Pi Zero 
+  - Pi Zero
 ---
 
 I recently [bought a Raspberry Pi Zero

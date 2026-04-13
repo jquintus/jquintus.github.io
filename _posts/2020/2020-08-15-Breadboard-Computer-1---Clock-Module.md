@@ -5,9 +5,9 @@ layout: post
 disqus_identifier: #71
 comments: true
 categories:
-  - ben eater
-  - breadboard
-  - 8-bit computer
+  - Ben Eater
+  - Breadboard
+  - 8-Bit Computer
   - clock
 ---
 

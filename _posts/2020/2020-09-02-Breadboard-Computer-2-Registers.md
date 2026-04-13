@@ -4,9 +4,9 @@ date: 2020-09-02
 layout: post
 comments: true
 categories: 
-  - ben eater
-  - breadboard
-  - 8-bit computer
+  - Ben Eater
+  - Breadboard
+  - 8-Bit Computer
   - registers
 ---
 

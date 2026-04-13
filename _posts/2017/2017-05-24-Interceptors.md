@@ -6,11 +6,11 @@ source: 2017-05-24-Interceptors
 disqus_identifier: #2
 comments: true
 categories: 
-  - .net 
-  - code 
-  - ninject 
-  - c# 
-  - dependency injection 
+  - .NET
+  - Code
+  - Ninject
+  - C#
+  - Dependency Injection
   - IoC
 ---
 

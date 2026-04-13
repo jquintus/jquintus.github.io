@@ -6,7 +6,7 @@ disqus_identifier: #38
 comments: true
 categories: 
   - C#
-  - interviews
+  - Interviews
 ---
 
 When interviewing tech candidates, I don't like prescribe a language or

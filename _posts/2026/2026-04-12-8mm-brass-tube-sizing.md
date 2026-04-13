@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "8mm Brass Tube Sizing "
 date: 2026-04-12
-tags: Pens
+tags:
+  - Pens
 ---
 7.4 mm. 
 

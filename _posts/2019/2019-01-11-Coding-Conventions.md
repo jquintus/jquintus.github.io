@@ -5,7 +5,7 @@ layout: post
 disqus_identifier: #35
 comments: true
 categories: 
-  - coding
+  - Coding
 ---
 
 These are the general rules and guidelines I use when developing.  As

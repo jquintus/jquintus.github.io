@@ -2,10 +2,9 @@
 title: "Woodworking YouTube Channels"
 date: 2021-06-01
 layout: post
-disqus_identifier: #
 comments: true
 categories: 
-  - woodworking
+  - Woodworking
 ---
 
 I've been trying to get into woodworking for the past few months. Most of my resources have been YouTube videos and reddit. I'm compiling a list of the channels that I go to regularly and enjoy.

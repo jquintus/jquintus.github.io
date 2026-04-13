@@ -4,8 +4,8 @@ date: 2017-12-10
 layout: post
 comments: true
 categories: 
-    - mermaid
-    - tools
+    - Mermaid
+    - Tools
 disqus_identifier: #5
 
 ---

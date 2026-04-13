@@ -1,7 +1,9 @@
 ---
+layout: post
 title: Fusion360 and ParaParam
 date: 2026-04-12
-tags: "[pens]"
+tags:
+  - Pens
 ---
 When I'm chasing tolerances on your 3D designs, I will print the same design with 1mm differences. [ParaParam](https://github.com/hanskellner/Fusion360ParaParam) is great at scripting generating STL files with changes to a specific parameter.
 

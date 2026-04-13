@@ -4,7 +4,7 @@ date: 2014-09-22
 layout: post
 disqus_identifier: #12
 comments: true
-categories: [ .NET, Android, C#, MvvmCross, Xamarin, ActionbarSherlock, AppCompat, MvvmCross ]
+categories: [ .NET, Android, C#, MvvmCross, Xamarin, ActionbarSherlock, AppCompat, MvvmCross]
 ---
 
 

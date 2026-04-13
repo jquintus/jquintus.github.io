@@ -4,7 +4,7 @@ date: 2014-04-27
 layout: post
 disqus_identifier: #13
 comments: true
-categories: [ .NET, Android, C#, MvvmCross, Xamarin ]
+categories: [ .NET, Android, C#, MvvmCross, Xamarin]
 ---
 
 Full source for this post can be found on GitHub:  [HeaderedGridView](https://github.com/jquintus/spikes/tree/master/XamarinSpikes/HeaderedGridView)
