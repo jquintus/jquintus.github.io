@@ -19,6 +19,9 @@ content:
     media: images
     view:
       fields: [title, date]
+      default:
+        sort: date
+        order: desc
     fields:
       - name: title
         label: Title
@@ -114,14 +117,11 @@ content:
         options:
             media: images
 
-  - name: pages
-    label: Pages
-    type: collection
-    path: .
-    include:
-      - index.html
-      - about/index.md
-      - README.md
+  - name: about
+    label: About Page
+    type: file
+    path: about/index.md
+    format: yaml-frontmatter
     fields:
       - name: title
         label: Title
