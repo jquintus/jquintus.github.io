@@ -1,4 +1,6 @@
 ---
+title: "Day 11 Progress with Circuit Python"
+date: 2020-06-14
 layout: post
 disqus_identifier: #68
 comments: true

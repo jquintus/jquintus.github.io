@@ -1,4 +1,6 @@
 ---
+title: "Questions of the Day"
+date: 2020-07-06
 layout: post
 disqus_identifier: #70
 comments: true

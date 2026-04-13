@@ -1,4 +1,6 @@
 ---
+title: "Barcelona"
+date: 2018-03-07
 layout: post
 disqus_identifier: #29
 comments: true

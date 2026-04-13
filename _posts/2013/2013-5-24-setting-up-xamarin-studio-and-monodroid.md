@@ -1,4 +1,6 @@
 ---
+title: "Setting Up Xamarin Studio and Monodroid"
+date: 2013-05-24
 layout: post
 disqus_identifier: #7
 comments: true

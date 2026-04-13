@@ -1,4 +1,6 @@
 ---
+title: "Connecting to Raspberry Pi Over Serial Port"
+date: 2019-06-22
 layout: post
 disqus_identifier: #62
 comments: true

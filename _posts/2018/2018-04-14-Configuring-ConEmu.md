@@ -1,4 +1,6 @@
 ---
+title: "Configuring ConEmu"
+date: 2018-04-14
 layout: post
 disqus_identifier: #33
 comments: true

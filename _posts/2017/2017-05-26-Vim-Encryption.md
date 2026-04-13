@@ -1,4 +1,6 @@
 ---
+title: "Vim Encryption"
+date: 2017-05-26
 layout: post
 categories: vim
 disqus_identifier: #4

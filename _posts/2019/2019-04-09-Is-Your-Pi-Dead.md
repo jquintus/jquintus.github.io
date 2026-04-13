@@ -1,4 +1,6 @@
 ---
+title: "Is Your Pi Dead"
+date: 2019-04-09
 layout: post
 disqus_identifier: #55
 comments: true

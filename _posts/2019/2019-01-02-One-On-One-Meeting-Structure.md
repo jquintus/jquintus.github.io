@@ -1,4 +1,6 @@
 ---
+title: "One on One Meeting Structure"
+date: 2019-01-02
 layout: post
 disqus_identifier: #39
 comments: true

@@ -1,6 +1,7 @@
 ---
+date: 2018-01-18
 layout: post
-title:  Stop Chrome from Reloading Tabs
+title: "Stop Chrome from Reloading Tabs"
 disqus_identifier: #27
 comments: true
 categories: 

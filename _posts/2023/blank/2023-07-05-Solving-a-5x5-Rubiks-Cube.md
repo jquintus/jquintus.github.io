@@ -1,4 +1,6 @@
 ---
+date: 2023-07-05
+title: "Solving a 5x5 Rubik's Cube"
 layout: post
 categories:
   - Rubik's Cube

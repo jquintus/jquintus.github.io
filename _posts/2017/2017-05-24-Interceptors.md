@@ -1,4 +1,6 @@
 ---
+title: "Interceptors"
+date: 2017-05-24
 layout: post
 source: 2017-05-24-Interceptors
 disqus_identifier: #2

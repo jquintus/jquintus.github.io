@@ -1,8 +1,9 @@
 ---
+date: 2016-02-09
 layout: post
 disqus_identifier: #8
 comments: true
-title: And Now ChocolateyCoolWhip
+title: "And Now ChocolateyCoolWhip"
 categories: []
 ---
 

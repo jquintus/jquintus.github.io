@@ -1,4 +1,6 @@
 ---
+title: "Making It Easier to SSH Into My Pi"
+date: 2019-03-15
 layout: post
 disqus_identifier: #47
 comments: true

@@ -1,4 +1,6 @@
 ---
+title: "Connect VS Code to Pi Remotely"
+date: 2019-05-05
 layout: post
 disqus_identifier: #58
 comments: true

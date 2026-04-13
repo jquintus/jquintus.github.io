@@ -1,4 +1,6 @@
 ---
+title: "Questions of the Day 3"
+date: 2022-01-29
 layout: post
 categories: 
   - Icebreakers 

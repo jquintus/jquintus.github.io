@@ -1,4 +1,6 @@
 ---
+title: "Woodworking YouTube Channels"
+date: 2021-06-01
 layout: post
 disqus_identifier: #
 comments: true

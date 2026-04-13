@@ -1,4 +1,6 @@
 ---
+title: "Ready Set Action"
+date: 2014-09-22
 layout: post
 disqus_identifier: #12
 comments: true

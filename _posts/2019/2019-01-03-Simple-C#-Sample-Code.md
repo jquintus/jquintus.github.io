@@ -1,4 +1,6 @@
 ---
+title: "Simple C# Sample Code"
+date: 2019-01-03
 layout: post
 disqus_identifier: #38
 comments: true

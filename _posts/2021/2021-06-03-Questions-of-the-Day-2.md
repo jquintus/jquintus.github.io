@@ -1,4 +1,6 @@
 ---
+title: "Questions of the Day 2"
+date: 2021-06-03
 layout: post
 comments: false
 categories: 

@@ -1,4 +1,6 @@
 ---
+title: "RGB LEDs on Pi with Adafruit 12 Channel 16 Bit PWM LED Driver"
+date: 2019-05-25
 layout: post
 disqus_identifier: #60
 comments: true

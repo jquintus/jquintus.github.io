@@ -1,4 +1,6 @@
 ---
+title: "Getting Back Into Arduino"
+date: 2020-05-25
 layout: post
 disqus_identifier: #65
 comments: true

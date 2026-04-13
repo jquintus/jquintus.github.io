@@ -1,4 +1,6 @@
 ---
+title: "Christmas Day Bisque"
+date: 2021-12-26
 layout: post
 categories: 
   - Christmas

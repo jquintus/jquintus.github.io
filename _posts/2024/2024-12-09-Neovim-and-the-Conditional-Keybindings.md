@@ -1,4 +1,6 @@
 ---
+title: "Neovim and the Conditional Keybindings"
+date: 2024-12-09
 layout: post
 disqus_identifier: #
 comments: true

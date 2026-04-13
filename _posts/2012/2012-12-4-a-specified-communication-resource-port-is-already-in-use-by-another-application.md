@@ -1,4 +1,5 @@
 ---
+date: 2012-12-04
 layout: post
 disqus_identifier: #6
 comments: true

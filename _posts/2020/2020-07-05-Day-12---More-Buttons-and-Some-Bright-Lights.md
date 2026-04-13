@@ -1,4 +1,6 @@
 ---
+title: "Day 12 More Buttons and Some Bright Lights"
+date: 2020-07-05
 layout: post
 disqus_identifier: #69
 comments: true

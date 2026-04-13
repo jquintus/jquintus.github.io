@@ -1,4 +1,6 @@
 ---
+title: "Breadboard Computer 3 Adding!"
+date: 2020-09-07
 layout: post
 disqus_identifier: #
 comments: true

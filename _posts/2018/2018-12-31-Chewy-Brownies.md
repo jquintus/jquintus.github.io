@@ -1,4 +1,6 @@
 ---
+title: "Chewy Brownies"
+date: 2018-12-31
 layout: post
 disqus_identifier: #40
 comments: true

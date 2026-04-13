@@ -1,4 +1,6 @@
 ---
+title: "Headers and Footers on an MvxListView"
+date: 2014-04-27
 layout: post
 disqus_identifier: #13
 comments: true

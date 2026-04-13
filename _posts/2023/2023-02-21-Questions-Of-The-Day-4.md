@@ -1,4 +1,6 @@
 ---
+title: "Questions of the Day 4"
+date: 2023-02-21
 layout: post
 categories:
   - Icebreakers

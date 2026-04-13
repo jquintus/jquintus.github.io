@@ -1,4 +1,6 @@
 ---
+title: "Fixing Mouse Lag on a Raspberry Pi"
+date: 2019-03-14
 layout: post
 disqus_identifier: #46
 comments: true

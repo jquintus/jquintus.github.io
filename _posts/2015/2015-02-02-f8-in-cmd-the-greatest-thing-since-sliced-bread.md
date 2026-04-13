@@ -1,4 +1,7 @@
---- layout: post
+---
+title: "F8 in Cmd the Greatest Thing Since Sliced Bread"
+date: 2015-02-02
+layout: post
 disqus_identifier: #43
 comments: true
 categories: [ cmd, tips ]

@@ -1,4 +1,6 @@
 ---
+title: "Windows Terminal"
+date: 2020-05-27
 layout: post
 disqus_identifier: #66
 comments: true

@@ -1,4 +1,6 @@
 ---
+title: "PiBow Assembly"
+date: 2019-04-07
 layout: post
 disqus_identifier: #52
 comments: true

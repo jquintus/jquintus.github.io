@@ -1,4 +1,6 @@
 ---
+title: "Creating Labels on Curved Models in Fusion 360"
+date: 2025-07-20
 layout: post
 disqus_identifier: 2025-07-20-Creating-Labels-on-Curved-Models-in-Fusion-360
 comments: true

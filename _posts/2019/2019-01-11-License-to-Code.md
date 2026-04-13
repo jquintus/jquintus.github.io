@@ -1,4 +1,6 @@
 ---
+title: "License to Code"
+date: 2019-01-11
 layout: post
 disqus_identifier: #44
 comments: true

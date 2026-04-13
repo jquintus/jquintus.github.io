@@ -1,22 +1,24 @@
 ---
+title: "Solving a 3x3 Rubik's Cube"
+date: 2019-01-03
 layout: post
 disqus_identifier: #37
 comments: true
-categories: 
+categories:
   - Rubik's Cube
   - Rubik's
   - Cube
 ---
 
-Some brief notes on solving a traditional 3x3 Rubik's cube.  These instructions
-assume that you are starting by solving the white face first.  
+Some brief notes on solving a traditional 3x3 Rubik's cube. These instructions
+assume that you are starting by solving the white face first.
 
 1. Solve for the white cross
 1. Solve for the white corners and corresponding edge at the same time
 1. Solve for the yellow cross (three possible starting points)
-  1. [Hook](#hook)
-  1. [Bar](#bar)
-  1. Dot (use either the [hook](#hook) or [bar](#bar))
+1. [Hook](#hook)
+1. [Bar](#bar)
+1. Dot (use either the [hook](#hook) or [bar](#bar))
 1. Put yellow [edges](#edges) in correct spots
 1. Put yellow [corners](#corner-location) in the correct location
 1. Put yellow [corners](#corner-orientation) in the correct orientation
@@ -68,8 +70,8 @@ Ending top layout:
 ## Edges
 
 This sequence swaps the front edge with the left edge on the top of the cube.
-So start with the edges you want to preserve on the right and back.  It may be
-the case that there are no two edges that are correctly adjacent.  In that
+So start with the edges you want to preserve on the right and back. It may be
+the case that there are no two edges that are correctly adjacent. In that
 case, you'll just have to do this bit twice.
 
 Starting top layout:
@@ -92,7 +94,7 @@ Ending top layout:
 
 ## Corner Location
 
-This sequence rotates the corners.  If the corners were numbered clockwise
+This sequence rotates the corners. If the corners were numbered clockwise
 starting in the top left as 1, 2, 3, 4, then after this sequence the would be :
 4, 1, 3, 2
 
@@ -117,10 +119,10 @@ Ending top layout:
 ## Corner Orientation
 
 This sequence rotates the corner in the front right hand corner of the top.
-Orient the cube so that the corner you want to change is there.  Run this
-algorithm one or two times.  Once it's complete, rotate *just the top* so that
+Orient the cube so that the corner you want to change is there. Run this
+algorithm one or two times. Once it's complete, rotate _just the top_ so that
 the next corner you want to fix is in the front right hand corner of the top.
-Repeat until all the corners are correct. 
+Repeat until all the corners are correct.
 
 Note that the algorithm repeats itself, so it's really a short one to learn.
 

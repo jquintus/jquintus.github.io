@@ -1,4 +1,6 @@
 ---
+title: "Breadboard Computer 1 Clock Module"
+date: 2020-08-15
 layout: post
 disqus_identifier: #71
 comments: true

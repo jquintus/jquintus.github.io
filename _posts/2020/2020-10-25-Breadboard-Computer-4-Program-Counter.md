@@ -1,4 +1,6 @@
 ---
+title: "Breadboard Computer 4 Program Counter"
+date: 2020-10-25
 layout: post
 disqus_identifier: #
 comments: true

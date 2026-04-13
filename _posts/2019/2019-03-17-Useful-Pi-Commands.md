@@ -1,4 +1,6 @@
 ---
+title: "Useful Pi Commands"
+date: 2019-03-17
 layout: post
 disqus_identifier: #49
 comments: true

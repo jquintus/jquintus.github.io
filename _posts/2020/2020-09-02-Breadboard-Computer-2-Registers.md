@@ -1,4 +1,6 @@
 ---
+title: "Breadboard Computer 2 Registers"
+date: 2020-09-02
 layout: post
 comments: true
 categories: 

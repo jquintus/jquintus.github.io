@@ -1,8 +1,10 @@
 ---
+title: "Looping Over Files in zsh"
+date: 2019-01-26
 layout: post
 disqus_identifier: #45
 comments: true
-categories: 
+categories:
   - zsh
 ---
 

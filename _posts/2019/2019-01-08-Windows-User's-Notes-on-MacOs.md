@@ -1,4 +1,6 @@
 ---
+title: "Windows User's Notes on macOS"
+date: 2019-01-08
 layout: post
 disqus_identifier: #34
 comments: true

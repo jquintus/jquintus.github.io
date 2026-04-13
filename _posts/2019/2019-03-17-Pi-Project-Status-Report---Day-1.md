@@ -1,4 +1,6 @@
 ---
+title: "Pi Project Status Report Day 1"
+date: 2019-03-17
 layout: post
 disqus_identifier: #50
 comments: true

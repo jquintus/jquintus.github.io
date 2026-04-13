@@ -1,4 +1,6 @@
 ---
+title: "Diagraming with Mermaid"
+date: 2017-12-10
 layout: post
 comments: true
 categories: 

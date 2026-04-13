@@ -1,4 +1,6 @@
 ---
+title: "Pi Project Status Report Day 10"
+date: 2020-06-11
 layout: post
 disqus_identifier: #67
 comments: true

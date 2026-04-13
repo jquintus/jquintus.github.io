@@ -1,4 +1,6 @@
 ---
+title: "Introducing CoolWhip"
+date: 2015-06-30
 layout: post
 disqus_identifier: #9
 comments: true

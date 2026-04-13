@@ -1,4 +1,6 @@
 ---
+title: "Setting Up a Pi Command Line Only"
+date: 2019-04-09
 layout: post
 disqus_identifier: #56
 comments: true

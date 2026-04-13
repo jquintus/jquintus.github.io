@@ -1,4 +1,6 @@
 ---
+title: "Docker and GitHub Pages"
+date: 2017-12-04
 layout: post
 disqus_identifier: #3
 comments: true

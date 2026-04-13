@@ -1,4 +1,6 @@
 ---
+title: "Coding Conventions"
+date: 2019-01-11
 layout: post
 disqus_identifier: #35
 comments: true

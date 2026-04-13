@@ -1,4 +1,6 @@
 ---
+title: "Installing Raspbian"
+date: 2019-03-16
 layout: post
 disqus_identifier: #48
 comments: true

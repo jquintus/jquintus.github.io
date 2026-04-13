@@ -1,4 +1,6 @@
 ---
+title: "Pi Projec Status Report Day 8"
+date: 2019-06-23
 layout: post
 disqus_identifier: #63
 comments: true

@@ -1,4 +1,6 @@
 ---
+title: "Cut Out Letters for Slack"
+date: 2021-06-14
 layout: post
 comments: true
 categories: 

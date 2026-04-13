@@ -1,4 +1,6 @@
 ---
+title: "Getting HTTPS Set Up on GitHub Pages with a Custom Domain"
+date: 2018-01-18
 layout: post
 disqus_identifier: #28
 comments: true
