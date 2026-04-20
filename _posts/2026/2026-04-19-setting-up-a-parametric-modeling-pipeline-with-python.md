@@ -26,8 +26,11 @@ This post will be about getting a minimal hello world set up end to end.
 
 ## Set Up the Environment
 
-1. Install Cursor/Vs Code - it doesn't really matter which
+1. Install Cursor/Vs Code - it doesn't really matter which but I'm going with Cursor for this.
 2. Install [Docker Windows from the store](https://apps.microsoft.com/detail/XP8CBJ40XLBWKX?hl=en-US&gl=US&ocid=pdpshare)
-3. Install the [Dev Containers extension](https://marketplace.cursorapi.com/items/?itemName=anysphere.remote-containers)
-4. 
+3. Install the [Dev Containers extension](https://marketplace.cursorapi.com/items/?itemName=anysphere.remote-containers) 
+4. Trust the git repo from inside Cursor with: `git config --global --add safe.directory /workspaces/pens`
+5. 
+
+  &nbsp;
 
