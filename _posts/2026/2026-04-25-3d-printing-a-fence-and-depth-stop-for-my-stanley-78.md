@@ -13,3 +13,8 @@ Enter Woodya.com. He has a wide varety of aftermarket replacement parts for Stan
 Now all I needed was something to use them with. [Tenbergen.ca](http://Tenbergen.ca) had a Fusion360 model for both the [fence and depth stop](https://www.tenbergen.ca/3d-printed-fence-for-a-stanley-78-rabbet-plane/). The first print was good, but the fence didn't work with the woodyeh hardware. So I had to open up the files and tweak them in Fusion360 to increase the diameters for the fence rod and set screw. While I was at it, I increased the recessed height for the nut that holds the set screw.   
 
 With those tweaks, I was able to restore my free plane. [Attached are the model files with my customizations in case I ever need to reprint them.](/assets/models/Width%20fence%20-%20Increased%20Diameters.stl)
+
+![](/images/posts/1000012847.jpg)
+
+![](/images/posts/1000012846.jpg)
+
