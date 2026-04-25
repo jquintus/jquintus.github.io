@@ -18,3 +18,5 @@ With those tweaks, I was able to restore my free plane. [Attached are the model 
 
 ![](/images/posts/1000012846.jpg)
 
+![](/images/posts/1000012849.jpg)
+
