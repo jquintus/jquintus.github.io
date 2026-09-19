@@ -6,13 +6,17 @@ title: Projects
 {% for repository in repositories %}
 {% unless repository.name == site.github.repository_name %}
 {% assign project_url = "/" | append: repository.name | append: "/" %}
-## [{{ repository.name }}]({{ project_url }})
+<div class="project-heading">
+  <h2>
+    <a href="{{ project_url }}">{{ repository.name }}</a>
+    <span class="project-source">(<a href="{{ repository.html_url }}">source</a>)</span>
+  </h2>
+  <time datetime="{{ repository.pushed_at | date_to_xmlschema }}" title="Last updated">
+    {{ repository.pushed_at | date: "%b %-d, %Y" }}
+  </time>
+</div>
 
 {{ repository.description }}
-
-[Open project]({{ project_url }}) · [Source]({{ repository.html_url }})
-
-_Updated {{ repository.pushed_at | date: "%B %-d, %Y" }}_
 
 {% endunless %}
 {% endfor %}
