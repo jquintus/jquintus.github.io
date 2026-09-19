@@ -535,26 +535,16 @@ ul li a { -webkit-transition: all .2s ease-in;-moz-transition:all .2s ease-in;-o
 #content article .entry-content h2 { font-size: 1.3em;margin-top:30px;font-weight:bold }
 #content article .entry-content h2::before { border-bottom: none }
 #content article .entry-content .project-heading {
-    align-items: baseline;
     border-bottom: 1px solid #ddd;
-    display: flex;
     margin-top: 30px;
 }
 #content article .entry-content .project-heading h2 {
     border-bottom: none;
-    flex: 1;
     line-height: 1.4;
     margin-top: 0;
 }
 #content article .entry-content .project-heading h2::before { display: none }
 #content article .entry-content .project-source { font-size: 0.55em;font-weight:normal }
-#content article .entry-content .project-heading time {
-    color: #999;
-    font-family: "Open Sans";
-    font-size: 0.75em;
-    margin-left: 1em;
-    white-space: nowrap;
-}
 #content article .entry-content .project-heading + p { margin-top: 15px }
 #content article .entry-content blockquote { border-left: 5px solid #4466c5;background:#F7F7F7 }
 #content article .entry-content blockquote p { margin-top: 0px }
