@@ -1,6 +1,0 @@
-- name: wordle helper
-  url: /WordleHelper/
-- name: cutlist
-  url: /cutlist/
-- name: pens
-  url: /pens/
