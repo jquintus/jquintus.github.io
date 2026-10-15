@@ -25,7 +25,8 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - Tags include `Travel`, the trip name, `<Trip>_<year>`, relevant cities, and
   states or regions. Yellowstone's tags are `Travel`, `Yellowstone_2024`,
   `Yellowstone`, city names, state names, `bears`, and `wolves`.
-- Start with the relevant daily tally table. Preserve daily versus trip totals.
+- When the notebook records a daily tally, start with that tally table. Preserve
+  daily versus trip totals. Do not add a tally table to a trip without tallies.
 - For Yellowstone, a dash in the notebook means no animals of that kind were
   seen that day. Display zero daily sightings and carry cumulative totals forward.
 - Do not repeat instructions for reading the table every day. If needed, put a
@@ -53,8 +54,9 @@ own trip, using first-person, casual American English. Fix obvious typos.
 ## Trip summary
 
 - Date it after the final daily post so it ends the series.
-- Begin with final totals, then cover restaurants, lodging, landmarks, wildlife
-  sanctuaries, museums, and tours. Group restaurants by city or region.
+- Begin with final totals when the trip has tallies, then cover restaurants,
+  lodging, landmarks, wildlife sanctuaries, museums, and tours. Group restaurants
+  by city or region.
 - Use five-star ratings supported by Josh's opinions. Leave meals unrated when
   there is no basis for a score; do not manufacture a negative or neutral verdict.
 - Write the experience directly: "Surprisingly good breakfast. Would recommend."
@@ -83,9 +85,9 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - In the Scotland 2025 notebook, the first number is the count on that spread;
   the second accumulates through that day. Add the spread counts for daily pours
   and use the final unique count. Verified tour counts: August 21 = 3/3,
-  August 22 = 19/19, August 23 = 21/21. August 24 names at least two drams;
-  the four-day tour therefore has at least 45 pours. Do not claim an exact
-  trip-wide distinct-whisky total.
+  August 22 = 19/19, August 23 = 21/21. August 24 names at least two drams but
+  has no written tally. The first three tour days total 43 recorded pours; do
+  not claim an exact four-day total or trip-wide distinct-whisky total.
 - Determine whether a running count resets daily or continues across the tour
   before calculating daily totals. Never sum cumulative page snapshots.
 - Keep total pours and unique Scotches distinct. Do not assume the sum of daily
@@ -109,6 +111,21 @@ own trip, using first-person, casual American English. Fix obvious typos.
   wording and avoid an exact product link until the bottle is identified.
 - Tag posts with recorded Scotch tastings `Scotch Tasting` so `/tags/scotch-tasting/`
   lists them. Leave that tag off days without a recorded tasting.
+
+## Notebook with several trips
+
+- One video can contain multiple vacations. Map cover-page section starts,
+  written dates, and page numbers before dividing it into trip series.
+- The notebook video `Poland 2017 - Europe 2018 - Pacific NW 2019.mov` contains
+  Poland, July 22–August 5, 2017 (pages 1–34); a Europe planning page (35);
+  Europe, July 27–August 10, 2018 (pages 36–63); and Pacific Northwest,
+  June 1–9, 2019 (pages 64–89). Back pages hold an Oregon Zoo ticket dated
+  June 3 and a Volunteer Park Conservatory ticket dated June 9.
+- Keep each trip's daily posts, summary, photo directory, tags, and navigation
+  separate. A page with the end of one trip and beginning of another may belong
+  in both series.
+- Do not infer a trip year from the video's file date. Verify the handwritten
+  date on each day's page, including dates that start midway down a page.
 
 ## Verification and publishing
 
