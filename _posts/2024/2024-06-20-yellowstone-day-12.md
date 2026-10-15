@@ -41,5 +41,11 @@ A reminder to myself from today’s notes: look up frost heave.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 70–71, June 20, 2024](/images/posts/yellowstone-2024/spread-070-071.jpg)](/images/posts/yellowstone-2024/spread-070-071.jpg)
+
+[![Notebook pages 72–73, June 20, 2024](/images/posts/yellowstone-2024/spread-072-073.jpg)](/images/posts/yellowstone-2024/spread-072-073.jpg)
+
 [mormon-row]: https://www.nps.gov/grte/learn/historyculture/mormon.htm
 [rsvp]: https://rsvphotel.co/

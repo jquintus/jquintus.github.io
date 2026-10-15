@@ -40,6 +40,12 @@ We tried to go to [Teton Thai][teton-thai], but the wait would have meant standi
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 58–59, June 17, 2024](/images/posts/yellowstone-2024/spread-058-059.jpg)](/images/posts/yellowstone-2024/spread-058-059.jpg)
+
+[![Notebook pages 60–61, June 17, 2024](/images/posts/yellowstone-2024/spread-060-061.jpg)](/images/posts/yellowstone-2024/spread-060-061.jpg)
+
 [brushbuck]: https://brushbucktours.com/
 [genevieve]: https://genevievejh.com/about
 [mangy-moose]: https://mangymoose.com/

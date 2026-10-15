@@ -42,6 +42,14 @@ Dinner was at the [Mangy Moose][mangy-moose] in Teton Village. We both had elk s
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 52–53, June 16, 2024](/images/posts/yellowstone-2024/spread-052-053.jpg)](/images/posts/yellowstone-2024/spread-052-053.jpg)
+
+[![Notebook pages 54–55, June 16, 2024](/images/posts/yellowstone-2024/spread-054-055.jpg)](/images/posts/yellowstone-2024/spread-054-055.jpg)
+
+[![Notebook pages 56–57, June 16, 2024](/images/posts/yellowstone-2024/spread-056-057.jpg)](/images/posts/yellowstone-2024/spread-056-057.jpg)
+
 [ernies]: https://erniesbakery.com/
 [mangy-moose]: https://mangymoose.com/
 [old-faithful]: https://www.nps.gov/yell/planyourvisit/exploreoldfaithful.htm

@@ -40,6 +40,12 @@ Two bears and one sticker. Not a bad day.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 66–67, June 19, 2024](/images/posts/yellowstone-2024/spread-066-067.jpg)](/images/posts/yellowstone-2024/spread-066-067.jpg)
+
+[![Notebook pages 68–69, June 19, 2024](/images/posts/yellowstone-2024/spread-068-069.jpg)](/images/posts/yellowstone-2024/spread-068-069.jpg)
+
 [corbets]: https://www.jacksonhole.com/dining/corbets-cabin-waffles
 [mangy-moose]: https://mangymoose.com/
 [moran]: https://www.nps.gov/places/000/mount-moran-turnout.htm

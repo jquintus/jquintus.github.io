@@ -37,5 +37,11 @@ Our flight to Minneapolis was delayed by 40 minutes, leaving us about 30 minutes
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 74–75, June 21, 2024](/images/posts/yellowstone-2024/spread-074-075.jpg)](/images/posts/yellowstone-2024/spread-074-075.jpg)
+
+[![Notebook pages 76–77, June 21, 2024](/images/posts/yellowstone-2024/spread-076-077.jpg)](/images/posts/yellowstone-2024/spread-076-077.jpg)
+
 [farmers-daughters]: https://farmersdaughtersbzn.com/
 [rsvp]: https://rsvphotel.co/

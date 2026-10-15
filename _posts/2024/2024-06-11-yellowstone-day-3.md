@@ -36,6 +36,12 @@ One more sticker brought my running total to 15. No new T-shirts today.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 12–13, June 11, 2024](/images/posts/yellowstone-2024/spread-012-013.jpg)](/images/posts/yellowstone-2024/spread-012-013.jpg)
+
+[![Notebook pages 14–15, June 11, 2024](/images/posts/yellowstone-2024/spread-014-015.jpg)](/images/posts/yellowstone-2024/spread-014-015.jpg)
+
 [antler]: https://www.antlerpub.com/
 [iron-horse]: https://www.visitgardinermt.com/directory-item/iron-horse-bar-and-grille/
 [mammoth]: https://www.nps.gov/yell/planyourvisit/explore-mammoth.htm

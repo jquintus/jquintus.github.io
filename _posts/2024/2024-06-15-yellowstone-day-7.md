@@ -36,6 +36,12 @@ We skipped lunch and went back to [Three Bear Restaurant][three-bear] for dinner
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 48–49, June 15, 2024](/images/posts/yellowstone-2024/spread-048-049.jpg)](/images/posts/yellowstone-2024/spread-048-049.jpg)
+
+[![Notebook pages 50–51, June 15, 2024](/images/posts/yellowstone-2024/spread-050-051.jpg)](/images/posts/yellowstone-2024/spread-050-051.jpg)
+
 [fountain-paint-pot]: https://www.nps.gov/places/000/fountain-paint-pot-trailhead.htm
 [grand-prismatic]: https://www.nps.gov/places/000/grand-prismatic-spring.htm/index.htm
 [midway]: https://www.nps.gov/yell/planyourvisit/madisonplan.htm

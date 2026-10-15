@@ -41,6 +41,11 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - Use reference-style external links where useful. Jekyll `post_url` links must
   include the year directory, e.g. `{% post_url 2024/2024-06-22-yellowstone-trip-summary %}`.
 - Link each daily post to the summary and provide a daily-post index in the summary.
+- Include readable photos of the corresponding notebook spreads at the bottom
+  of every daily post under `From the Notebook`. Use optimized JPEGs under
+  `images/posts/<trip>-<year>/`, meaningful page/date alt text, and clickable images.
+  Keep original handwriting intact; skip entirely blank spreads. A spread that
+  spans two dates can appear in both posts. Summary pages link to the daily posts.
 
 ## Trip summary
 
@@ -72,6 +77,12 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - A four-day Scotch tour has page-by-page running tallies written as
   **Scotches drunk / unique Scotches drunk**.
 - Report totals for each day, rather than every intermediate page tally.
+- In the Scotland 2025 notebook, the first number is the count on that spread;
+  the second accumulates through that day. Add the spread counts for daily pours
+  and use the final unique count. Verified tour counts: August 21 = 3/3,
+  August 22 = 19/19, August 23 = 21/21. August 24 names at least two drams;
+  the four-day tour therefore has at least 45 pours. Do not claim an exact
+  trip-wide distinct-whisky total.
 - Determine whether a running count resets daily or continues across the tour
   before calculating daily totals. Never sum cumulative page snapshots.
 - Keep total pours and unique Scotches distinct. Do not assume the sum of daily

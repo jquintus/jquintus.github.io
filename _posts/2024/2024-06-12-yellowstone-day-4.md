@@ -42,6 +42,24 @@ Dinner at [Wonderland Cafe][wonderland] was our best restaurant meal so far. I w
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 16–17, June 12, 2024](/images/posts/yellowstone-2024/spread-016-017.jpg)](/images/posts/yellowstone-2024/spread-016-017.jpg)
+
+[![Notebook pages 18–19, June 12, 2024](/images/posts/yellowstone-2024/spread-018-019.jpg)](/images/posts/yellowstone-2024/spread-018-019.jpg)
+
+[![Notebook pages 20–21, June 12, 2024](/images/posts/yellowstone-2024/spread-020-021.jpg)](/images/posts/yellowstone-2024/spread-020-021.jpg)
+
+[![Notebook pages 22–23, June 12, 2024](/images/posts/yellowstone-2024/spread-022-023.jpg)](/images/posts/yellowstone-2024/spread-022-023.jpg)
+
+[![Notebook pages 24–25, June 12, 2024](/images/posts/yellowstone-2024/spread-024-025.jpg)](/images/posts/yellowstone-2024/spread-024-025.jpg)
+
+[![Notebook pages 26–27, June 12, 2024](/images/posts/yellowstone-2024/spread-026-027.jpg)](/images/posts/yellowstone-2024/spread-026-027.jpg)
+
+[![Notebook pages 28–29, June 12, 2024](/images/posts/yellowstone-2024/spread-028-029.jpg)](/images/posts/yellowstone-2024/spread-028-029.jpg)
+
+[![Notebook pages 30–31, June 12, 2024](/images/posts/yellowstone-2024/spread-030-031.jpg)](/images/posts/yellowstone-2024/spread-030-031.jpg)
+
 [blue-goose]: https://www.visitgardinermt.com/item/117-red-s-blue-goose-saloon
 [follow-yer-nose]: https://www.followyernosebbq.com/
 [lamar-valley]: https://www.nps.gov/places/000/lamar-valley-wildlife-watching.htm

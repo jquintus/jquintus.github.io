@@ -34,5 +34,15 @@ We were still full from lunch at dinnertime, so that settled dinner.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 34–35, June 13, 2024](/images/posts/yellowstone-2024/spread-034-035.jpg)](/images/posts/yellowstone-2024/spread-034-035.jpg)
+
+[![Notebook pages 36–37, June 13, 2024](/images/posts/yellowstone-2024/spread-036-037.jpg)](/images/posts/yellowstone-2024/spread-036-037.jpg)
+
+[![Notebook pages 38–39, June 13, 2024](/images/posts/yellowstone-2024/spread-038-039.jpg)](/images/posts/yellowstone-2024/spread-038-039.jpg)
+
+[![Notebook pages 40–41, June 13, 2024](/images/posts/yellowstone-2024/spread-040-041.jpg)](/images/posts/yellowstone-2024/spread-040-041.jpg)
+
 [blue-goose]: https://www.visitgardinermt.com/item/117-red-s-blue-goose-saloon
 [wolf-tracker]: https://www.wolftracker.com/tours

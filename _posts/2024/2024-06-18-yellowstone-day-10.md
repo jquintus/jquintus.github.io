@@ -41,6 +41,12 @@ We made it to [Teton Thai][teton-thai] for dinner this time. Small place, good f
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 62–63, June 18, 2024](/images/posts/yellowstone-2024/spread-062-063.jpg)](/images/posts/yellowstone-2024/spread-062-063.jpg)
+
+[![Notebook pages 64–65, June 18, 2024](/images/posts/yellowstone-2024/spread-064-065.jpg)](/images/posts/yellowstone-2024/spread-064-065.jpg)
+
 [dornans]: https://dornans.com/dining/pizza-pasta-co/
 [mormon-row]: https://www.nps.gov/grte/learn/historyculture/mormon.htm
 [schwabacher]: https://www.nps.gov/places/000/schwabacher-landing.htm

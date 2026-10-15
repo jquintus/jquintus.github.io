@@ -40,6 +40,14 @@ Dessert: huckleberry ice cream and apple brown Betty.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 42–43, June 14, 2024](/images/posts/yellowstone-2024/spread-042-043.jpg)](/images/posts/yellowstone-2024/spread-042-043.jpg)
+
+[![Notebook pages 44–45, June 14, 2024](/images/posts/yellowstone-2024/spread-044-045.jpg)](/images/posts/yellowstone-2024/spread-044-045.jpg)
+
+[![Notebook pages 46–47, June 14, 2024](/images/posts/yellowstone-2024/spread-046-047.jpg)](/images/posts/yellowstone-2024/spread-046-047.jpg)
+
 [artist-point]: https://www.nps.gov/places/000/grand-canyon-of-the-yellowstone-artist-point.htm
 [discovery-center]: https://www.grizzlydiscoveryctr.org/index.php
 [gray-wolf-inn]: https://www.yellowstonevacations.com/stay/lodging/gray-wolf-inn-and-suites/

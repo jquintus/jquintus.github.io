@@ -32,5 +32,11 @@ After plenty of wolf watching, we went to bed tuckered out. The trip's sticker c
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook page 1, June 9, 2024](/images/posts/yellowstone-2024/spread-001-001.jpg)](/images/posts/yellowstone-2024/spread-001-001.jpg)
+
+[![Notebook pages 2–3, June 9, 2024](/images/posts/yellowstone-2024/spread-002-003.jpg)](/images/posts/yellowstone-2024/spread-002-003.jpg)
+
 [five-guys]: https://restaurants.fiveguys.com/mt/bozeman
 [howlers-inn]: https://www.howlersinn.com/

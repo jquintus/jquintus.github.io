@@ -34,6 +34,16 @@ The shopping totals: 14 stickers and four T-shirts. We were getting into it.
 
 Part of our June 2024 Yellowstone and Grand Teton trip. [Trip summary]({% post_url 2024/2024-06-22-yellowstone-trip-summary %}).
 
+## From the Notebook
+
+[![Notebook pages 4–5, June 10, 2024](/images/posts/yellowstone-2024/spread-004-005.jpg)](/images/posts/yellowstone-2024/spread-004-005.jpg)
+
+[![Notebook pages 6–7, June 10, 2024](/images/posts/yellowstone-2024/spread-006-007.jpg)](/images/posts/yellowstone-2024/spread-006-007.jpg)
+
+[![Notebook pages 8–9, June 10, 2024](/images/posts/yellowstone-2024/spread-008-009.jpg)](/images/posts/yellowstone-2024/spread-008-009.jpg)
+
+[![Notebook pages 10–11, June 10, 2024](/images/posts/yellowstone-2024/spread-010-011.jpg)](/images/posts/yellowstone-2024/spread-010-011.jpg)
+
 [backcountry]: https://www.backcountryburgerbar.com/
 [grizzly-encounter]: https://www.grizzlyencounter.org/
 [howlers-inn]: https://www.howlersinn.com/
