@@ -92,6 +92,21 @@ own trip, using first-person, casual American English. Fix obvious typos.
   unique counts is the number of distinct Scotches across the whole trip.
 - Link named distilleries, whisky bars, tour operators, and specific whiskies when
   a reliable match is available. Preserve the actual tasting impressions.
+- Scotch summaries need a complete list of named whiskies grouped by distillery,
+  with links to each tasting-day post. Link bottle names to their exact release,
+  not a distillery homepage; leave uncertain expressions unlinked.
+- Put each distillery's recorded drams into a tasting table, even when some
+  impressions are blank. Keep what Josh drank separate from Ksenia's drinks;
+  Josh drank the Seven Crofts gin and tonic on August 24.
+- Do not turn named drams into an inferred daily count. August 24 has two named
+  whiskies but no written Scotch tally. The first three Islay days total 43
+  recorded pours; the four-day total was not recorded.
+- The Lagavulin festival favorite was Fèis Ìle **2025**, 15 years old, 55.7%,
+  finished in Moscatel casks. Josh confirmed it and Octomore 15.3 were the best
+  Scotches of the trip.
+- The notebook labels Bunnahabhain Ruby Port Finish as 16 years old at 58.7%,
+  but the official 58.7% release is labeled 14 years old. Preserve the notebook
+  wording and avoid an exact product link until the bottle is identified.
 - Tag posts with recorded Scotch tastings `Scotch Tasting` so `/tags/scotch-tasting/`
   lists them. Leave that tag off days without a recorded tasting.
 

@@ -11,8 +11,8 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Portree", "Isle of Skye", "Highla
 
 | [Talisker][talisker] | What I thought |
 | --- | --- |
-| 10 Year Old | Caramel/gold, medium body. Smoke, a pepper finish, and sea spray. Smoky, but not Islay. |
-| Wild Blue | Reddish tint from the red wine cask. Light smoke, peat, and salt. Nice. |
+| [10 Year Old][talisker-10] | Caramel/gold, medium body. Smoke, a pepper finish, and sea spray. Smoky, but not Islay. |
+| [Wild Blue][talisker-wild-blue] | Reddish tint from the red wine cask. Light smoke, peat, and salt. Nice. |
 | Distillery Exclusive | Heavily charred ex-bourbon, ex-rum, and ex-sherry casks. A run of 9,500 bottles. |
 
 Breakfast was haggis toast with so much bacon in it. Very tasty. We were on the bus by 8:30 and at the [Fairy Glen][fairy-glen] an hour later: green, green hills, sheep, and Castle Ewen.
@@ -39,3 +39,5 @@ Part of our August 2025 Scotland trip. [Trip summary]({% post_url 2025/2025-08-3
 [fairy-glen]: https://www.isleofskye.com/skye-guide/skye-places/fairy-glen
 [sea-breezes]: https://www.sea-breezes-skye.co.uk/location.html
 [talisker]: https://www.diageo.com/en/our-brands/scotch-whisky/talisker
+[talisker-10]: https://www.malts.com/en-gb/products/talisker-10-year-old
+[talisker-wild-blue]: https://www.malts.com/en/products/talisker-the-wild-blue

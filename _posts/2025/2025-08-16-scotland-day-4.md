@@ -13,11 +13,11 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Plockton", "Inverness", "Dunkeld"
 | --- | --- |
 | [Caol Ila 12][caol-ila] | Smooth, with a nice finish. First choice in the Taste of Scotland flight. |
 | [Balblair 12][balblair] | Peatier/smokier finish. Second choice. |
-| [Macallan 12][macallan] | Smooth, simple, easy drinking. Third choice. |
-| [Glenturret 10][glenturret] | Sherry cask, chocolate notes, and dark fruit. |
-| [Glenturret Peated 10][glenturret] | A good balance of peat with those flavors. |
-| [Ardnamurchan][ardnamurchan] | A really smooth start, then the fire builds. Three drops of water. |
-| [James Eadie's Trademark X][james-eadie] | Complex, but well balanced. |
+| Macallan 12 (expression unrecorded) | Smooth, simple, easy drinking. Third choice. |
+| Glenturret 10 | Sherry cask, chocolate notes, and dark fruit. |
+| Glenturret Peated 10 | A good balance of peat with those flavors. |
+| Ardnamurchan (expression unrecorded) | A really smooth start, then the fire builds. Three drops of water. |
+| [James Eadie's Trademark X][james-eadie-trademark] | Complex, but well balanced. |
 
 We were on the bus at 8:25 for the last day of our three-day Skye trip. There were hairy coos—Highland cows—along the way, then [Plockton][plockton] at 10:00. Pretty.
 
@@ -49,6 +49,7 @@ Part of our August 2025 Scotland trip. [Trip summary]({% post_url 2025/2025-08-3
 [glenturret]: https://theglenturret.com/
 [highlander]: https://www.highlanderinverness.com/
 [james-eadie]: https://www.jameseadie.co.uk/
+[james-eadie-trademark]: https://www.jameseadie.co.uk/trademark-x.html
 [leakeys]: https://leakeysbookshop.com/pages/about-us
 [macallan]: https://www.themacallan.com/en
 [plockton]: https://visitplockton.com/discover/attachment/visit-plockton-discover-plockton-boat-trips/

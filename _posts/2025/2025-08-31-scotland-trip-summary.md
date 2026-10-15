@@ -14,8 +14,8 @@ tags: [Travel, Scotland_2025, Scotland, Scotch, Whisky, "Scotch Tasting", Edinbu
 | August 21 | 3 | 3 |
 | August 22 | 19 | 19 |
 | August 23 | 21 | 21 |
-| August 24 | At least 2 | At least 2 |
-| **Four-day total** | **At least 45** | — |
+| August 24 | Not tallied | Not tallied |
+| **Tallied days** | **43** | — |
 
 Ksenia and I spent August 13–30 in Scotland and London. Three days on Skye, a lot of Edinburgh Fringe shows, four days on Islay, and then London for Shakespeare, Totoro, and Paddington.
 
@@ -35,14 +35,15 @@ A few that stood out:
 
 | Scotch | What I thought |
 | --- | --- |
-| [Kilchoman Sanaig][kilchoman] | So good!! |
-| [Bunnahabhain][bunnahabhain] 2014 Canasta | Caramel smell, color, and taste, plus chocolate. Like a candy store. |
-| [Port Charlotte][bruichladdich] 2015 | Sweet on the nose and at the start, then smoke on the finish. “That's nice.” |
-| [Octomore][bruichladdich] Polyphonic | Funky, almost mushroomy. Smoky but smooth. Nice! |
-| [Ardbeg][ardbeg] Uigeadail | Dried fruit and more sherry. |
-| [Ardbeg][ardbeg] Corryvreckan | Peppery, with a tang. |
-| [Octomore][bruichladdich] 15.3 | Oily and super smoky, with dried fruit from the sherry casks. |
-| [Lagavulin][lagavulin] 12-year-old fill-your-own | I tried it to decide whether to buy a bottle. I did not. |
+| [Lagavulin Fèis Ìle 2025, 15-year-old][lagavulin-festival] | One of the best of the trip. Smoke blossomed over warm notes. Moscatel casks. |
+| [Octomore 15.3][octomore-153] | The other best of the trip. Oily and super smoky, with dried fruit from the sherry casks. |
+| [Kilchoman Sanaig][kilchoman-sanaig] | So good!! |
+| Bunnahabhain 2014 Canasta | Caramel smell, color, and taste, plus chocolate. Like a candy store. |
+| Port Charlotte 2015 cask | Sweet on the nose and at the start, then smoke on the finish. “That's nice.” |
+| [Octomore Polyphonic][octomore-polyphonic] | Funky, almost mushroomy. Smoky but smooth. Nice! |
+| [Ardbeg Uigeadail][ardbeg-uigeadail] | Dried fruit and more sherry. |
+| [Ardbeg Corryvreckan][ardbeg-corryvreckan] | Peppery, with a tang. |
+| Lagavulin 12-year-old Madeira-cask fill-your-own | I tried it to decide whether to buy a bottle. I did not. |
 
 Kilchoman was a great tour, with Cullen skink and a sandwich selection for lunch. Our Ardbeg guide enjoyed slagging us off. At [Kildalton][kildalton], the cross and roofless church were stupid pretty.
 
@@ -52,11 +53,141 @@ We also visited the [Islay Whisky Vault][whisky-vault] for old, rare, and unusua
 
 ### More Scotch Around Scotland
 
-The [Talisker][talisker] tour on Skye included the 10-year-old, Wild Blue, and a distillery exclusive. The 10 had pepper on the finish and sea spray. Wild Blue was salty, with a reddish tint from red-wine casks.
+The [Talisker][talisker] tour on Skye included the [10-year-old][talisker-10], [Wild Blue][talisker-wild-blue], and a distillery exclusive. The 10 had pepper on the finish and sea spray. Wild Blue was salty, with a reddish tint from red-wine casks.
 
-In Inverness I tried a flight of [Caol Ila 12][caol-ila], [Macallan 12][macallan], and [Balblair 12][balblair]. At a whisky shop in Dunkeld, there were drop-in drams: [Glenturret][glenturret] 10, its peated version, [Ardnamurchan][ardnamurchan], and [James Eadie's Trademark X][james-eadie]. Trademark X was complex but well balanced; the peated Glenturret balanced smoke with chocolate and dark fruit.
+In Inverness I tried a flight of [Caol Ila 12][caol-ila], Macallan 12, and [Balblair 12][balblair]. At a whisky shop in Dunkeld, there were drop-in drams: Glenturret 10, its peated version, Ardnamurchan, and [James Eadie's Trademark X][james-eadie-trademark]. Trademark X was complex but well balanced; the peated Glenturret balanced smoke with chocolate and dark fruit.
 
-Back in Edinburgh, the [Fiddler's Arms][fiddlers-arms] supplied [Glenfiddich 12][glenfiddich], [Glen Scotia Double Cask][glen-scotia], and more Caol Ila. The latter started smoothly and finished with strong smoke.
+Back in Edinburgh, the [Fiddler's Arms][fiddlers-arms] supplied [Glenfiddich 12][glenfiddich-12], [Glen Scotia Double Cask][glen-scotia], and more Caol Ila. The latter started smoothly and finished with strong smoke.
+
+### Every Scotch, by Distillery or Producer
+
+Here's every Scotch I wrote down, grouped by distillery or producer. For a few, I only recorded the distillery or age. The dates take you back to the day.
+
+#### Ardnahoe
+
+- [Infinite Loch][ardnahoe-infinite] — [August 22][scotland-day-10].
+- [Inaugural Release][ardnahoe-inaugural] — [August 22][scotland-day-10].
+
+#### Ardbeg
+
+- [Ten Years Old][ardbeg-ten] — [August 23][scotland-day-11].
+- [Wee Beastie][ardbeg-wee-beastie] — [August 23][scotland-day-11].
+- [An Oa][ardbeg-an-oa] — [August 23][scotland-day-11].
+- [Uigeadail][ardbeg-uigeadail] — [August 23][scotland-day-11].
+- [Corryvreckan][ardbeg-corryvreckan] — [August 23][scotland-day-11].
+- [Eureka!][ardbeg-eureka] — [August 23][scotland-day-11].
+
+#### Ardnamurchan
+
+- Ardnamurchan — [August 16][scotland-day-4].
+
+#### Balblair
+
+- [12-year-old][balblair] — [August 16][scotland-day-4].
+
+#### Bowmore
+
+- [15-year-old][bowmore-15] — [August 22][scotland-day-10].
+
+#### Bowmore House
+
+- House breakfast blend — [August 22][scotland-day-10], [August 23][scotland-day-11], [August 24][scotland-day-12].
+
+#### Bruichladdich (including Port Charlotte and Octomore)
+
+- Bruichladdich Maverick Luxury 18-year-old — [August 21][scotland-day-9].
+- Bruichladdich 2009 cask, 16 years old — [August 22][scotland-day-10].
+- Bruichladdich special-cask 16-year-old — [August 22][scotland-day-10].
+- Bruichladdich 14-year-old — [August 22][scotland-day-10].
+- [Port Charlotte Islay Barley 2014][port-charlotte-2014] — [August 21][scotland-day-9].
+- Port Charlotte 2015 cask — [August 22][scotland-day-10].
+- Octomore 2011 cask — [August 22][scotland-day-10].
+- [Octomore Polyphonic][octomore-polyphonic] — [August 22][scotland-day-10].
+- [Octomore 15.3][octomore-153] — [August 23][scotland-day-11]. One of my two favorites.
+
+#### Bunnahabhain
+
+- Ruby Port Finish, 58.7% — [August 22][scotland-day-10].
+- 2014 Canasta — [August 22][scotland-day-10].
+- [Toiteach A Dhà][bunnahabhain-toiteach] — [August 22][scotland-day-10].
+
+#### Caol Ila
+
+- [12-year-old][caol-ila] — [August 16][scotland-day-4], [August 19][scotland-day-7].
+- 2023 distillery release — [August 22][scotland-day-10].
+
+#### Glenfiddich
+
+- [12-year-old][glenfiddich-12] — [August 19][scotland-day-7].
+
+#### Glen Scotia
+
+- [Double Cask][glen-scotia] — [August 19][scotland-day-7].
+
+#### Glenturret
+
+- 10-year-old — [August 16][scotland-day-4].
+- Peated 10-year-old — [August 16][scotland-day-4].
+
+#### James Eadie
+
+- [Trademark X][james-eadie-trademark] — [August 16][scotland-day-4].
+
+#### Kilchoman
+
+- [Sanaig][kilchoman-sanaig] — [August 21][scotland-day-9].
+- [100% Islay, 14th Edition][kilchoman-14] — [August 22][scotland-day-10].
+- [Machir Bay][kilchoman-machir] — [August 22][scotland-day-10].
+- Loch Gorm — [August 22][scotland-day-10].
+- 13-year-old distillery exclusive, ex-Buffalo Trace cask — [August 22][scotland-day-10].
+- [100% Islay, 7th Edition][kilchoman-7] — [August 23][scotland-day-11].
+
+#### Lagavulin
+
+- [8-year-old][lagavulin-8] — [August 22][scotland-day-10], [August 23][scotland-day-11].
+- [16-year-old][lagavulin-16] — [August 23][scotland-day-11].
+- 12-year-old Madeira-cask fill-your-own — [August 23][scotland-day-11].
+- Distillers Edition — [August 23][scotland-day-11].
+- [Fèis Ìle 2025, 15-year-old][lagavulin-festival] — [August 23][scotland-day-11]. One of my two favorites.
+
+#### Laphroaig
+
+- [Oak Select][laphroaig-select] — [August 23][scotland-day-11].
+- [10-year-old][laphroaig-ten] — [August 23][scotland-day-11].
+- [Quarter Cask][laphroaig-quarter] — [August 23][scotland-day-11].
+- Sherry expression — [August 23][scotland-day-11].
+- [Lore][laphroaig-lore] — [August 23][scotland-day-11].
+- Cask — [August 23][scotland-day-11].
+- [Càirdeas 2025][laphroaig-cairdeas] — [August 23][scotland-day-11].
+- [Port Wood][laphroaig-port-wood] — [August 23][scotland-day-11].
+- [PX Cask][laphroaig-px] taster — [August 23][scotland-day-11].
+
+#### Loch Lomond
+
+- 10-year-old — [August 20][scotland-day-8].
+- [12-year-old][loch-lomond-12] — [August 24][scotland-day-12].
+
+#### Macallan
+
+- 12-year-old — [August 16][scotland-day-4].
+
+#### Oban
+
+- Oban — [August 14][scotland-day-2].
+
+#### Isle of Raasay
+
+- Isle of Raasay — [August 14][scotland-day-2].
+
+#### Talisker
+
+- [10-year-old][talisker-10] — [August 15][scotland-day-3].
+- [The Wild Blue][talisker-wild-blue] — [August 15][scotland-day-3].
+- Distillery Exclusive — [August 15][scotland-day-3].
+
+#### Tamdhu
+
+- [15-year-old][tamdhu-15] — [August 13][scotland-day-1].
 
 ## Where We Ate and Drank
 
@@ -72,7 +203,7 @@ Back in Edinburgh, the [Fiddler's Arms][fiddlers-arms] supplied [Glenfiddich 12]
 | [Fiddler's Arms][fiddlers-arms] | — | Whisky and drinks while wandering Old Town. |
 | [Mussel Inn][mussel-inn] | — | A return visit from our first trip. White-wine mussels for Ksenia, smoked salmon and the applewood-smoked special for me. |
 | [Filling Station][filling-station] | — | Chicken burger, fish and chips, and strawberry lemonade between shows. |
-| [Element][element] | — | Chicken Balmoral, mushroom stroganoff, and a Scotch egg on one visit; bouillabaisse and steak-and-ale pie on another. Nice floral Seven Crofts gin and tonic. |
+| [Element][element] | — | Chicken Balmoral, mushroom stroganoff, and a Scotch egg on one visit; bouillabaisse and steak-and-ale pie on another. I had a nice, floral Seven Crofts gin and tonic. |
 
 ### Skye and the Highlands
 
@@ -168,21 +299,31 @@ We also saw our first adult panto, a rock-and-roll magician who picked me for a 
 
 ## About the Tallies and Ratings
 
-The Islay counts reset each day. I counted the pours on each spread and kept the running unique count beside them; only the final daily totals are above. The return day includes at least the two named drams. Some whiskies reappear on different days, so adding daily unique counts would overstate the number of different Scotches across the trip.
+The Islay counts reset each day. I counted the pours on each spread and kept the running unique count beside them; only the final daily totals are above. I didn't tally the return day, though I wrote down the Bowmore House blend and Loch Lomond 12. Some whiskies reappear on different days, so adding daily unique counts would overstate the number of different Scotches across the trip.
 
 Five stars means a standout; four means I'd recommend it; three means mixed; two means disappointing. I haven't rated every meal. These are my impressions from August 2025.
 
 [archies]: https://archieslondon.co.uk/
+[ardnahoe-infinite]: https://ardnahoedistillery.com/products/infinite-loch
+[ardnahoe-inaugural]: https://ardnahoedistillery.com/products/the-ardnahoe-inaugural-release
 [ardbeg]: https://www.ardbeg.com/en-gb
+[ardbeg-ten]: https://www.ardbeg.com/en-gb/products/ardbeg-ten-years-old
+[ardbeg-wee-beastie]: https://www.ardbeg.com/en-gb/products/ardbeg-wee-beastie
+[ardbeg-an-oa]: https://www.ardbeg.com/en-gb/products/ardbeg-an-oa
+[ardbeg-uigeadail]: https://www.ardbeg.com/en-gb/products/ardbeg-uigeadail
+[ardbeg-corryvreckan]: https://www.ardbeg.com/en-gb/products/ardbeg-corryvreckan
+[ardbeg-eureka]: https://www.ardbeg.com/en-gb/products/ardbeg-eureka
 [ardnamurchan]: https://ardnamurchandistillery.com/
 [badger-co]: https://badgerandco.com/menus/
 [balblair]: https://www.balblair.com/collection/1-balblair-12-year-old
 [botanist]: https://thebotanist.uk.com/locations/edinburgh
 [bowmore-hotel]: https://bowmorehotel.co.uk/
 [bowmore-house]: https://www.thebowmorehouse.co.uk/
+[bowmore-15]: https://www.bowmore.com/whiskies/15-year-old
 [browns]: https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/dining/the-drawing-room/
 [bruichladdich]: https://www.bruichladdich.com/
 [bunnahabhain]: https://bunnahabhain.com/pages/experience-bunnahabhain
+[bunnahabhain-toiteach]: https://bunnahabhain.com/en-us/products/toiteach-a-dha
 [calton-hill]: https://www.edinburghoutdoors.org.uk/directory-record/19/calton-hill
 [caol-ila]: https://www.malts.com/en/products/caol-ila-12-year-old-single-malt-scotch-whisky-70cl
 [doune-castle]: https://www.historicenvironment.scot/visit/all/doune-castle/
@@ -198,6 +339,7 @@ Five stars means a standout; four means I'd recommend it; three means mixed; two
 [fringe]: https://www.edfringe.com/
 [glen-scotia]: https://us.glenscotia.com/products/double-cask-whisky
 [glenfiddich]: https://www.glenfiddich.com/
+[glenfiddich-12]: https://shop.us.glenfiddich.com/products/glenfiddich-12-year-old
 [glenturret]: https://theglenturret.com/
 [globe]: https://www.shakespearesglobe.com/visit/food-and-drink/
 [greyfriars]: https://greyfriarskirk.com/visit/kirkyard/
@@ -207,17 +349,35 @@ Five stars means a standout; four means I'd recommend it; three means mixed; two
 [hotel-indigo]: https://hiedinburghprincesstreet.co.uk/
 [inveraray-inn]: https://www.inveraray-inn.co.uk/
 [james-eadie]: https://www.jameseadie.co.uk/
+[james-eadie-trademark]: https://www.jameseadie.co.uk/trademark-x.html
 [kilchoman]: https://www.kilchomandistillery.com/
+[kilchoman-sanaig]: https://www.kilchomandistillery.com/our-whisky/sanaig/
+[kilchoman-14]: https://www.kilchomandistillery.com/distillery-news/100-islay-14th-edition/
+[kilchoman-machir]: https://www.kilchomandistillery.com/our-whisky/machir-bay/
+[kilchoman-7]: https://www.kilchomandistillery.com/our-whisky/100-islay-7th-edition/
 [kildalton]: https://www.historicenvironment.scot/visit/all/kildalton-cross/
 [lagavulin]: https://www.malts.com/en-gb/distilleries/lagavulin
+[lagavulin-8]: https://www.malts.com/en/products/lagavulin-8-year-old-single-malt-scotch-whisky-70cl
+[lagavulin-16]: https://www.malts.com/en/products/lagavulin-16-year-old-single-malt-scotch-whisky-70cl
+[lagavulin-festival]: https://www.malts.com/en/products/lagavulin-feis-ile-2025-15-year-old-single-malt-scotch-whisky-70cl
 [laphroaig]: https://www.laphroaig.com/
+[laphroaig-select]: https://www.laphroaig.com/en-gb/whiskies/select
+[laphroaig-ten]: https://www.laphroaig.com/en-gb/whiskies/10-year-old
+[laphroaig-quarter]: https://www.laphroaig.com/en-gb/whiskies/laphroaig-quarter-cask-single-malt-scotch-whisky
+[laphroaig-lore]: https://www.laphroaig.com/en-gb/whiskies/laphroaig-lore-single-malt-scotch-whisky
+[laphroaig-cairdeas]: https://www.laphroaig.com/en-gb/whiskies/cairdeas-2025
+[laphroaig-port-wood]: https://www.laphroaig.com/en-gb/global-travel-retail/port-wood
+[laphroaig-px]: https://www.laphroaig.com/global-travel-retail/px-cask
 [leakeys]: https://leakeysbookshop.com/pages/about-us
 [loch-lubnaig]: https://www.lochlomond-trossachs.org/things-to-see/lochs-in-the-national-park/loch-lubnaig/
 [lochside]: https://www.lochsidehotel.co.uk/
+[loch-lomond-12]: https://www.lochlomondwhiskies.com/products/12-year-old-single-malt-scotch-whisky
 [lochside-brasserie]: https://www.blacksheephotels.com/the-whispering-pine-lodge/dining.htm
 [macallan]: https://www.themacallan.com/en
 [mangio]: https://mangio.co.uk/contact/
 [mussel-inn]: https://www.mussel-inn.com/
+[octomore-153]: https://www.bruichladdich.com/products/octomore-15-3
+[octomore-polyphonic]: https://www.bruichladdich.com/blogs/news/designing-octomore-polyphonic
 [new-calton]: https://www.edinburgh.gov.uk/directory-record/1098657/new-calton-burial-ground
 [old-calton]: https://www.edinburgh.gov.uk/directory-record/1098661/old-calton-burial-ground
 [paddington]: https://paddingtonbearexperience.com/faqs/
@@ -225,6 +385,7 @@ Five stars means a standout; four means I'd recommend it; three means mixed; two
 [pancakes]: https://www.wherethepancakesare.com/
 [pig-butcher]: https://thepigandbutcher.co.uk/butchery/
 [plockton]: https://visitplockton.com/discover/attachment/visit-plockton-discover-plockton-boat-trips/
+[port-charlotte-2014]: https://us.bruichladdich.com/products/port-charlotte-islay-barley-2014
 [rogie-falls]: https://forestryandland.gov.scot/visit/destinations/rogie-falls
 [saucy]: https://www.saucybooks.com/
 [sea-breezes]: https://www.sea-breezes-skye.co.uk/location.html
@@ -233,8 +394,21 @@ Five stars means a standout; four means I'd recommend it; three means mixed; two
 [surgeons-hall]: https://museum.rcsed.ac.uk/
 [swan]: https://swanlondon.co.uk/
 [talisker]: https://www.diageo.com/en/our-brands/scotch-whisky/talisker
+[talisker-10]: https://www.malts.com/en-gb/products/talisker-10-year-old
+[talisker-wild-blue]: https://www.malts.com/en/products/talisker-the-wild-blue
+[tamdhu-15]: https://www.tamdhu.com/news/points-of-distinction-tamdhu-15-year-old
 [tate]: https://www.tate.org.uk/visit/tate-modern
 [thomas-walls]: https://www.yell.com/biz/thomas-j-walls-coffee-edinburgh-8781422/
 [totoro]: https://totoroshow.com/
 [troubadour]: https://www.troubadourlondon.com/menu
 [whisky-vault]: https://www.islayinfo.com/about-islay/key-places/bridgend
+[scotland-day-1]: {% post_url 2025/2025-08-13-scotland-day-1 %}
+[scotland-day-2]: {% post_url 2025/2025-08-14-scotland-day-2 %}
+[scotland-day-3]: {% post_url 2025/2025-08-15-scotland-day-3 %}
+[scotland-day-4]: {% post_url 2025/2025-08-16-scotland-day-4 %}
+[scotland-day-7]: {% post_url 2025/2025-08-19-scotland-day-7 %}
+[scotland-day-8]: {% post_url 2025/2025-08-20-scotland-day-8 %}
+[scotland-day-9]: {% post_url 2025/2025-08-21-scotland-day-9 %}
+[scotland-day-10]: {% post_url 2025/2025-08-22-scotland-day-10 %}
+[scotland-day-11]: {% post_url 2025/2025-08-23-scotland-day-11 %}
+[scotland-day-12]: {% post_url 2025/2025-08-24-scotland-day-12 %}

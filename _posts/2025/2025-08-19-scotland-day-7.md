@@ -11,7 +11,7 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky", "
 
 | Whisky at [Fiddler's Arms][fiddlers-arms] | What I thought |
 | --- | --- |
-| [Glenfiddich 12][glenfiddich] | Speyside. Light caramel, a honey/caramel color, and a very light peaty finish. |
+| [Glenfiddich 12][glenfiddich-12] | Speyside. Light caramel, a honey/caramel color, and a very light peaty finish. |
 | [Glen Scotia Double Cask][glen-scotia] | Campbeltown. Oaky nose; I wasn't picking much up before the finish. |
 | [Caol Ila 12][caol-ila] | Islay. Peat and smoke on the nose, a smooth start, and strong smoke at the finish. |
 
@@ -37,6 +37,7 @@ Part of our August 2025 Scotland trip. [Trip summary]({% post_url 2025/2025-08-3
 [fiddlers-arms]: https://www.thefiddlersarms.com/find-us/
 [glen-scotia]: https://us.glenscotia.com/products/double-cask-whisky
 [glenfiddich]: https://www.glenfiddich.com/
+[glenfiddich-12]: https://shop.us.glenfiddich.com/products/glenfiddich-12-year-old
 [greyfriars]: https://greyfriarskirk.com/visit/kirkyard/
 [mussel-inn]: https://www.mussel-inn.com/
 [surgeons-hall]: https://museum.rcsed.ac.uk/

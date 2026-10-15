@@ -11,7 +11,7 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky", "
 
 | Whisky | What I thought |
 | --- | --- |
-| [Tamdhu 15][tamdhu] | Speyside. Orange notes and apple pastries. |
+| [Tamdhu 15][tamdhu-15] | Speyside. Orange notes and apple pastries. |
 
 ## Scotland 2025
 
@@ -33,5 +33,6 @@ Part of our August 2025 Scotland trip. [Trip summary]({% post_url 2025/2025-08-3
 [fringe]: https://www.edfringe.com/
 [hotel-indigo]: https://hiedinburghprincesstreet.co.uk/
 [tamdhu]: https://www.tamdhu.com/
+[tamdhu-15]: https://www.tamdhu.com/news/points-of-distinction-tamdhu-15-year-old
 [thistly-cross]: https://www.thistlycrosscider.co.uk/pages/about-thistly-cross
 [wojtek]: https://cultureedinburgh.com/wojtek-the-bear

@@ -23,9 +23,9 @@ Dinner at the [Lochside][lochside] had an enticing menu of specials. Really nice
 
 | Scotch | What I thought |
 | --- | --- |
-| [Bruichladdich][bruichladdich] Maverick Luxury 18-year-old | Warm. 50%. |
-| [Kilchoman Sanaig][kilchoman] | So good!! 46%. |
-| [Port Charlotte][bruichladdich] Islay Barley 2014 | Straw-colored, not much on the nose, then a punch in the throat with smoke. Oddly smooth. |
+| Bruichladdich Maverick Luxury 18-year-old | Warm. 50%. |
+| [Kilchoman Sanaig][kilchoman-sanaig] | So good!! 46%. |
+| [Port Charlotte Islay Barley 2014][port-charlotte-2014] | Straw-colored, not much on the nose, then a punch in the throat with smoke. Oddly smooth. |
 
 Three drams to start. We were going to get considerably busier.
 
@@ -40,4 +40,6 @@ Part of our August 2025 Scotland and London trip. [Trip summary]({% post_url 202
 [bruichladdich]: https://www.bruichladdich.com/
 [inveraray-inn]: https://www.inveraray-inn.co.uk/
 [kilchoman]: https://www.kilchomandistillery.com/
+[kilchoman-sanaig]: https://www.kilchomandistillery.com/our-whisky/sanaig/
+[port-charlotte-2014]: https://us.bruichladdich.com/products/port-charlotte-islay-barley-2014
 [lochside]: https://www.lochsidehotel.co.uk/

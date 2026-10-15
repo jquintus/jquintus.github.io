@@ -7,16 +7,11 @@ categories: [Travel, Food]
 tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Islay", "Inveraray", "Edinburgh", "Argyll and Bute", "Scotch Tasting"]
 ---
 
-| Scotch | Today |
-| --- | ---: |
-| Named drams | At least 2 |
-| Different named whiskies | At least 2 |
-
 The last day of the whisky tour took us off Islay and back to Edinburgh. We spotted our Ardbeg tour guide on the ferry, then stopped for lunch at the [Inveraray Inn][inveraray-inn] again. We were back in Edinburgh by 5:00pm.
 
-The last whiskies included the [Bowmore House][bowmore-house] blend and a [Loch Lomond 12-year-old][loch-lomond]. Loch Lomond was where we'd stopped on the way to Islay on the first day. The 12 had a fruity, berry nose and tasted of cereal. The finish was oddly harsh, though I might just have been dehydrated.
+The last whiskies included the Bowmore House blend and a [Loch Lomond 12-year-old][loch-lomond]. Loch Lomond was where we'd stopped on the way to Islay on the first day. The 12 had a fruity, berry nose and tasted of cereal. The finish was oddly harsh, though I might just have been dehydrated.
 
-Dinner was at [Element][element]. I had bouillabaisse; Ksenia had steak and ale pie. We also had a Seven Crofts gin and tonic: nice and floral.
+Dinner was at [Element][element]. I had bouillabaisse; Ksenia had steak and ale pie. I had a Seven Crofts gin and tonic, too: nice and floral.
 
 We squeezed in one more Fringe show, *Girl Pop*. Fun, with nine people in the audience.
 

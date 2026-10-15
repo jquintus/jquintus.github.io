@@ -11,8 +11,8 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Isle of Skye", "High
 
 | Whisky | Where |
 | --- | --- |
-| [Oban][oban] | With lunch. |
-| [Isle of Raasay][raasay] | With dinner at the hotel. |
+| Oban (expression unrecorded) | With lunch. |
+| Isle of Raasay (expression unrecorded) | With dinner at the hotel. |
 
 We started our three-day Skye tour with Billy as our guide. Before we got too far from Edinburgh, he recommended [Dean Village][dean-village]: pretty, with good shops and cafes. Something for our return to the city.
 

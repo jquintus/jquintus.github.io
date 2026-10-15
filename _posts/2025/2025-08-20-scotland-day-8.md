@@ -11,7 +11,7 @@ tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky", "
 
 | Whisky | Where |
 | --- | --- |
-| [Loch Lomond 10][loch-lomond-whisky] | With dinner at [Element][element]. |
+| Loch Lomond 10 (expression unrecorded) | With dinner at [Element][element]. |
 
 We spent time watching street performers on the [Royal Mile][royal-mile]: a flute looper, a fire juggler, a knife juggler, and a magician doing cups and balls.
 

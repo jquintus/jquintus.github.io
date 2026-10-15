@@ -23,11 +23,11 @@ Mark led our [Lagavulin][lagavulin] tour. We talked through malting, mashing, fe
 
 | Whisky | What I thought |
 | --- | --- |
-| Lagavulin 16 | The starting point for the tasting. |
+| [Lagavulin 16][lagavulin-16] | The starting point for the tasting. |
 | 12-year-old fill-your-own, Madeira cask | Sweet vanilla, wood spice, and peppery smoke. Almost Jim Beam. I tried it to see whether I wanted a bottle. I did not. |
-| Lagavulin 8 | Pale straw color, peat and sweetness on the nose, then smoke. Less sweet, with less going on than the 16. |
+| [Lagavulin 8][lagavulin-8] | Pale straw color, peat and sweetness on the nose, then smoke. Less sweet, with less going on than the 16. |
 | Distillers Edition | More amber, with chocolate and bitterness. Smooth finish. |
-| 15-year-old festival bottle | Smoke blossoming over warm notes. Muscatel casks. |
+| [Lagavulin Fèis Ìle 2025, 15-year-old][lagavulin-festival] | Smoke blossoming over warm notes. Moscatel casks. One of my favorites of the trip. |
 
 We didn't buy anything there. The fill-your-own wasn't great, and the distillery exclusive was too expensive.
 
@@ -39,21 +39,32 @@ Our [Ardbeg][ardbeg] guide enjoyed slagging us off. We also heard about Shorty, 
 
 | Whisky | What I thought |
 | --- | --- |
-| Ardbeg 10 | Salty and spicy, from bourbon casks. |
-| Wee Beastie | Five years old, bourbon and sherry casks. Ashy. |
-| An Oa | Sherry, heavily charred virgin oak, and bourbon. Does not taste of bell peppers. |
-| Uigeadail | Dried fruit, with more sherry than Wee Beastie. |
-| Corryvreckan | New French oak and bourbon. Peppery, with a tang. |
+| [Ardbeg 10][ardbeg-ten] | Salty and spicy, from bourbon casks. |
+| [Wee Beastie][ardbeg-wee-beastie] | Five years old, bourbon and sherry casks. Ashy. |
+| [An Oa][ardbeg-an-oa] | Sherry, heavily charred virgin oak, and bourbon. Does not taste of bell peppers. |
+| [Uigeadail][ardbeg-uigeadail] | Dried fruit, with more sherry than Wee Beastie. |
+| [Corryvreckan][ardbeg-corryvreckan] | New French oak and bourbon. Peppery, with a tang. |
+| [Eureka!][ardbeg-eureka] | — |
 
 ### Laphroaig, Then More
 
-At [Laphroaig][laphroaig], they were still doing some floor malting on site. The tasting covered Oak Select, the standard 10-year-old, Quarter Cask, a sherry expression, Lore, cask strength, Cairdeas 2025, and Portwood Cask.
+At [Laphroaig][laphroaig], they were still doing some floor malting on site. Here's everything I wrote down from the tasting, including the PX Cask taster:
 
-Quarter Cask was fruity and dry. Lore had iodine. Cask strength was warm and sweet. Cairdeas was the festival version of Lore.
+| Whisky | What I thought |
+| --- | --- |
+| [Oak Select][laphroaig-select] | — |
+| [10-year-old][laphroaig-ten] | — |
+| [Quarter Cask][laphroaig-quarter] | Fruity and dry. |
+| Sherry expression | — |
+| [Lore][laphroaig-lore] | Iodine. |
+| Cask | Warm and sweet. |
+| [Càirdeas 2025][laphroaig-cairdeas] | The festival version of Lore. |
+| [Port Wood][laphroaig-port-wood] | — |
+| [PX Cask][laphroaig-px] taster | — |
 
-We finished up at the [Bowmore Hotel][bowmore-hotel], which Teresa called a “goddamn delight.” Crab, fried mushrooms, Octomore 15.3, and a Kilchoman 100% Islay 7th Edition.
+We finished up at the [Bowmore Hotel][bowmore-hotel], which Teresa called a “goddamn delight.” Crab, fried mushrooms, [Octomore 15.3][octomore-153], and a [Kilchoman 100% Islay 7th Edition][kilchoman-7].
 
-The Octomore was oily and super smoky, with dried fruit from the sherry casks. The Kilchoman wasn't that smoky on the nose. Sweet. Almost turpentine.
+The Octomore was oily and super smoky, with dried fruit from the sherry casks. It and the Lagavulin festival bottle were my favorites of the trip. The Kilchoman wasn't that smoky on the nose. Sweet. Almost turpentine.
 
 I crossed out my tally and increased it after drinking more. Twenty-one for the day.
 
@@ -78,3 +89,21 @@ Part of our August 2025 Scotland and London trip. [Trip summary]({% post_url 202
 [lagavulin]: https://www.malts.com/en-gb/distilleries/lagavulin
 [laphroaig]: https://www.laphroaig.com/
 [seasalt]: https://www.seasalt-bistro.co.uk/
+[lagavulin-16]: https://www.malts.com/en/products/lagavulin-16-year-old-single-malt-scotch-whisky-70cl
+[lagavulin-8]: https://www.malts.com/en/products/lagavulin-8-year-old-single-malt-scotch-whisky-70cl
+[lagavulin-festival]: https://www.malts.com/en/products/lagavulin-feis-ile-2025-15-year-old-single-malt-scotch-whisky-70cl
+[ardbeg-ten]: https://www.ardbeg.com/en-gb/products/ardbeg-ten-years-old
+[ardbeg-wee-beastie]: https://www.ardbeg.com/en-gb/products/ardbeg-wee-beastie
+[ardbeg-an-oa]: https://www.ardbeg.com/en-gb/products/ardbeg-an-oa
+[ardbeg-uigeadail]: https://www.ardbeg.com/en-gb/products/ardbeg-uigeadail
+[ardbeg-corryvreckan]: https://www.ardbeg.com/en-gb/products/ardbeg-corryvreckan
+[ardbeg-eureka]: https://www.ardbeg.com/en-gb/products/ardbeg-eureka
+[laphroaig-select]: https://www.laphroaig.com/en-gb/whiskies/select
+[laphroaig-ten]: https://www.laphroaig.com/en-gb/whiskies/10-year-old
+[laphroaig-quarter]: https://www.laphroaig.com/en-gb/whiskies/laphroaig-quarter-cask-single-malt-scotch-whisky
+[laphroaig-lore]: https://www.laphroaig.com/en-gb/whiskies/laphroaig-lore-single-malt-scotch-whisky
+[laphroaig-cairdeas]: https://www.laphroaig.com/en-gb/whiskies/cairdeas-2025
+[laphroaig-port-wood]: https://www.laphroaig.com/en-gb/global-travel-retail/port-wood
+[laphroaig-px]: https://www.laphroaig.com/global-travel-retail/px-cask
+[octomore-153]: https://www.bruichladdich.com/products/octomore-15-3
+[kilchoman-7]: https://www.kilchomandistillery.com/our-whisky/100-islay-7th-edition/
