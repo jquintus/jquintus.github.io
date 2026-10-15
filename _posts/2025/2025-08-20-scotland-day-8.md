@@ -4,7 +4,7 @@ title: "Scotland, Day 8: Royal Mile Performers and Knightclub"
 date: 2025-08-20
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky", "Scotch Tasting"]
 ---
 
 ## Scotch

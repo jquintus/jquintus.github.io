@@ -4,7 +4,7 @@ title: "Scotland, Day 9: The Ferry to Islay"
 date: 2025-08-21
 comments: true
 categories: [Travel, Food, Drink]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Glasgow", "Inveraray", "Bowmore", "Islay", "Argyll and Bute"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Glasgow", "Inveraray", "Bowmore", "Islay", "Argyll and Bute", "Scotch Tasting"]
 ---
 
 ## Scotch Tallies
@@ -34,6 +34,7 @@ Part of our August 2025 Scotland and London trip. [Trip summary]({% post_url 202
 ## From the Notebook
 
 [![Notebook pages 112–113, August 21, 2025]({{ '/images/posts/scotland-2025/spread-112-113.jpg' | relative_url }})]({{ '/images/posts/scotland-2025/spread-112-113.jpg' | relative_url }})
+
 [bowmore-hotel]: https://bowmorehotel.co.uk/
 [bowmore-house]: https://www.thebowmorehouse.co.uk/
 [bruichladdich]: https://www.bruichladdich.com/

@@ -4,7 +4,7 @@ title: "Scotland, Day 4: Highland Drams and Back to Edinburgh"
 date: 2025-08-16
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Plockton", "Inverness", "Dunkeld", "Edinburgh", "Highlands", "Perthshire", "Scotch", "Whisky"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Plockton", "Inverness", "Dunkeld", "Edinburgh", "Highlands", "Perthshire", "Scotch", "Whisky", "Scotch Tasting"]
 ---
 
 ## Scotch

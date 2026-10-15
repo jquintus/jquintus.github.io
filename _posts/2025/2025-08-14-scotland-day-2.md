@@ -4,7 +4,7 @@ title: "Scotland, Day 2: On the Road to Skye"
 date: 2025-08-14
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Isle of Skye", "Highlands", "Scotch", "Whisky"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Isle of Skye", "Highlands", "Scotch", "Whisky", "Scotch Tasting"]
 ---
 
 ## Scotch

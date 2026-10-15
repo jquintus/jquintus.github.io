@@ -1,0 +1,28 @@
+---
+layout: page
+title: Blog Tags
+---
+
+{% assign sorted_tags = site.tags | sort %}
+
+<div class="archives">
+  <div class="small">
+  {% for tag in sorted_tags %}
+    {% unless forloop.first %} | {% endunless %}
+    {% if tag[0] == 'Scotch Tasting' %}
+      <a href="{{ '/tags/scotch-tasting/' | relative_url }}" class="post-tag">{{ tag[0] }}</a>
+    {% else %}
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    {% endif %}
+  {% endfor %}
+  </div>
+
+  {% for tag in sorted_tags %}
+    <h2 class="year" id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul>
+    {% for post in tag[1] %}
+      <li><h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+</div>

@@ -40,6 +40,9 @@ own trip, using first-person, casual American English. Fix obvious typos.
   invent URLs or imply an unnamed business has been identified with certainty.
 - Use reference-style external links where useful. Jekyll `post_url` links must
   include the year directory, e.g. `{% post_url 2024/2024-06-22-yellowstone-trip-summary %}`.
+- Leave a blank line before the first reference-link definition, including
+  when definitions follow a notebook image. Verify links in rendered HTML;
+  definitions present in Markdown do not prove they resolved.
 - Link each daily post to the summary and provide a daily-post index in the summary.
 - Include readable photos of the corresponding notebook spreads at the bottom
   of every daily post under `From the Notebook`. Use optimized JPEGs under
@@ -89,6 +92,8 @@ own trip, using first-person, casual American English. Fix obvious typos.
   unique counts is the number of distinct Scotches across the whole trip.
 - Link named distilleries, whisky bars, tour operators, and specific whiskies when
   a reliable match is available. Preserve the actual tasting impressions.
+- Tag posts with recorded Scotch tastings `Scotch Tasting` so `/tags/scotch-tasting/`
+  lists them. Leave that tag off days without a recorded tasting.
 
 ## Verification and publishing
 

@@ -472,6 +472,7 @@ article .entry-content .video-container embed {
     display: inline-block;
     font-size: 0.9em;
     font-weight: 400;
+    text-align: left;
 }
 #content article .entry-content .archives ul {
     padding: 20px;

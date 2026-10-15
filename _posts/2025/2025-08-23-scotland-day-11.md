@@ -4,7 +4,7 @@ title: "Scotland, Day 11: Lagavulin, Ardbeg, and Laphroaig"
 date: 2025-08-23
 comments: true
 categories: [Travel, Food, Drink]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Bowmore", "Port Ellen", "Islay", "Argyll and Bute"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Bowmore", "Port Ellen", "Islay", "Argyll and Bute", "Scotch Tasting"]
 ---
 
 ## Scotch Tallies
@@ -70,6 +70,7 @@ Part of our August 2025 Scotland and London trip. [Trip summary]({% post_url 202
 [![Notebook pages 136–137, August 23, 2025]({{ '/images/posts/scotland-2025/spread-136-137.jpg' | relative_url }})]({{ '/images/posts/scotland-2025/spread-136-137.jpg' | relative_url }})
 
 [![Notebook pages 138–139, August 23, 2025]({{ '/images/posts/scotland-2025/spread-138-139.jpg' | relative_url }})]({{ '/images/posts/scotland-2025/spread-138-139.jpg' | relative_url }})
+
 [ardbeg]: https://www.ardbeg.com/en-gb
 [bowmore-hotel]: https://bowmorehotel.co.uk/
 [bowmore-house]: https://www.thebowmorehouse.co.uk/

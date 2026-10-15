@@ -4,7 +4,7 @@ title: "Scotland, Day 12: The Ferry Back and One More Fringe Show"
 date: 2025-08-24
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Islay", "Inveraray", "Edinburgh", "Argyll and Bute"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Islay", "Inveraray", "Edinburgh", "Argyll and Bute", "Scotch Tasting"]
 ---
 
 | Scotch | Today |

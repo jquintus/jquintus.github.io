@@ -4,7 +4,7 @@ title: "Scotland, Day 1: Edinburgh and Our First Panto"
 date: 2025-08-13
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Edinburgh", "Scotch", "Whisky", "Scotch Tasting"]
 ---
 
 ## Scotch

@@ -4,7 +4,7 @@ title: "Scotland, Day 3: Sea Bass and Talisker on Skye"
 date: 2025-08-15
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Portree", "Isle of Skye", "Highlands", "Scotch", "Whisky"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Portree", "Isle of Skye", "Highlands", "Scotch", "Whisky", "Scotch Tasting"]
 ---
 
 ## Scotch

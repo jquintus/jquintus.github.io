@@ -4,7 +4,7 @@ title: "Scotland and London: Scotch, Shows, and Where We Ate"
 date: 2025-08-31
 comments: true
 categories: [Travel, Food, Drink]
-tags: [Travel, Scotland_2025, Scotland, Scotch, Whisky, Edinburgh, Glasgow, Skye, Portree, Inverness, Dunkeld, Islay, Bowmore, Port Ellen, Inveraray, London, England, Argyll and Bute]
+tags: [Travel, Scotland_2025, Scotland, Scotch, Whisky, "Scotch Tasting", Edinburgh, Glasgow, Skye, Portree, Inverness, Dunkeld, Islay, Bowmore, Port Ellen, Inveraray, London, England, Argyll and Bute]
 ---
 
 ## Scotch Tallies
@@ -22,6 +22,8 @@ Ksenia and I spent August 13–30 in Scotland and London. Three days on Skye, a 
 Also Scotch. A lot of Scotch.
 
 ## The Scotch
+
+[All the Scotch tasting posts]({{ '/tags/scotch-tasting/' | relative_url }}).
 
 ### Four Days on Islay
 
@@ -169,6 +171,7 @@ We also saw our first adult panto, a rock-and-roll magician who picked me for a 
 The Islay counts reset each day. I counted the pours on each spread and kept the running unique count beside them; only the final daily totals are above. The return day includes at least the two named drams. Some whiskies reappear on different days, so adding daily unique counts would overstate the number of different Scotches across the trip.
 
 Five stars means a standout; four means I'd recommend it; three means mixed; two means disappointing. I haven't rated every meal. These are my impressions from August 2025.
+
 [archies]: https://archieslondon.co.uk/
 [ardbeg]: https://www.ardbeg.com/en-gb
 [ardnamurchan]: https://ardnamurchandistillery.com/

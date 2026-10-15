@@ -4,7 +4,7 @@ title: "Scotland, Day 10: Nineteen Drams Around Islay"
 date: 2025-08-22
 comments: true
 categories: [Travel, Food, Drink]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Bowmore", "Bridgend", "Islay", "Argyll and Bute"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Bowmore", "Bridgend", "Islay", "Argyll and Bute", "Scotch Tasting"]
 ---
 
 ## Scotch Tallies
@@ -76,6 +76,7 @@ Part of our August 2025 Scotland and London trip. [Trip summary]({% post_url 202
 [![Notebook pages 126–127, August 22, 2025]({{ '/images/posts/scotland-2025/spread-126-127.jpg' | relative_url }})]({{ '/images/posts/scotland-2025/spread-126-127.jpg' | relative_url }})
 
 [![Notebook pages 128–129, August 22, 2025]({{ '/images/posts/scotland-2025/spread-128-129.jpg' | relative_url }})]({{ '/images/posts/scotland-2025/spread-128-129.jpg' | relative_url }})
+
 [ardnahoe]: https://ardnahoedistillery.com/
 [botanist-gin]: https://www.thebotanist.com/
 [bowmore]: https://www.bowmore.com/en-gb/

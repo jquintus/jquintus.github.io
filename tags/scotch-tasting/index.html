@@ -1,0 +1,12 @@
+---
+layout: page
+title: Scotch Tasting
+---
+
+<div class="archives">
+  <ul>
+  {% for post in site.tags['Scotch Tasting'] %}
+    <li><h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3></li>
+  {% endfor %}
+  </ul>
+</div>
