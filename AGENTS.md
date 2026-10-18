@@ -25,6 +25,13 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - Tags include `Travel`, the trip name, `<Trip>_<year>`, relevant cities, and
   states or regions. Yellowstone's tags are `Travel`, `Yellowstone_2024`,
   `Yellowstone`, city names, state names, `bears`, and `wolves`.
+- When a city has several visits, keep its generic city tag and add a tag that
+  identifies this visit by year; include a month when the same year has more
+  than one visit (for example, `London Aug 2025` and `London Nov 2025`).
+- Daily travel titles should identify the city or country and year. Name all
+  countries in a multi-country trip's summary title; `Europe` alone is too broad.
+  Use sights, meals, or events to distinguish days rather than a travel
+  companion's name.
 - When the notebook records a daily tally, start with that tally table. Preserve
   daily versus trip totals. Do not add a tally table to a trip without tallies.
 - For Yellowstone, a dash in the notebook means no animals of that kind were
@@ -136,6 +143,23 @@ own trip, using first-person, casual American English. Fix obvious typos.
   to Paris on September 4. All 13 days have dated entries.
 - This recording shows pages sideways and mirrored. Rotate and flip extracted
   photos before publishing so the handwriting is readable.
+
+## Germany 2016 and Barcelona 2017 notebook
+
+- The video `Germany  2016 - Barcelona 2017.mov` contains two trips on opposite
+  sides of notebook spreads. Read the lower narrative page and the upper page
+  separately; the upper page is often upside down and may contain Barcelona
+  tallies while the lower page still describes Germany.
+- Germany has dated entries October 22–November 5, 2016. Barcelona has dated
+  narrative entries March 6–11, 2017. A Barcelona financial tally says March 5,
+  but no March 5 narrative entry is visible in the recording.
+- The Barcelona food-tour page turn around 133–136 seconds skips the first page
+  and its likely March 9 heading. The surviving food-tour and Park Güell pages
+  fall between dated March 8 and March 10 entries; disclose that the March 9
+  assignment is inferred from sequence.
+- An existing retrospective, `_posts/2018/2018-03-07-Barcelona.md`, covers the
+  same Barcelona trip. Cross-link it without replacing it or silently assuming
+  that its undated memories occurred on a particular day.
 
 ## Verification and publishing
 
