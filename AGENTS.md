@@ -161,6 +161,29 @@ own trip, using first-person, casual American English. Fix obvious typos.
   same Barcelona trip. Cross-link it without replacing it or silently assuming
   that its undated memories occurred on a particular day.
 
+## London 2015 notebook
+
+- `London 2015.mov` contains travel entries August 25–September 4, 2015. The
+  September 5 page is only book and film notes, not another travel day.
+- The video continues past the trip: a September 6 page is dated **2017**;
+  Murray's Cheese notes are from New York; later pages are shopping lists,
+  whiskey research, and the start of the Germany 2016 trip. Exclude them from
+  London 2015 posts and source photos.
+- The recording is sideways and mirrored. Rotate extracted photos 90 degrees
+  clockwise, then flip horizontally.
+
+## London November 2025 and Prince Edward Island 2026 notebook
+
+- `London Nov 2025 - PEI 2026.mov` contains two separate trips: London,
+  November 8–12, 2025, and Prince Edward Island, July 26–August 5, 2026.
+- The London entry between the dated November 9 and 11 entries has no visible
+  date heading. Assign November 10 by sequence and disclose that inference in
+  the summary. Keep this visit distinct from London in August 2025 using a
+  month-and-year tag alongside the generic `London` tag.
+- The source is horizontally mirrored. Flip extracted page photos so the
+  handwriting is readable. Do not infer events or lodging from the video's
+  recording date.
+
 ## Verification and publishing
 
 - Build Jekyll and check dates, tags, tally arithmetic, resolved links, and the

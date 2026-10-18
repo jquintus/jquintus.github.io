@@ -4,7 +4,7 @@ title: "Scotland, Day 16: Four Bears and a Bean"
 date: 2025-08-28
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "London Aug 2025", "England"]
 ---
 
 We went to [Tate Modern][tate]. The Rothko Room is still overwhelming. We saw Warhol's Marilyn Monroe prints, and Nelson Leirner's *Homage to Fontana II*, a playful riff on Fontana's work.

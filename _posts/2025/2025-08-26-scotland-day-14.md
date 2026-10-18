@@ -4,7 +4,7 @@ title: "Scotland, Day 14: Shakespeare Day"
 date: 2025-08-26
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "London Aug 2025", "England"]
 ---
 
 Breakfast at [Where The Pancakes Are][pancakes]. Pancakes, naturally.

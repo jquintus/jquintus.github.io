@@ -4,7 +4,7 @@ title: "Scotland and London: Scotch, Shows, and Where We Ate"
 date: 2025-08-31
 comments: true
 categories: [Travel, Food, Drink]
-tags: [Travel, Scotland_2025, Scotland, Scotch, Whisky, "Scotch Tasting", Edinburgh, Glasgow, Skye, Portree, Inverness, Dunkeld, Islay, Bowmore, Port Ellen, Inveraray, London, England, Argyll and Bute]
+tags: [Travel, Scotland_2025, Scotland, Scotch, Whisky, "Scotch Tasting", Edinburgh, Glasgow, Skye, Portree, Inverness, Dunkeld, Islay, Bowmore, Port Ellen, Inveraray, London, "London Aug 2025", England, Argyll and Bute]
 ---
 
 ## Scotch Tallies

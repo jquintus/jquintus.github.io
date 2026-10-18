@@ -4,7 +4,7 @@ title: "Scotland, Day 18: Portobello Road and the Footman"
 date: 2025-08-30
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "London Aug 2025", "England"]
 ---
 
 Portobello Road. Street where the riches of ages are stowed...

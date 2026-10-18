@@ -4,7 +4,7 @@ title: "Scotland, Day 17: Saving Marmalade Day"
 date: 2025-08-29
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "London Aug 2025", "England"]
 ---
 
 The [Paddington Bear Experience][paddington] was mayhaps geared toward a younger age bracket than Ksenia and I represented. Still a hoot.

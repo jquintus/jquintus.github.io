@@ -4,7 +4,7 @@ title: "Scotland, Day 15: Highgate, Posh Tea, and Totoro"
 date: 2025-08-27
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "London", "London Aug 2025", "England"]
 ---
 
 We stopped at [Archie's][archies] for breakfast on our way to [Highgate Cemetery][highgate]. I had a full English breakfast burrito. Ksenia had a yogurt parfait with coconut.

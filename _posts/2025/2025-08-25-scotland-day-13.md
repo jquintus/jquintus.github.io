@@ -4,7 +4,7 @@ title: "Scotland, Day 13: Edinburgh to London"
 date: 2025-08-25
 comments: true
 categories: [Travel, Food]
-tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Edinburgh", "London", "England"]
+tags: ["Travel", "Scotland_2025", "Scotland", "Scotch", "Whisky", "Edinburgh", "London", "London Aug 2025", "England"]
 ---
 
 We took the train from Edinburgh to London. A broken train ahead of us held us up for an hour, but we got a full refund.
