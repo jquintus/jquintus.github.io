@@ -18,7 +18,7 @@ Ksenia and I arrived on Prince Edward Island July 26 and stayed through August 2
 | [The Lost Anchor](https://www.lostanchorpei.com/) | Fish chowder full of fish and lobster, mussels, and excellent tiramisu and carrot-cake cheesecakes. We returned for another dinner. | ★★★★★ |
 | [Carr’s Oyster Bar](https://carrspei.ca/) | Lunch by the water in perfect weather, with oysters, fish chowder, shellfish, lobster and shrimp tacos. We came back for more seafood and strawberry champagne cheesecake. | — |
 | [Fisherman’s Wharf Lobster Suppers](https://fishermanswharf.ca/lobster-supper/) | The lobster and shrimp were good. The huge salad bar, chowder, mussels, and desserts were good for buffet food. | ★★★★☆ |
-| [Raspberry Point Oyster Bar](https://raspberrypoint.com/) | A fried oyster po’ boy for Ksenia and a lobster roll for me after the oyster-farm tour. | — |
+| [Raspberry Point Oyster Bar](https://raspberrypoint.com/) | A fried oyster po’ boy for Ksenia and a lobster roll for me after the oyster-farm tour. | ★★★★☆ |
 | [Blue Mussel Cafe](https://bluemusselcafe.com/) | Six oysters, mussels, and lobster rolls. | — |
 | [Malpeque Oyster Barn](https://www.tourismpei.com/attractions/malpeque-oyster-barn) | Ksenia had an oyster po’ boy; I had oyster chowder and did not like her po’ boy. | — |
 | [On the Dock](https://onthedockeatery.com/) | Oysters and mussels with a view in North Rustico. | — |
@@ -29,7 +29,7 @@ Ksenia and I arrived on Prince Edward Island July 26 and stayed through August 2
 | Place | What I thought | Rating |
 | --- | --- | --- |
 | [Founders’ Food Hall](https://foundersfoodhall.com/) | California roll burrito and prosciutto sandwich for a quick lunch. | — |
-| [Slaymaker & Nichols](https://slaymaker.ca/) | PEI mussels, mushroom appetizer, shrimp scampi, and my lobster BLT. | — |
+| [Slaymaker & Nichols](https://slaymaker.ca/) | PEI mussels, mushroom appetizer, shrimp scampi, and my lobster BLT. | ★★★★★ |
 | [Dave’s Lobster](https://www.daveslobster.com/) | Ksenia’s seafood roll and my half-local, half-fancy lobster roll. | — |
 | [Sea Rocket](https://searocket.ca/) | Mussels and truffle fries, lobster roll, lemon tart, and crème brûlée. | — |
 | [Cows](https://cows.ca/) | Blueberry and strawberry ice cream on one visit; we returned for more. | — |
@@ -38,13 +38,13 @@ Ksenia and I arrived on Prince Edward Island July 26 and stayed through August 2
 
 | Place | What I thought | Rating |
 | --- | --- | --- |
-| [Airline Brewing Company](https://www.airlinebrewing.com/) | Burger and scrambled eggs on the drive north. | — |
+| [Airline Brewing Company](https://www.airlinebrewing.com/) | Burger and scrambled eggs on the drive north. | ★★★☆☆ |
 
 ### New Brunswick
 
 | Place | What I thought | Rating |
 | --- | --- | --- |
-| [Oh! Fries Take-out Restaurant](https://www.tripadvisor.ca/Restaurant_Review-g15353587-d14972283-Reviews-Oh_Fries_Take_out_Restaurant-Hardy_New_Brunswick.html) | Much better than expected: great service and hot food. | ★★★★★ |
+| [Oh! Fries Take-out Restaurant](https://www.tripadvisor.ca/Restaurant_Review-g15353587-d14972283-Reviews-Oh_Fries_Take_out_Restaurant-Hardy_New_Brunswick.html) | A rest stop, not a sit-down restaurant. Great service and hot food; five stars for a rest stop. | ★★★★★ |
 | [Broadleaf Ranch](https://broadleafranch.ca/) | Dinner after the drive from PEI: burger, kebabs, and a memorable neighboring table’s nacho order. | — |
 | [Kelly’s Bake Shop](https://www.findglocal.com/CA/Alma/220118754683355/Kelly%27s-Bake-Shop) | My sticky bun and Ksenia’s cookies in Alma. | — |
 | [The Caves Restaurant](https://www.cavesrestaurant.com/) | Good counter-style seafood, a great waterfront view, fish and chips, and a lobster roll. | ★★★★☆ |

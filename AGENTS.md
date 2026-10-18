@@ -183,6 +183,10 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - The source is horizontally mirrored. Flip extracted page photos so the
   handwriting is readable. Do not infer events or lodging from the video's
   recording date.
+- Josh confirmed these PEI trip ratings: Slaymaker & Nichols **5/5**,
+  Raspberry Point Oyster Bar **4/5**, and Airline Brewing Company **3/5**.
+  Oh! Fries **5/5** was a rest stop, not a sit-down restaurant; give that
+  context whenever presenting its rating.
 
 ## Verification and publishing
 
