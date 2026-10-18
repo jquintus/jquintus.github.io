@@ -127,6 +127,16 @@ own trip, using first-person, casual American English. Fix obvious typos.
 - Do not infer a trip year from the video's file date. Verify the handwritten
   date on each day's page, including dates that start midway down a page.
 
+## Paris 2019 notebook
+
+- Keep this trip distinct from other Paris trips: use `Paris_2019` tags and a
+  `paris-2019` post and image prefix.
+- The video `Paris 2019.mov` covers August 25–September 6, 2019, on pages 1–61.
+  It begins in Aix-en-Provence and the surrounding Provence region, then moves
+  to Paris on September 4. All 13 days have dated entries.
+- This recording shows pages sideways and mirrored. Rotate and flip extracted
+  photos before publishing so the handwriting is readable.
+
 ## Verification and publishing
 
 - Build Jekyll and check dates, tags, tally arithmetic, resolved links, and the
